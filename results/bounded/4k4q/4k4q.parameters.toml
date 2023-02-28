@@ -1,0 +1,30 @@
+[FILES]
+INPUT = "/home/jvsguerra/remote-repos/HP1analysis/data/bounded/4k4q.pdb"
+BASE_NAME = "4k4q"
+OUTPUT_DIRECTORY = "/home/jvsguerra/remote-repos/HP1analysis/results/bounded/4k4q"
+DICTIONARY = "/home/jvsguerra/.local/lib/python3.10/site-packages/pyKVFinder/data/vdw.dat"
+
+[SETTINGS]
+STEP = 0.6
+
+[SETTINGS.MODES]
+BOX_ADJUSTMENT = false
+LIGAND_ADJUSTMENT = false
+DEPTH = true
+SURFACE = "SES"
+IGNORE_BACKBONE = false
+
+[SETTINGS.PROBES]
+PROBE_IN = 1.4
+PROBE_OUT = 12.0
+
+[SETTINGS.CUTOFFS]
+VOLUME_CUTOFF = 500.0
+LIGAND_CUTOFF = 5.0
+REMOVAL_DISTANCE = 2.4
+
+[SETTINGS.BOX]
+p1 = [ -43.72, -51.77, -10.66,]
+p2 = [ 33.15, -51.77, -10.66,]
+p3 = [ -43.72, 18.79, -10.66,]
+p4 = [ -43.72, -51.77, 59.09,]

@@ -1,0 +1,30 @@
+[FILES]
+INPUT = "/home/jvsguerra/remote-repos/HP1analysis/data/bounded/5cok.pdb"
+BASE_NAME = "5cok"
+OUTPUT_DIRECTORY = "/home/jvsguerra/remote-repos/HP1analysis/results/bounded/5cok"
+DICTIONARY = "/home/jvsguerra/.local/lib/python3.10/site-packages/pyKVFinder/data/vdw.dat"
+
+[SETTINGS]
+STEP = 0.6
+
+[SETTINGS.MODES]
+BOX_ADJUSTMENT = false
+LIGAND_ADJUSTMENT = false
+DEPTH = true
+SURFACE = "SES"
+IGNORE_BACKBONE = false
+
+[SETTINGS.PROBES]
+PROBE_IN = 1.4
+PROBE_OUT = 12.0
+
+[SETTINGS.CUTOFFS]
+VOLUME_CUTOFF = 500.0
+LIGAND_CUTOFF = 5.0
+REMOVAL_DISTANCE = 2.4
+
+[SETTINGS.BOX]
+p1 = [ -56.87, -35.02, -38.62,]
+p2 = [ 9.96, -35.02, -38.62,]
+p3 = [ -56.87, 34.89, -38.62,]
+p4 = [ -56.87, -35.02, 41.36,]

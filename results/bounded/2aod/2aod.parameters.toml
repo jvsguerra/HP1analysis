@@ -1,0 +1,30 @@
+[FILES]
+INPUT = "/home/jvsguerra/remote-repos/HP1analysis/data/bounded/2aod.pdb"
+BASE_NAME = "2aod"
+OUTPUT_DIRECTORY = "/home/jvsguerra/remote-repos/HP1analysis/results/bounded/2aod"
+DICTIONARY = "/home/jvsguerra/.local/lib/python3.10/site-packages/pyKVFinder/data/vdw.dat"
+
+[SETTINGS]
+STEP = 0.6
+
+[SETTINGS.MODES]
+BOX_ADJUSTMENT = false
+LIGAND_ADJUSTMENT = false
+DEPTH = true
+SURFACE = "SES"
+IGNORE_BACKBONE = false
+
+[SETTINGS.PROBES]
+PROBE_IN = 1.4
+PROBE_OUT = 12.0
+
+[SETTINGS.CUTOFFS]
+VOLUME_CUTOFF = 500.0
+LIGAND_CUTOFF = 5.0
+REMOVAL_DISTANCE = 2.4
+
+[SETTINGS.BOX]
+p1 = [ -16.35, -14.46, -18.99,]
+p2 = [ 44.9, -14.46, -18.99,]
+p3 = [ -16.35, 58.85, -18.99,]
+p4 = [ -16.35, -14.46, 58.33,]

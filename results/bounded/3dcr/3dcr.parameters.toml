@@ -1,0 +1,30 @@
+[FILES]
+INPUT = "/home/jvsguerra/remote-repos/HP1analysis/data/bounded/3dcr.pdb"
+BASE_NAME = "3dcr"
+OUTPUT_DIRECTORY = "/home/jvsguerra/remote-repos/HP1analysis/results/bounded/3dcr"
+DICTIONARY = "/home/jvsguerra/.local/lib/python3.10/site-packages/pyKVFinder/data/vdw.dat"
+
+[SETTINGS]
+STEP = 0.6
+
+[SETTINGS.MODES]
+BOX_ADJUSTMENT = false
+LIGAND_ADJUSTMENT = false
+DEPTH = true
+SURFACE = "SES"
+IGNORE_BACKBONE = false
+
+[SETTINGS.PROBES]
+PROBE_IN = 1.4
+PROBE_OUT = 12.0
+
+[SETTINGS.CUTOFFS]
+VOLUME_CUTOFF = 500.0
+LIGAND_CUTOFF = 5.0
+REMOVAL_DISTANCE = 2.4
+
+[SETTINGS.BOX]
+p1 = [ -45.71, -29.52, -49.89,]
+p2 = [ 35.5, -29.52, -49.89,]
+p3 = [ -45.71, 30.79, -49.89,]
+p4 = [ -45.71, -29.52, 14.88,]

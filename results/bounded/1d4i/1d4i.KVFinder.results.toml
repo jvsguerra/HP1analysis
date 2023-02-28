@@ -1,0 +1,47 @@
+# pyKVFinder results
+
+[FILES]
+INPUT = "/home/jvsguerra/remote-repos/HP1analysis/data/bounded/1d4i.pdb"
+OUTPUT = "/home/jvsguerra/remote-repos/HP1analysis/results/bounded/1d4i/1d4i.KVFinder.output.pdb"
+HYDROPATHY = "/home/jvsguerra/remote-repos/HP1analysis/results/bounded/1d4i/1d4i.EisenbergWeiss.pdb"
+
+[PARAMETERS]
+STEP = 0.6
+
+[RESULTS.VOLUME]
+KAA = 753.84
+
+[RESULTS.AREA]
+KAA = 503.96
+
+[RESULTS.MAX_DEPTH]
+KAA = 7.25
+
+[RESULTS.AVG_DEPTH]
+KAA = 3.02
+
+[RESULTS.AVG_HYDROPATHY]
+KAA = -0.49
+EisenbergWeiss = [ -1.42, 2.6,]
+
+[RESULTS.RESIDUES]
+KAA = [ [ "8", "A", "ARG",], [ "23", "A", "LEU",], [ "25", "A", "ASP",], [ "27", "A", "GLY",], [ "28", "A", "ALA",], [ "29", "A", "ASP",], [ "30", "A", "ASP",], [ "31", "A", "THR",], [ "32", "A", "VAL",], [ "47", "A", "ILE",], [ "48", "A", "GLY",], [ "49", "A", "GLY",], [ "50", "A", "ILE",], [ "52", "A", "GLY",], [ "76", "A", "LEU",], [ "81", "A", "PRO",], [ "82", "A", "VAL",], [ "84", "A", "ILE",], [ "108", "B", "ARG",], [ "123", "B", "LEU",], [ "125", "B", "ASP",], [ "127", "B", "GLY",], [ "128", "B", "ALA",], [ "129", "B", "ASP",], [ "130", "B", "ASP",], [ "131", "B", "THR",], [ "132", "B", "VAL",], [ "147", "B", "ILE",], [ "148", "B", "GLY",], [ "149", "B", "GLY",], [ "150", "B", "ILE",], [ "176", "B", "LEU",], [ "180", "B", "THR",], [ "181", "B", "PRO",], [ "182", "B", "VAL",], [ "184", "B", "ILE",],]
+
+[RESULTS.FREQUENCY.KAA.RESIDUES]
+ALA = 2
+ARG = 2
+ASP = 6
+GLY = 7
+ILE = 6
+LEU = 4
+PRO = 2
+THR = 3
+VAL = 4
+
+[RESULTS.FREQUENCY.KAA.CLASS]
+R1 = 25
+R2 = 0
+R3 = 3
+R4 = 6
+R5 = 2
+RX = 0

@@ -1,0 +1,114 @@
+CRYST1   51.200   58.077   61.658  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  CA  KVS B 101      -6.221  -8.091 -18.109  1.00 15.21           C  
+HETATM    2  CA1 KVS B 101      -7.396  -4.886 -16.384  1.00 12.45           C  
+HETATM    3  CA2 KVS B 101      -4.372  -2.520 -15.861  1.00 15.18           C  
+HETATM    4  CA3 KVS B 101      -3.278   1.697 -11.485  1.00 11.83           C  
+HETATM    5  CA4 KVS B 101      -3.168   4.459  -8.838  1.00 19.53           C  
+HETATM    6  C   KVS B 101      -4.291  -8.871 -16.777  1.00 19.02           C  
+HETATM    7  O   KVS B 101      -3.473  -8.535 -17.658  1.00 21.97           O  
+HETATM    8  OA  KVS B 101      -5.039  -0.357 -16.923  1.00 17.51           O  
+HETATM    9  CB  KVS B 101      -7.325  -8.942 -18.689  1.00 16.38           C  
+HETATM   10  CB1 KVS B 101      -8.661  -4.940 -15.520  1.00 13.85           C  
+HETATM   11  CB2 KVS B 101      -3.139  -2.782 -16.742  1.00 15.63           C  
+HETATM   12  CB3 KVS B 101      -1.934   1.266 -12.019  1.00 12.38           C  
+HETATM   13  CB4 KVS B 101      -4.587   4.664  -8.342  1.00 22.49           C  
+HETATM   14  OB  KVS B 101      -3.548  -0.282 -15.099  1.00 15.82           O  
+HETATM   15  CG  KVS B 101      -2.784  -4.274 -16.975  1.00 15.06           C  
+HETATM   16  CG1 KVS B 101      -9.720  -5.868 -16.080  1.00 13.78           C  
+HETATM   17  CG2 KVS B 101      -6.763 -10.320 -19.068  1.00 18.86           C  
+HETATM   18  CG3 KVS B 101      -9.274  -3.528 -15.356  1.00 15.55           C  
+HETATM   19  CG4 KVS B 101      -0.799   1.402 -11.007  1.00 12.02           C  
+HETATM   20  CG5 KVS B 101      -5.333   5.715  -9.148  1.00 26.23           C  
+HETATM   21  OG1 KVS B 101      -8.410  -9.074 -17.760  1.00 17.78           O  
+HETATM   22  CD1 KVS B 101     -10.260  -5.528 -17.481  1.00 16.14           C  
+HETATM   23  CD2 KVS B 101      -2.687  -5.107 -15.681  1.00 17.19           C  
+HETATM   24  CD3 KVS B 101      -0.219   2.789 -10.869  1.00 12.75           C  
+HETATM   25  CD4 KVS B 101      -5.712   6.946  -8.306  1.00 28.15           C  
+HETATM   26  CE  KVS B 101      -1.683  -4.431 -14.774  1.00 18.59           C  
+HETATM   27  NE2 KVS B 101       0.357   3.123  -9.732  1.00 13.42           N  
+HETATM   28  NE5 KVS B 101      -5.209   8.151  -8.953  1.00 21.80           N  
+HETATM   29  OE1 KVS B 101      -0.259   3.548 -11.819  1.00 15.85           O  
+HETATM   30  CZ  KVS B 101      -5.938  -0.821 -14.738  1.00 13.90           C  
+HETATM   31  CZ1 KVS B 101      -5.894   9.191  -9.337  1.00 26.98           C  
+HETATM   32  CH3 KVS B 101      -3.871  -9.553 -15.510  1.00 20.23           C  
+HETATM   33  NH1 KVS B 101      -7.183   9.400  -8.992  1.00 26.55           N  
+HETATM   34  NH2 KVS B 101      -5.254  10.048 -10.150  1.00 32.51           N  
+HETATM   35  CJ  KVS B 101      -6.000   0.465 -13.959  1.00 13.80           C  
+HETATM   36  CL  KVS B 101      -7.415   0.683 -13.436  1.00 18.93           C  
+HETATM   37  CX  KVS B 101      -7.643   1.943 -12.583  1.00 22.37           C  
+HETATM   38  C1  KVS B 101      -6.802  -6.665 -17.916  1.00 13.95           C  
+HETATM   39  N1  KVS B 101      -5.606  -8.707 -16.942  1.00 16.54           N  
+HETATM   40  O1  KVS B 101      -7.139  -6.015 -18.896  1.00 13.40           O  
+HETATM   41  C2  KVS B 101      -6.319  -4.098 -15.651  1.00 14.36           C  
+HETATM   42  N2  KVS B 101      -6.876  -6.187 -16.685  1.00 13.12           N  
+HETATM   43  O2  KVS B 101      -6.161  -4.219 -14.414  1.00 13.56           O  
+HETATM   44  C3  KVS B 101      -4.959   0.426 -12.868  1.00 13.88           C  
+HETATM   45  N3  KVS B 101      -5.485  -3.246 -16.462  1.00 15.25           N  
+HETATM   46  O3  KVS B 101      -4.706  -0.545 -12.101  1.00 14.48           O  
+HETATM   47  C4  KVS B 101      -3.277   3.084 -10.880  1.00 11.67           C  
+HETATM   48  N4  KVS B 101      -4.303   1.607 -12.536  1.00 12.67           N  
+HETATM   49  O4  KVS B 101      -3.346   4.120 -11.606  1.00 12.19           O  
+HETATM   50  C5  KVS B 101      -2.154   4.325  -7.766  1.00 20.86           C  
+HETATM   51  N5  KVS B 101      -3.250   3.195  -9.554  1.00 16.63           N  
+HETATM   52  O5  KVS B 101      -2.023   3.319  -7.167  1.00 19.45           O  
+HETATM   53  N6  KVS B 101      -1.348   5.330  -7.443  1.00 24.10           N  
+HETATM   54  CV  KVS B 101      -7.608   1.473 -11.133  1.00 24.89           C  
+HETATM   55  CW  KVS B 101      -4.721  -1.058 -15.633  1.00 16.12           C  
+HETATM   56  CY  KVS B 101      -8.856   0.677 -10.689  1.00 26.44           C  
+CONECT    1    9   38   39
+CONECT    2   10   41   42
+CONECT    3   11   45   55
+CONECT    4   12   47   48
+CONECT    5   13   50   51
+CONECT    6    7   32   39
+CONECT    7    6
+CONECT    8   55
+CONECT    9    1   17   21
+CONECT   10    2   16   18
+CONECT   11    3   15
+CONECT   12    4   19
+CONECT   13    5   20
+CONECT   14   55
+CONECT   15   11   23
+CONECT   16   10   22
+CONECT   17    9
+CONECT   18   10
+CONECT   19   12   24
+CONECT   20   13   25
+CONECT   21    9
+CONECT   22   16
+CONECT   23   15   26
+CONECT   24   19   27   29
+CONECT   25   20   28
+CONECT   26   23
+CONECT   27   24
+CONECT   28   25   31
+CONECT   29   24
+CONECT   30   35   55
+CONECT   31   28   33   34
+CONECT   32    6
+CONECT   33   31
+CONECT   34   31
+CONECT   35   30   36   44
+CONECT   36   35   37
+CONECT   37   36   54
+CONECT   38    1   40   42
+CONECT   39    1    6
+CONECT   40   38
+CONECT   41    2   43   45
+CONECT   42    2   38
+CONECT   43   41
+CONECT   44   35   46   48
+CONECT   45    3   41
+CONECT   46   44
+CONECT   47    4   49   51
+CONECT   48    4   44
+CONECT   49   47
+CONECT   50    5   52   53
+CONECT   51    5   47
+CONECT   52   50
+CONECT   53   50
+CONECT   54   37   56
+CONECT   55    3    8   14   30
+CONECT   56   54
+END

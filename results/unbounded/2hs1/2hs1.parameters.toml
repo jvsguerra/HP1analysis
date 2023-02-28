@@ -1,0 +1,30 @@
+[FILES]
+INPUT = "/home/jvsguerra/remote-repos/HP1analysis/data/unbounded/2hs1.pdb"
+BASE_NAME = "2hs1"
+OUTPUT_DIRECTORY = "/home/jvsguerra/remote-repos/HP1analysis/results/unbounded/2hs1"
+DICTIONARY = "/home/jvsguerra/.local/lib/python3.10/site-packages/pyKVFinder/data/vdw.dat"
+
+[SETTINGS]
+STEP = 0.6
+
+[SETTINGS.MODES]
+BOX_ADJUSTMENT = false
+LIGAND_ADJUSTMENT = false
+DEPTH = true
+SURFACE = "SES"
+IGNORE_BACKBONE = false
+
+[SETTINGS.PROBES]
+PROBE_IN = 1.4
+PROBE_OUT = 12.0
+
+[SETTINGS.CUTOFFS]
+VOLUME_CUTOFF = 500.0
+LIGAND_CUTOFF = 5.0
+REMOVAL_DISTANCE = 2.4
+
+[SETTINGS.BOX]
+p1 = [ -30.77, -28.77, -6.49,]
+p2 = [ 32.72, -28.77, -6.49,]
+p3 = [ -30.77, 37.82, -6.49,]
+p4 = [ -30.77, -28.77, 79.79,]
