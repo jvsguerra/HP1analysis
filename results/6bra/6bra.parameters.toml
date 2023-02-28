@@ -1,0 +1,30 @@
+[FILES]
+INPUT = "/Users/jvsguerra/remote-repos/hiv-1-protease-analysis/data/bounded/6bra.pdb"
+BASE_NAME = "6bra"
+OUTPUT_DIRECTORY = "/Users/jvsguerra/remote-repos/hiv-1-protease-analysis/results/6bra"
+DICTIONARY = "/usr/local/lib/python3.11/site-packages/pyKVFinder/data/vdw.dat"
+
+[SETTINGS]
+STEP = 0.6
+
+[SETTINGS.MODES]
+BOX_ADJUSTMENT = false
+LIGAND_ADJUSTMENT = false
+DEPTH = true
+SURFACE = "SES"
+IGNORE_BACKBONE = false
+
+[SETTINGS.PROBES]
+PROBE_IN = 1.4
+PROBE_OUT = 8.0
+
+[SETTINGS.CUTOFFS]
+VOLUME_CUTOFF = 5.0
+LIGAND_CUTOFF = 5.0
+REMOVAL_DISTANCE = 2.4
+
+[SETTINGS.BOX]
+p1 = [ -12.17, -10.23, -14.76,]
+p2 = [ 41.3, -10.23, -14.76,]
+p3 = [ -12.17, 56.43, -14.76,]
+p4 = [ -12.17, -10.23, 53.74,]

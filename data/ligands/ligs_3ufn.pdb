@@ -1,0 +1,296 @@
+CRYST1   28.830   66.260   93.167  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  N   ROC A 401       9.579  -8.271  -5.269  1.00  9.48           N  
+ANISOU    1  N   ROC A 401     1043   1547   1011    -81    268    127       N  
+HETATM    2  CA  ROC A 401      10.942  -7.729  -5.240  1.00  7.17           C  
+ANISOU    2  CA  ROC A 401      975   1028    721     53     40    126       C  
+HETATM    3  CA1 ROC A 401      12.165  -7.140  -8.774  1.00  8.44           C  
+ANISOU    3  CA1 ROC A 401     1157   1274    776   -144    134    -54       C  
+HETATM    4  C   ROC A 401       8.501  -7.570  -4.942  1.00  8.90           C  
+ANISOU    4  C   ROC A 401      926   1337   1120   -295    165   -136       C  
+HETATM    5  O   ROC A 401       8.562  -6.372  -4.552  1.00 10.73           O  
+ANISOU    5  O   ROC A 401     1202   1504   1370   -462    318   -423       O  
+HETATM    6  CB  ROC A 401      11.749  -8.323  -4.100  1.00  8.54           C  
+ANISOU    6  CB  ROC A 401     1379   1029    838    483     58    242       C  
+HETATM    7  CB1 ROC A 401      11.044  -6.975  -9.804  1.00 10.12           C  
+ANISOU    7  CB1 ROC A 401     1487   1340   1016   -146   -191   -161       C  
+HETATM    8  CG  ROC A 401      11.059  -7.973  -2.829  1.00 12.43           C  
+ANISOU    8  CG  ROC A 401     2215   1762    746    700    143    190       C  
+HETATM    9  CG1 ROC A 401       9.848  -7.869  -9.472  1.00 10.63           C  
+ANISOU    9  CG1 ROC A 401     1241   1527   1273    -46   -190   -132       C  
+HETATM   10  CD  ROC A 401      13.127  -8.993 -14.048  1.00 12.82           C  
+ANISOU   10  CD  ROC A 401     1608   2508    755   -347    -68     -6       C  
+HETATM   11  CD1 ROC A 401       9.837  -9.206  -9.847  1.00 10.65           C  
+ANISOU   11  CD1 ROC A 401     1337   1500   1211   -252    -91    -95       C  
+HETATM   12  CD2 ROC A 401       8.744  -7.344  -8.793  1.00 12.08           C  
+ANISOU   12  CD2 ROC A 401     1056   1826   1708    188   -387   -202       C  
+HETATM   13  ND2 ROC A 401      10.276  -8.823  -2.225  1.00 14.89           N  
+ANISOU   13  ND2 ROC A 401     2183   2537    938    659    421    476       N  
+HETATM   14  OD1 ROC A 401      11.186  -6.853  -2.313  1.00 14.60           O  
+ANISOU   14  OD1 ROC A 401     2171   2278   1100    793    -89   -431       O  
+HETATM   15  CE1 ROC A 401       8.758 -10.006  -9.520  1.00 11.28           C  
+ANISOU   15  CE1 ROC A 401     1301   1682   1304   -227    -95    -36       C  
+HETATM   16  CE2 ROC A 401       7.658  -8.146  -8.485  1.00 11.66           C  
+ANISOU   16  CE2 ROC A 401     1227   2248    955     36   -259   -277       C  
+HETATM   17  CZ  ROC A 401       7.666  -9.500  -8.816  1.00 11.42           C  
+ANISOU   17  CZ  ROC A 401     1198   2103   1037   -133   -260     35       C  
+HETATM   18  CM  ROC A 401      14.165  -6.332 -10.191  1.00 10.02           C  
+ANISOU   18  CM  ROC A 401     1075   1558   1176   -104    251    -75       C  
+HETATM   19  C1  ROC A 401      11.649  -8.052  -6.569  1.00  7.69           C  
+ANISOU   19  C1  ROC A 401      846   1273    803    127     87     39       C  
+HETATM   20  N1  ROC A 401       7.231  -9.569  -5.417  1.00 11.19           N  
+ANISOU   20  N1  ROC A 401     1342   1521   1388   -548    -82   -122       N  
+HETATM   21  O1  ROC A 401      12.174  -9.148  -6.758  1.00 10.82           O  
+ANISOU   21  O1  ROC A 401     1733   1389    988    429    -19   -154       O  
+HETATM   22  C2  ROC A 401       7.215  -8.264  -5.061  1.00 11.00           C  
+ANISOU   22  C2  ROC A 401     1028   1588   1563   -453    128   -286       C  
+HETATM   23  N2  ROC A 401      11.634  -7.005  -7.426  1.00  8.39           N  
+ANISOU   23  N2  ROC A 401     1195   1181    813   -193    225      7       N  
+HETATM   24  O2  ROC A 401      12.819  -4.815  -8.928  1.00 10.00           O  
+ANISOU   24  O2  ROC A 401     1423   1151   1224    -14    109    -13       O  
+HETATM   25  C3  ROC A 401       5.994  -7.580  -4.974  1.00 11.42           C  
+ANISOU   25  C3  ROC A 401      934   2105   1300   -409    304   -440       C  
+HETATM   26  C3A ROC A 401      17.732  -8.652 -10.048  1.00 13.84           C  
+ANISOU   26  C3A ROC A 401      925   2406   1926    367   -178    209       C  
+HETATM   27  N3  ROC A 401      14.176  -8.556 -13.142  1.00 10.50           N  
+ANISOU   27  N3  ROC A 401     1161   1894    933    353   -242    199       N  
+HETATM   28  O3  ROC A 401      13.504  -9.448 -11.158  1.00 10.67           O  
+ANISOU   28  O3  ROC A 401     1585   1386   1081    -66    -87      7       O  
+HETATM   29  C4  ROC A 401       4.797  -8.249  -5.229  1.00 14.98           C  
+ANISOU   29  C4  ROC A 401     1029   2333   2331   -501    167   -626       C  
+HETATM   30  C4A ROC A 401       4.846  -9.583  -5.643  1.00 16.52           C  
+ANISOU   30  C4A ROC A 401     1330   1815   3132   -634    -61     72       C  
+HETATM   31  C5  ROC A 401       3.681 -10.296  -5.946  1.00 19.44           C  
+ANISOU   31  C5  ROC A 401     1445   2187   3755   -595   -533   -289       C  
+HETATM   32  C6  ROC A 401       3.805 -11.637  -6.272  1.00 18.34           C  
+ANISOU   32  C6  ROC A 401     1816   2149   3005   -638   -951   -202       C  
+HETATM   33  C7  ROC A 401       5.048 -12.263  -6.258  1.00 13.85           C  
+ANISOU   33  C7  ROC A 401     1774   1889   1598   -728   -673   -347       C  
+HETATM   34  C7A ROC A 401      17.389  -7.707  -8.873  1.00 13.49           C  
+ANISOU   34  C7A ROC A 401     1482   2191   1453    -56   -225    461       C  
+HETATM   35  C8  ROC A 401       6.290 -11.728  -6.084  1.00 12.59           C  
+ANISOU   35  C8  ROC A 401     1669   1674   1441   -753    -95   -166       C  
+HETATM   36  C8A ROC A 401       6.089 -10.238  -5.726  1.00 12.56           C  
+ANISOU   36  C8A ROC A 401     1349   1627   1794   -676    -58    -16       C  
+HETATM   37  C9  ROC A 401      13.321  -6.137  -8.943  1.00  8.59           C  
+ANISOU   37  C9  ROC A 401     1104   1194    965    -58    136    265       C  
+HETATM   38  C11 ROC A 401      13.318  -8.292 -15.396  1.00 21.75           C  
+ANISOU   38  C11 ROC A 401     2243   4989   1031   -113   -452   1074       C  
+HETATM   39  N11 ROC A 401      15.188  -7.307  -9.940  1.00 10.64           N  
+ANISOU   39  N11 ROC A 401     1107   1620   1316    -96     42   -217       N  
+HETATM   40  C21 ROC A 401      15.532  -8.109 -11.161  1.00  9.94           C  
+ANISOU   40  C21 ROC A 401     1099   1603   1075    233   -171    -20       C  
+HETATM   41  C22 ROC A 401      13.247 -10.471 -14.298  1.00 18.07           C  
+ANISOU   41  C22 ROC A 401     1814   2748   2305   -279    340   -838       C  
+HETATM   42  C31 ROC A 401      16.503  -9.203 -10.724  1.00 11.28           C  
+ANISOU   42  C31 ROC A 401      975   1821   1489    280     44    299       C  
+HETATM   43  C32 ROC A 401      11.756  -8.704 -13.499  1.00 12.49           C  
+ANISOU   43  C32 ROC A 401     1263   2078   1405   -113   -457    193       C  
+HETATM   44  C41 ROC A 401      18.673  -9.749  -9.567  1.00 19.27           C  
+ANISOU   44  C41 ROC A 401     1326   3356   2640    965   -225    589       C  
+HETATM   45  C51 ROC A 401      18.236 -10.416  -8.282  1.00 21.07           C  
+ANISOU   45  C51 ROC A 401     2172   3210   2624    436   -762    800       C  
+HETATM   46  C61 ROC A 401      17.984  -9.412  -7.174  1.00 19.23           C  
+ANISOU   46  C61 ROC A 401     2308   3094   1904   -343  -1017    976       C  
+HETATM   47  C71 ROC A 401      16.911  -8.458  -7.643  1.00 15.80           C  
+ANISOU   47  C71 ROC A 401     2212   2386   1403   -402   -551    636       C  
+HETATM   48  C81 ROC A 401      16.381  -6.687  -9.367  1.00 11.33           C  
+ANISOU   48  C81 ROC A 401     1444   1394   1469   -249   -287     89       C  
+HETATM   49  CC  ROC A 401      14.304  -8.762 -11.837  1.00  9.29           C  
+ANISOU   49  CC  ROC A 401     1284   1291    954    216   -235    135       C  
+HETATM   50  N   ROC A 402      26.310  -6.287 -11.861  1.00 15.05           N  
+ANISOU   50  N   ROC A 402     1028   2095   2595     15   -158   -744       N  
+HETATM   51  CA  ROC A 402      27.726  -5.885 -11.858  1.00 13.93           C  
+ANISOU   51  CA  ROC A 402     1049   1432   2812     20   -115   -433       C  
+HETATM   52  CA1 ROC A 402      28.992  -9.230 -10.439  1.00 14.11           C  
+ANISOU   52  CA1 ROC A 402     2033   1727   1600    414    -35   -601       C  
+HETATM   53  C   ROC A 402      25.849  -7.114 -12.828  1.00 13.93           C  
+ANISOU   53  C   ROC A 402     1070   2530   1692   -394    231   -437       C  
+HETATM   54  O   ROC A 402      26.623  -7.634 -13.665  1.00 14.59           O  
+ANISOU   54  O   ROC A 402     1407   2075   2060     88    435   -218       O  
+HETATM   55  CB  ROC A 402      27.934  -4.860 -10.769  1.00 17.22           C  
+ANISOU   55  CB  ROC A 402     1307   1393   3845    147   -346   -932       C  
+HETATM   56  CB1 ROC A 402      29.334  -9.274  -8.962  1.00 15.90           C  
+ANISOU   56  CB1 ROC A 402     2255   2060   1724   -176   -291   -186       C  
+HETATM   57  CG  ROC A 402      27.452  -3.532 -11.278  1.00 19.02           C  
+ANISOU   57  CG  ROC A 402     1477   1362   4389     14    281   -421       C  
+HETATM   58  CG1 ROC A 402      30.381  -8.225  -8.619  1.00 14.69           C  
+ANISOU   58  CG1 ROC A 402     1954   1913   1715    -21   -284    -44       C  
+HETATM   59  CD  ROC A 402      22.859 -11.664 -11.412  1.00 18.91           C  
+ANISOU   59  CD  ROC A 402     2276   2729   2180   -942    704      5       C  
+HETATM   60  CD1 ROC A 402      29.955  -6.951  -8.255  1.00 14.46           C  
+ANISOU   60  CD1 ROC A 402     1966   2115   1411     26   -319   -359       C  
+HETATM   61  CD2 ROC A 402      31.733  -8.559  -8.643  1.00 17.18           C  
+ANISOU   61  CD2 ROC A 402     2023   2049   2458    148   -322    158       C  
+HETATM   62  ND2 ROC A 402      27.543  -2.445 -10.548  1.00 21.24           N  
+ANISOU   62  ND2 ROC A 402     1676   1145   5250   -341    339   -497       N  
+HETATM   63  OD1 ROC A 402      26.972  -3.436 -12.418  1.00 24.19           O  
+ANISOU   63  OD1 ROC A 402     2187   1609   5395   -157   -990    -67       O  
+HETATM   64  CE1 ROC A 402      30.924  -6.013  -7.944  1.00 14.11           C  
+ANISOU   64  CE1 ROC A 402     2071   1824   1465   -136     47    133       C  
+HETATM   65  CE2 ROC A 402      32.696  -7.587  -8.373  1.00 16.83           C  
+ANISOU   65  CE2 ROC A 402     1876   2629   1887     84   -291   -372       C  
+HETATM   66  CZ  ROC A 402      32.287  -6.312  -8.012  1.00 15.32           C  
+ANISOU   66  CZ  ROC A 402     2006   2439   1377   -123   -307   -196       C  
+HETATM   67  CM  ROC A 402      27.820 -10.465 -12.365  1.00 15.39           C  
+ANISOU   67  CM  ROC A 402     1918   2094   1835    447    -18   -871       C  
+HETATM   68  C1  ROC A 402      28.630  -7.085 -11.550  1.00 12.65           C  
+ANISOU   68  C1  ROC A 402     1211   1595   2003    285    168   -558       C  
+HETATM   69  N1  ROC A 402      23.654  -6.700 -11.895  1.00 13.95           N  
+ANISOU   69  N1  ROC A 402     1049   1835   2416    196     45   -245       N  
+HETATM   70  O1  ROC A 402      29.762  -7.137 -12.055  1.00 14.65           O  
+ANISOU   70  O1  ROC A 402     1130   2255   2182    353     90   -136       O  
+HETATM   71  C2  ROC A 402      24.409  -7.397 -12.784  1.00 13.71           C  
+ANISOU   71  C2  ROC A 402      880   2087   2242     72   -141   -402       C  
+HETATM   72  N2  ROC A 402      28.177  -8.047 -10.714  1.00 13.54           N  
+ANISOU   72  N2  ROC A 402     1352   1818   1976    225     18   -341       N  
+HETATM   73  O2  ROC A 402      29.122 -11.641 -10.773  1.00 16.67           O  
+ANISOU   73  O2  ROC A 402     2793   1498   2041     78    366    159       O  
+HETATM   74  C3  ROC A 402      23.788  -8.068 -13.857  1.00 13.09           C  
+ANISOU   74  C3  ROC A 402     1128   1885   1962    -29   -285     -9       C  
+HETATM   75  C3A ROC A 402      26.999 -13.566 -15.198  1.00 15.83           C  
+ANISOU   75  C3A ROC A 402     2368   1698   1948   -281    845   -267       C  
+HETATM   76  N3  ROC A 402      23.963 -11.714 -12.350  1.00 16.59           N  
+ANISOU   76  N3  ROC A 402     2391   2068   1845   -455    625    -84       N  
+HETATM   77  O3  ROC A 402      25.749 -12.320 -11.017  1.00 18.74           O  
+ANISOU   77  O3  ROC A 402     2967   2247   1906   -577    217     -7       O  
+HETATM   78  C4  ROC A 402      22.408  -8.058 -13.949  1.00 12.31           C  
+ANISOU   78  C4  ROC A 402     1098   1914   1667    -92   -144     -6       C  
+HETATM   79  C4A ROC A 402      21.632  -7.336 -13.036  1.00 11.24           C  
+ANISOU   79  C4A ROC A 402     1347   1389   1536     18    -25    357       C  
+HETATM   80  C5  ROC A 402      20.257  -7.217 -13.240  1.00 10.82           C  
+ANISOU   80  C5  ROC A 402     1386   1933    793    147      2    223       C  
+HETATM   81  C6  ROC A 402      19.532  -6.476 -12.331  1.00 12.99           C  
+ANISOU   81  C6  ROC A 402     1489   2618    830    -41    323     83       C  
+HETATM   82  C7  ROC A 402      20.140  -5.846 -11.273  1.00 13.93           C  
+ANISOU   82  C7  ROC A 402     1177   2459   1656    -15    354   -535       C  
+HETATM   83  C7A ROC A 402      28.463 -13.270 -14.795  1.00 14.60           C  
+ANISOU   83  C7A ROC A 402     2327   1549   1673    513    403   -500       C  
+HETATM   84  C8  ROC A 402      21.551  -5.850 -11.026  1.00 12.97           C  
+ANISOU   84  C8  ROC A 402     1134   2441   1352    -69    470    137       C  
+HETATM   85  C8A ROC A 402      22.265  -6.674 -11.991  1.00 10.70           C  
+ANISOU   85  C8A ROC A 402     1057   1416   1593    217      1    263       C  
+HETATM   86  C9  ROC A 402      28.271 -10.507 -10.924  1.00 14.08           C  
+ANISOU   86  C9  ROC A 402     1777   1902   1672    159    327   -658       C  
+HETATM   87  C11 ROC A 402      23.024 -10.520 -10.446  1.00 19.93           C  
+ANISOU   87  C11 ROC A 402     2039   3113   2420    847    158   -535       C  
+HETATM   88  N11 ROC A 402      27.621 -11.777 -12.953  1.00 15.37           N  
+ANISOU   88  N11 ROC A 402     2101   2071   1666    366    389   -810       N  
+HETATM   89  C21 ROC A 402      26.194 -12.022 -13.355  1.00 17.38           C  
+ANISOU   89  C21 ROC A 402     2347   2424   1832   -345    460   -716       C  
+HETATM   90  C22 ROC A 402      22.735 -12.968 -10.664  1.00 24.96           C  
+ANISOU   90  C22 ROC A 402     4062   3249   2173   -753   1147    462       C  
+HETATM   91  C31 ROC A 402      26.080 -13.408 -14.002  1.00 17.27           C  
+ANISOU   91  C31 ROC A 402     2734   2071   1756   -535    860   -348       C  
+HETATM   92  C32 ROC A 402      21.576 -11.383 -12.181  1.00 21.70           C  
+ANISOU   92  C32 ROC A 402     2505   3319   2421    -26    531   -816       C  
+HETATM   93  C41 ROC A 402      26.911 -14.960 -15.804  1.00 17.43           C  
+ANISOU   93  C41 ROC A 402     2885   1801   1938   -228    648   -351       C  
+HETATM   94  C51 ROC A 402      27.531 -16.027 -14.912  1.00 20.87           C  
+ANISOU   94  C51 ROC A 402     4220   1708   2002     13    700   -288       C  
+HETATM   95  C61 ROC A 402      28.973 -15.703 -14.578  1.00 21.21           C  
+ANISOU   95  C61 ROC A 402     4291   1610   2158    562    -18    -11       C  
+HETATM   96  C71 ROC A 402      29.063 -14.344 -13.921  1.00 19.36           C  
+ANISOU   96  C71 ROC A 402     3540   1471   2345    370    358     69       C  
+HETATM   97  C81 ROC A 402      28.489 -11.903 -14.131  1.00 13.94           C  
+ANISOU   97  C81 ROC A 402     2315   1477   1502    327    382   -350       C  
+HETATM   98  CC  ROC A 402      25.245 -12.032 -12.114  1.00 15.63           C  
+ANISOU   98  CC  ROC A 402     2282   2010   1646   -715    329   -594       C  
+CONECT    1    2    4
+CONECT    2    1    6   19
+CONECT    3    7   23   37
+CONECT    4    1    5   22
+CONECT    5    4
+CONECT    6    2    8
+CONECT    7    3    9
+CONECT    8    6   13   14
+CONECT    9    7   11   12
+CONECT   10   38   41   43   27
+CONECT   11    9   15
+CONECT   12    9   16
+CONECT   13    8
+CONECT   14    8
+CONECT   15   11   17
+CONECT   16   12   17
+CONECT   17   15   16
+CONECT   18   37   39
+CONECT   19    2   21   23
+CONECT   20   22   36
+CONECT   21   19
+CONECT   22    4   20   25
+CONECT   23    3   19
+CONECT   24   37
+CONECT   25   22   29
+CONECT   26   34   44   42
+CONECT   27   10   49
+CONECT   28   49
+CONECT   29   25   30
+CONECT   30   29   36   31
+CONECT   31   30   32
+CONECT   32   31   33
+CONECT   33   32   35
+CONECT   34   26   48   47
+CONECT   35   33   36
+CONECT   36   20   30   35
+CONECT   37    3   18   24
+CONECT   38   10
+CONECT   39   18   40   48
+CONECT   40   39   42   49
+CONECT   41   10
+CONECT   42   40   26
+CONECT   43   10
+CONECT   44   26   45
+CONECT   45   44   46
+CONECT   46   45   47
+CONECT   47   46   34
+CONECT   48   34   39
+CONECT   49   40   27   28
+CONECT   50   51   53
+CONECT   51   50   55   68
+CONECT   52   56   72   86
+CONECT   53   50   54   71
+CONECT   54   53
+CONECT   55   51   57
+CONECT   56   52   58
+CONECT   57   55   62   63
+CONECT   58   56   60   61
+CONECT   59   87   90   92   76
+CONECT   60   58   64
+CONECT   61   58   65
+CONECT   62   57
+CONECT   63   57
+CONECT   64   60   66
+CONECT   65   61   66
+CONECT   66   64   65
+CONECT   67   86   88
+CONECT   68   51   70   72
+CONECT   69   71   85
+CONECT   70   68
+CONECT   71   53   69   74
+CONECT   72   52   68
+CONECT   73   86
+CONECT   74   71   78
+CONECT   75   83   93   91
+CONECT   76   59   98
+CONECT   77   98
+CONECT   78   74   79
+CONECT   79   78   85   80
+CONECT   80   79   81
+CONECT   81   80   82
+CONECT   82   81   84
+CONECT   83   75   97   96
+CONECT   84   82   85
+CONECT   85   69   79   84
+CONECT   86   52   67   73
+CONECT   87   59
+CONECT   88   67   89   97
+CONECT   89   88   91   98
+CONECT   90   59
+CONECT   91   89   75
+CONECT   92   59
+CONECT   93   75   94
+CONECT   94   93   95
+CONECT   95   94   96
+CONECT   96   95   83
+CONECT   97   83   88
+CONECT   98   89   76   77
+END

@@ -1,0 +1,30 @@
+[FILES]
+INPUT = "/Users/jvsguerra/remote-repos/hiv-1-protease-analysis/data/bounded/1cpi.pdb"
+BASE_NAME = "1cpi"
+OUTPUT_DIRECTORY = "/Users/jvsguerra/remote-repos/hiv-1-protease-analysis/results/1cpi"
+DICTIONARY = "/usr/local/lib/python3.11/site-packages/pyKVFinder/data/vdw.dat"
+
+[SETTINGS]
+STEP = 0.6
+
+[SETTINGS.MODES]
+BOX_ADJUSTMENT = false
+LIGAND_ADJUSTMENT = false
+DEPTH = true
+SURFACE = "SES"
+IGNORE_BACKBONE = false
+
+[SETTINGS.PROBES]
+PROBE_IN = 1.4
+PROBE_OUT = 8.0
+
+[SETTINGS.CUTOFFS]
+VOLUME_CUTOFF = 5.0
+LIGAND_CUTOFF = 5.0
+REMOVAL_DISTANCE = 2.4
+
+[SETTINGS.BOX]
+p1 = [ -30.24, -25.49, -10.85,]
+p2 = [ 41.69, -25.49, -10.85,]
+p3 = [ -30.24, 27.24, -10.85,]
+p4 = [ -30.24, -25.49, 45.79,]

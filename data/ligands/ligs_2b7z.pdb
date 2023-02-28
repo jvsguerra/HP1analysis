@@ -1,0 +1,182 @@
+CRYST1   61.831   61.831   84.033  90.00  90.00 120.00 P 61          1
+HETATM    1  C1 AMK1 B 200       5.749  16.916  12.646  0.50 14.69           C  
+HETATM    2  C1 BMK1 B 200      11.703  13.713   8.615  0.50 21.93           C  
+HETATM    3  N1 AMK1 B 200       4.914  17.804  11.813  0.50 15.73           N  
+HETATM    4  N1 BMK1 B 200      12.876  13.480   9.473  0.50 23.70           N  
+HETATM    5  O1 AMK1 B 200       8.233  15.169  13.192  0.50 15.66           O  
+HETATM    6  O1 BMK1 B 200       8.987  14.957   7.949  0.50 23.97           O  
+HETATM    7  C2 AMK1 B 200       7.231  17.311  12.806  0.50 15.11           C  
+HETATM    8  C2 BMK1 B 200      11.343  15.173   8.339  0.50 20.52           C  
+HETATM    9  N2 AMK1 B 200       7.998  16.546  14.993  0.50 12.50           N  
+HETATM   10  N2 BMK1 B 200      10.314  15.318   6.133  0.50 19.42           N  
+HETATM   11  O2 AMK1 B 200      11.095  18.227   9.972  0.50 13.32           O  
+HETATM   12  O2 BMK1 B 200      10.094  19.037  10.969  0.50 12.29           O  
+HETATM   13  C3 AMK1 B 200       7.869  16.243  13.689  0.50 14.95           C  
+HETATM   14  C3 BMK1 B 200      10.106  15.140   7.448  0.50 21.40           C  
+HETATM   15  N3 AMK1 B 200       7.837  17.431  11.445  0.50 14.41           N  
+HETATM   16  N3 BMK1 B 200      11.147  15.848   9.650  0.50 21.12           N  
+HETATM   17  O3 AMK1 B 200       9.628  14.623   8.466  0.50 28.30           O  
+HETATM   18  O3 BMK1 B 200       7.876  15.793  12.312  0.50 19.19           O  
+HETATM   19  C4 AMK1 B 200       8.603  15.656  16.123  0.50 15.20           C  
+HETATM   20  C4 BMK1 B 200       9.247  15.330   5.001  0.50 20.04           C  
+HETATM   21  N4 AMK1 B 200      11.443  14.809   7.119  0.50 25.39           N  
+HETATM   22  N4 BMK1 B 200       6.985  17.349  13.694  0.50 18.80           N  
+HETATM   23  O4 AMK1 B 200      12.848  15.395   4.876  0.50 25.36           O  
+HETATM   24  O4 BMK1 B 200       6.591  18.756  15.985  0.50 16.06           O  
+HETATM   25  C5 AMK1 B 200       8.562  16.404  17.493  0.50 15.06           C  
+HETATM   26  C5 BMK1 B 200       9.911  15.580   3.611  0.50 19.68           C  
+HETATM   27  N5 AMK1 B 200       1.366  18.253  15.127  0.50 21.98           N  
+HETATM   28  N5 BMK1 B 200      15.084  10.452   6.391  0.50 28.60           N  
+HETATM   29  C6 AMK1 B 200      10.132  15.424  16.013  0.50 15.51           C  
+HETATM   30  C6 BMK1 B 200       8.287  16.544   5.048  0.50 19.00           C  
+HETATM   31  C7 AMK1 B 200       7.784  14.258  16.236  0.50 12.30           C  
+HETATM   32  C7 BMK1 B 200       8.440  13.921   4.972  0.50 19.32           C  
+HETATM   33  C8 AMK1 B 200       7.034  18.282  10.495  0.50 13.56           C  
+HETATM   34  C8 BMK1 B 200      12.257  15.627  10.638  0.50 19.56           C  
+HETATM   35  C9 AMK1 B 200       5.534  17.887  10.446  0.50 14.62           C  
+HETATM   36  C9 BMK1 B 200      12.641  14.137  10.794  0.50 21.83           C  
+HETATM   37  C10AMK1 B 200       9.258  17.840  11.493  0.50 16.72           C  
+HETATM   38  C10BMK1 B 200      10.821  17.273   9.519  0.50 18.26           C  
+HETATM   39  C11AMK1 B 200      10.095  17.272  10.344  0.50 15.52           C  
+HETATM   40  C11BMK1 B 200       9.850  17.678  10.605  0.50 15.87           C  
+HETATM   41  C12AMK1 B 200      10.873  15.979  10.641  0.50 17.55           C  
+HETATM   42  C12BMK1 B 200       8.358  17.611  10.239  0.50 15.23           C  
+HETATM   43  C13AMK1 B 200      11.716  15.387   9.494  0.50 20.93           C  
+HETATM   44  C13BMK1 B 200       7.383  17.988  11.359  0.50 16.78           C  
+HETATM   45  C14AMK1 B 200      12.450  14.211  10.179  0.50 19.57           C  
+HETATM   46  C14BMK1 B 200       6.000  18.023  10.672  0.50 14.12           C  
+HETATM   47  C15AMK1 B 200      13.231  13.326   9.245  0.50 21.16           C  
+HETATM   48  C15BMK1 B 200       4.859  18.286  11.623  0.50 16.05           C  
+HETATM   49  C16AMK1 B 200      14.405  13.776   8.581  0.50 21.30           C  
+HETATM   50  C16BMK1 B 200       4.712  19.526  12.306  0.50 14.32           C  
+HETATM   51  C17AMK1 B 200      15.096  12.895   7.706  0.50 21.99           C  
+HETATM   52  C17BMK1 B 200       3.619  19.714  13.199  0.50 14.66           C  
+HETATM   53  C18AMK1 B 200      14.609  11.569   7.499  0.50 19.37           C  
+HETATM   54  C18BMK1 B 200       2.678  18.661  13.404  0.50 12.64           C  
+HETATM   55  C19AMK1 B 200      13.439  11.125   8.162  0.50 20.48           C  
+HETATM   56  C19BMK1 B 200       2.826  17.429  12.723  0.50 15.84           C  
+HETATM   57  C20AMK1 B 200      12.753  11.995   9.030  0.50 19.05           C  
+HETATM   58  C20BMK1 B 200       3.909  17.240  11.837  0.50 14.51           C  
+HETATM   59  C21AMK1 B 200      10.820  14.904   8.307  0.50 22.88           C  
+HETATM   60  C21BMK1 B 200       7.441  16.934  12.504  0.50 17.04           C  
+HETATM   61  C22AMK1 B 200      10.831  14.375   5.846  0.50 25.70           C  
+HETATM   62  C22BMK1 B 200       6.939  16.544  14.927  0.50 17.23           C  
+HETATM   63  C23AMK1 B 200      11.874  14.363   4.697  0.50 26.57           C  
+HETATM   64  C23BMK1 B 200       6.310  17.352  16.099  0.50 19.81           C  
+HETATM   65  C24AMK1 B 200      11.025  14.386   3.446  0.50 26.41           C  
+HETATM   66  C24BMK1 B 200       6.794  16.622  17.328  0.50 18.51           C  
+HETATM   67  C25AMK1 B 200       9.828  15.264   3.667  0.50 26.63           C  
+HETATM   68  C25BMK1 B 200       8.204  16.152  17.106  0.50 18.61           C  
+HETATM   69  C26AMK1 B 200       8.950  15.980   2.836  0.50 26.65           C  
+HETATM   70  C26BMK1 B 200       9.281  15.810  17.937  0.50 18.62           C  
+HETATM   71  C27AMK1 B 200       7.907  16.721   3.446  0.50 26.06           C  
+HETATM   72  C27BMK1 B 200      10.494  15.400  17.325  0.50 18.25           C  
+HETATM   73  C28AMK1 B 200       7.746  16.759   4.863  0.50 25.12           C  
+HETATM   74  C28BMK1 B 200      10.637  15.336  15.904  0.50 17.55           C  
+HETATM   75  C29AMK1 B 200       8.621  16.042   5.739  0.50 25.74           C  
+HETATM   76  C29BMK1 B 200       9.559  15.678  15.030  0.50 16.38           C  
+HETATM   77  C30AMK1 B 200       9.704  15.264   5.237  0.50 25.68           C  
+HETATM   78  C30BMK1 B 200       8.296  16.103  15.536  0.50 17.49           C  
+HETATM   79  C31AMK1 B 200       3.461  17.418  11.803  0.50 17.14           C  
+HETATM   80  C31BMK1 B 200      13.246  12.039   9.561  0.50 24.47           C  
+HETATM   81  C32AMK1 B 200       2.577  17.276  13.119  0.50 19.07           C  
+HETATM   82  C32BMK1 B 200      13.559  11.163   8.283  0.50 25.82           C  
+HETATM   83  C33AMK1 B 200       2.188  18.379  13.899  0.50 19.58           C  
+HETATM   84  C33BMK1 B 200      14.770  11.260   7.588  0.50 25.63           C  
+HETATM   85  C34AMK1 B 200       0.993  16.912  15.462  0.50 21.20           C  
+HETATM   86  C34BMK1 B 200      14.044   9.557   5.987  0.50 27.67           C  
+HETATM   87  C35AMK1 B 200       1.366  15.800  14.705  0.50 18.32           C  
+HETATM   88  C35BMK1 B 200      12.829   9.440   6.659  0.50 26.53           C  
+HETATM   89  C36AMK1 B 200       2.156  15.983  13.537  0.50 18.68           C  
+HETATM   90  C36BMK1 B 200      12.586  10.246   7.806  0.50 25.64           C  
+CONECT    1    7    3
+CONECT    2    8    4
+CONECT    3    1   35   79
+CONECT    4    2   36   80
+CONECT    5   13
+CONECT    6   14
+CONECT    7    1   13   15
+CONECT    8    2   14   16
+CONECT    9   19   13
+CONECT   10   20   14
+CONECT   11   39
+CONECT   12   40
+CONECT   13    7    5    9
+CONECT   14    8    6   10
+CONECT   15    7   33   37
+CONECT   16    8   34   38
+CONECT   17   59
+CONECT   18   60
+CONECT   19    9   25   29   31
+CONECT   20   10   26   30   32
+CONECT   21   61   59
+CONECT   22   62   60
+CONECT   23   63
+CONECT   24   64
+CONECT   25   19
+CONECT   26   20
+CONECT   27   85   83
+CONECT   28   86   84
+CONECT   29   19
+CONECT   30   20
+CONECT   31   19
+CONECT   32   20
+CONECT   33   15   35
+CONECT   34   16   36
+CONECT   35    3   33
+CONECT   36    4   34
+CONECT   37   15   39
+CONECT   38   16   40
+CONECT   39   37   11   41
+CONECT   40   38   12   42
+CONECT   41   39   43
+CONECT   42   40   44
+CONECT   43   41   45   59
+CONECT   44   42   46   60
+CONECT   45   43   47
+CONECT   46   44   48
+CONECT   47   45   49   57
+CONECT   48   46   50   58
+CONECT   49   47   51
+CONECT   50   48   52
+CONECT   51   49   53
+CONECT   52   50   54
+CONECT   53   51   55
+CONECT   54   52   56
+CONECT   55   53   57
+CONECT   56   54   58
+CONECT   57   47   55
+CONECT   58   48   56
+CONECT   59   43   17   21
+CONECT   60   44   18   22
+CONECT   61   21   63   77
+CONECT   62   22   64   78
+CONECT   63   61   23   65
+CONECT   64   62   24   66
+CONECT   65   63   67
+CONECT   66   64   68
+CONECT   67   65   69   77
+CONECT   68   66   70   78
+CONECT   69   67   71
+CONECT   70   68   72
+CONECT   71   69   73
+CONECT   72   70   74
+CONECT   73   71   75
+CONECT   74   72   76
+CONECT   75   73   77
+CONECT   76   74   78
+CONECT   77   61   67   75
+CONECT   78   62   68   76
+CONECT   79    3   81
+CONECT   80    4   82
+CONECT   81   79   83   89
+CONECT   82   80   84   90
+CONECT   83   81   27
+CONECT   84   82   28
+CONECT   85   27   87
+CONECT   86   28   88
+CONECT   87   85   89
+CONECT   88   86   90
+CONECT   89   81   87
+CONECT   90   82   88
+END

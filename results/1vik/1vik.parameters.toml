@@ -1,0 +1,30 @@
+[FILES]
+INPUT = "/Users/jvsguerra/remote-repos/hiv-1-protease-analysis/data/bounded/1vik.pdb"
+BASE_NAME = "1vik"
+OUTPUT_DIRECTORY = "/Users/jvsguerra/remote-repos/hiv-1-protease-analysis/results/1vik"
+DICTIONARY = "/usr/local/lib/python3.11/site-packages/pyKVFinder/data/vdw.dat"
+
+[SETTINGS]
+STEP = 0.6
+
+[SETTINGS.MODES]
+BOX_ADJUSTMENT = false
+LIGAND_ADJUSTMENT = false
+DEPTH = true
+SURFACE = "SES"
+IGNORE_BACKBONE = false
+
+[SETTINGS.PROBES]
+PROBE_IN = 1.4
+PROBE_OUT = 8.0
+
+[SETTINGS.CUTOFFS]
+VOLUME_CUTOFF = 5.0
+LIGAND_CUTOFF = 5.0
+REMOVAL_DISTANCE = 2.4
+
+[SETTINGS.BOX]
+p1 = [ -11.49, -10.57, -30.53,]
+p2 = [ 42.2, -10.57, -30.53,]
+p3 = [ -11.49, 54.62, -30.53,]
+p4 = [ -11.49, -10.57, 39.07,]

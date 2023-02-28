@@ -1,0 +1,104 @@
+CRYST1   51.238   58.489   62.118  90.00  95.88  90.00 P 1 21 1      1
+HETATM    1  N   DR7 A 100      19.253  14.108  35.784  1.00 15.78           N  
+HETATM    2  CA  DR7 A 100      19.715  13.512  34.550  1.00 15.47           C  
+HETATM    3  CAA DR7 A 100      18.353  17.316  37.226  1.00 22.33           C  
+HETATM    4  CAB DR7 A 100      15.969   3.680  27.547  1.00 22.32           C  
+HETATM    5  CAE DR7 A 100      22.106  14.059  34.806  1.00 17.48           C  
+HETATM    6  CAF DR7 A 100      13.105   9.010  31.263  1.00 17.57           C  
+HETATM    7  CAG DR7 A 100      12.420   7.108  29.796  1.00 16.40           C  
+HETATM    8  CAH DR7 A 100      13.255   6.685  32.133  1.00 16.13           C  
+HETATM    9  CAN DR7 A 100      15.041  14.062  36.865  1.00 23.00           C  
+HETATM   10  CAO DR7 A 100      18.773   0.360  29.454  1.00 40.53           C  
+HETATM   11  CAP DR7 A 100      14.816  12.749  36.469  1.00 26.21           C  
+HETATM   12  CAQ DR7 A 100      15.394  15.037  35.940  1.00 25.31           C  
+HETATM   13  CAR DR7 A 100      18.069   0.927  30.512  1.00 39.01           C  
+HETATM   14  CAS DR7 A 100      19.525   1.183  28.620  1.00 41.42           C  
+HETATM   15  CAT DR7 A 100      14.964  12.398  35.132  1.00 26.65           C  
+HETATM   16  CAU DR7 A 100      15.549  14.667  34.604  1.00 19.53           C  
+HETATM   17  CAV DR7 A 100      18.132   2.303  30.707  1.00 36.20           C  
+HETATM   18  CAW DR7 A 100      19.055   6.561  31.454  1.00 26.99           C  
+HETATM   19  CAX DR7 A 100      18.994   6.816  29.069  1.00 25.04           C  
+HETATM   20  CAY DR7 A 100      19.017   5.176  31.313  1.00 27.39           C  
+HETATM   21  CAZ DR7 A 100      18.958   5.432  28.940  1.00 25.57           C  
+HETATM   22  C   DR7 A 100      18.629  12.545  34.152  1.00 16.62           C  
+HETATM   23  O   DR7 A 100      18.504  11.517  34.802  1.00 17.47           O  
+HETATM   24  OAI DR7 A 100      19.318  16.250  34.949  1.00 15.89           O  
+HETATM   25  OAJ DR7 A 100      15.167   6.273  27.828  1.00 16.88           O  
+HETATM   26  OAL DR7 A 100      15.998   7.983  32.370  1.00 16.42           O  
+HETATM   27  OAM DR7 A 100      17.039  12.900  30.265  1.00 28.01           O  
+HETATM   28  CB  DR7 A 100      21.115  12.906  34.702  1.00 16.49           C  
+HETATM   29  CBA DR7 A 100      15.521  12.987  32.755  1.00 22.72           C  
+HETATM   30  CBB DR7 A 100      19.073   8.901  30.471  1.00 21.83           C  
+HETATM   31  CBC DR7 A 100      17.991  10.900  30.679  1.00 21.23           C  
+HETATM   32  CBK DR7 A 100      19.085  15.429  35.865  1.00 15.52           C  
+HETATM   33  CBL DR7 A 100      15.369   5.659  28.882  1.00 18.58           C  
+HETATM   34  CBN DR7 A 100      15.895   8.171  31.155  1.00 16.12           C  
+HETATM   35  CBO DR7 A 100      15.340  13.360  34.210  1.00 21.61           C  
+HETATM   36  CBP DR7 A 100      19.040   7.399  30.328  1.00 23.03           C  
+HETATM   37  CBQ DR7 A 100      18.969   4.591  30.054  1.00 27.99           C  
+HETATM   38  CBR DR7 A 100      18.907   3.097  29.864  1.00 36.35           C  
+HETATM   39  CBS DR7 A 100      16.830  11.743  31.096  1.00 21.55           C  
+HETATM   40  CBT DR7 A 100      16.730  12.065  32.591  1.00 17.63           C  
+HETATM   41  CBV DR7 A 100      14.813   7.517  30.317  1.00 15.37           C  
+HETATM   42  CBY DR7 A 100      13.413   7.555  30.884  1.00 14.80           C  
+HETATM   43  NBD DR7 A 100      19.573   2.511  28.834  1.00 40.01           N  
+HETATM   44  NBF DR7 A 100      15.239   6.133  30.106  1.00 15.77           N  
+HETATM   45  NBG DR7 A 100      17.868  12.864  33.106  1.00 17.48           N  
+HETATM   46  NBH DR7 A 100      16.746   8.931  30.431  1.00 19.22           N  
+HETATM   47  NBW DR7 A 100      17.826   9.494  31.009  1.00 20.75           N  
+HETATM   48  OBI DR7 A 100      18.624  15.913  37.148  1.00 19.67           O  
+HETATM   49  OBJ DR7 A 100      15.823   4.301  28.834  1.00 18.61           O  
+HETATM   50  CG1 DR7 A 100      21.464  12.155  33.408  1.00 16.66           C  
+HETATM   51  CG2 DR7 A 100      21.287  12.007  35.940  1.00 19.22           C  
+CONECT    1    2   32
+CONECT    2    1   22   28
+CONECT    3   48
+CONECT    4   49
+CONECT    5   28
+CONECT    6   42
+CONECT    7   42
+CONECT    8   42
+CONECT    9   12   11
+CONECT   10   14   13
+CONECT   11    9   15
+CONECT   12    9   16
+CONECT   13   10   17
+CONECT   14   10   43
+CONECT   15   11   35
+CONECT   16   12   35
+CONECT   17   13   38
+CONECT   18   20   36
+CONECT   19   21   36
+CONECT   20   18   37
+CONECT   21   19   37
+CONECT   22    2   23   45
+CONECT   23   22
+CONECT   24   32
+CONECT   25   33
+CONECT   26   34
+CONECT   27   39
+CONECT   28    2    5   50   51
+CONECT   29   35   40
+CONECT   30   36   47
+CONECT   31   47   39
+CONECT   32    1   24   48
+CONECT   33   25   49   44
+CONECT   34   26   41   46
+CONECT   35   29   15   16
+CONECT   36   30   18   19
+CONECT   37   20   21   38
+CONECT   38   37   17   43
+CONECT   39   27   31   40
+CONECT   40   29   39   45
+CONECT   41   34   42   44
+CONECT   42   41    6    7    8
+CONECT   43   14   38
+CONECT   44   41   33
+CONECT   45   22   40
+CONECT   46   34   47
+CONECT   47   31   30   46
+CONECT   48    3   32
+CONECT   49   33    4
+CONECT   50   28
+CONECT   51   28
+END

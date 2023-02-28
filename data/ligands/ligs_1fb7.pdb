@@ -1,0 +1,100 @@
+CRYST1  111.050  111.050  111.050  90.00  90.00  90.00 I 21 3        2
+HETATM    1  N   ROC A 100      40.204   0.069  77.788  0.50 17.34           N  
+HETATM    2  CA  ROC A 100      40.701   1.029  78.770  0.50 19.54           C  
+HETATM    3  CA1 ROC A 100      41.524  -0.551  82.116  0.50 11.20           C  
+HETATM    4  C   ROC A 100      40.972  -0.444  76.822  0.50 12.96           C  
+HETATM    5  O   ROC A 100      42.082   0.084  76.520  0.50  9.26           O  
+HETATM    6  CB  ROC A 100      40.014   2.357  78.577  0.50 16.16           C  
+HETATM    7  CB1 ROC A 100      41.747  -2.052  82.049  0.50 12.03           C  
+HETATM    8  CG  ROC A 100      40.805   3.109  77.556  0.50 18.06           C  
+HETATM    9  CG1 ROC A 100      40.798  -2.723  81.086  0.50 13.36           C  
+HETATM   10  CD  ROC A 100      40.037  -3.153  87.577  0.50  6.37           C  
+HETATM   11  CD1 ROC A 100      39.454  -2.846  81.423  0.50 13.45           C  
+HETATM   12  CD2 ROC A 100      41.279  -3.205  79.879  0.50 13.04           C  
+HETATM   13  ND2 ROC A 100      41.898   3.754  77.871  0.50 18.42           N  
+HETATM   14  OD1 ROC A 100      40.491   3.144  76.362  0.50 18.95           O  
+HETATM   15  CE1 ROC A 100      38.592  -3.458  80.538  0.50 12.79           C  
+HETATM   16  CE2 ROC A 100      40.400  -3.814  79.007  0.50 13.95           C  
+HETATM   17  CZ  ROC A 100      39.063  -3.941  79.334  0.50 13.93           C  
+HETATM   18  CM  ROC A 100      42.502  -0.078  84.453  0.50  8.52           C  
+HETATM   19  C1  ROC A 100      40.487   0.548  80.201  0.50 19.87           C  
+HETATM   20  N1  ROC A 100      39.125  -1.940  76.411  0.50 14.29           N  
+HETATM   21  O1  ROC A 100      39.390   0.659  80.768  0.50 24.49           O  
+HETATM   22  C2  ROC A 100      40.426  -1.640  76.175  0.50 14.99           C  
+HETATM   23  N2  ROC A 100      41.581  -0.015  80.768  0.50 16.51           N  
+HETATM   24  O2  ROC A 100      43.868  -0.242  82.508  0.50  5.60           O  
+HETATM   25  C3  ROC A 100      41.177  -2.481  75.343  0.50 16.37           C  
+HETATM   26  C3A ROC A 100      40.894   2.669  87.208  0.50 11.18           C  
+HETATM   27  N3  ROC A 100      40.604  -1.837  87.390  0.50 10.36           N  
+HETATM   28  O3  ROC A 100      39.585  -1.311  85.425  0.50 15.76           O  
+HETATM   29  C4  ROC A 100      40.582  -3.598  74.778  0.50 14.93           C  
+HETATM   30  C4A ROC A 100      39.247  -3.872  75.044  0.50 13.53           C  
+HETATM   31  C5  ROC A 100      38.631  -4.986  74.491  0.50 11.64           C  
+HETATM   32  C6  ROC A 100      37.304  -5.240  74.773  0.50  5.00           C  
+HETATM   33  C7  ROC A 100      36.589  -4.400  75.599  0.50 10.31           C  
+HETATM   34  C7A ROC A 100      41.446   3.195  85.863  0.50 10.73           C  
+HETATM   35  C8  ROC A 100      37.183  -3.284  76.160  0.50 14.16           C  
+HETATM   36  C8A ROC A 100      38.519  -3.028  75.873  0.50 14.34           C  
+HETATM   37  C9  ROC A 100      42.595   0.162  82.961  0.50 10.06           C  
+HETATM   38  C11 ROC A 100      40.560  -3.755  88.853  0.50  5.00           C  
+HETATM   39  N11 ROC A 100      41.590   0.848  85.077  0.50 10.95           N  
+HETATM   40  C21 ROC A 100      41.106   0.328  86.390  0.50 12.68           C  
+HETATM   41  C22 ROC A 100      40.429  -4.033  86.418  0.50  8.69           C  
+HETATM   42  C31 ROC A 100      40.157   1.360  86.996  0.50 10.20           C  
+HETATM   43  C32 ROC A 100      38.539  -3.038  87.643  0.50 12.64           C  
+HETATM   44  C41 ROC A 100      39.991   3.723  87.817  0.50 12.05           C  
+HETATM   45  C51 ROC A 100      38.866   4.132  86.875  0.50 12.97           C  
+HETATM   46  C61 ROC A 100      39.468   4.693  85.596  0.50 11.69           C  
+HETATM   47  C71 ROC A 100      40.308   3.608  84.962  0.50 11.57           C  
+HETATM   48  C81 ROC A 100      42.298   2.120  85.242  0.50  9.35           C  
+HETATM   49  CC  ROC A 100      40.349  -1.022  86.352  0.50 12.17           C  
+CONECT    1    2    4
+CONECT    2    1    6   19
+CONECT    3    7   23   37
+CONECT    4    1    5   22
+CONECT    5    4
+CONECT    6    2    8
+CONECT    7    3    9
+CONECT    8    6   13   14
+CONECT    9    7   11   12
+CONECT   10   38   41   43   27
+CONECT   11    9   15
+CONECT   12    9   16
+CONECT   13    8
+CONECT   14    8
+CONECT   15   11   17
+CONECT   16   12   17
+CONECT   17   15   16
+CONECT   18   37   39
+CONECT   19    2   21   23
+CONECT   20   22   36
+CONECT   21   19
+CONECT   22    4   20   25
+CONECT   23    3   19
+CONECT   24   37
+CONECT   25   22   29
+CONECT   26   34   44   42
+CONECT   27   10   49
+CONECT   28   49
+CONECT   29   25   30
+CONECT   30   29   36   31
+CONECT   31   30   32
+CONECT   32   31   33
+CONECT   33   32   35
+CONECT   34   26   48   47
+CONECT   35   33   36
+CONECT   36   20   30   35
+CONECT   37    3   18   24
+CONECT   38   10
+CONECT   39   18   40   48
+CONECT   40   39   42   49
+CONECT   41   10
+CONECT   42   40   26
+CONECT   43   10
+CONECT   44   26   45
+CONECT   45   44   46
+CONECT   46   45   47
+CONECT   47   46   34
+CONECT   48   34   39
+CONECT   49   40   27   28
+END

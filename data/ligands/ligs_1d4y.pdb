@@ -1,0 +1,86 @@
+CRYST1   59.785   87.503   46.458  90.00  90.00  90.00 P 21 21 2     1
+HETATM    1  O1  TPV A 501      13.549  21.422   6.078  1.00 29.41           O  
+HETATM    2  C2  TPV A 501      12.487  22.202   6.119  1.00 21.95           C  
+HETATM    3  C3  TPV A 501      12.547  23.548   5.488  1.00 23.99           C  
+HETATM    4  C4  TPV A 501      13.803  23.939   4.984  1.00 29.11           C  
+HETATM    5  C5  TPV A 501      15.030  23.252   5.600  1.00 33.45           C  
+HETATM    6  C6  TPV A 501      14.898  22.024   5.886  1.00 34.96           C  
+HETATM    7  O7  TPV A 501      11.438  21.718   6.484  1.00 24.58           O  
+HETATM    8  O8  TPV A 501      13.993  25.128   4.403  1.00 29.45           O  
+HETATM    9  C9  TPV A 501      15.673  21.224   4.793  1.00 38.80           C  
+HETATM   10  C10 TPV A 501      14.930  20.787   3.808  1.00 37.76           C  
+HETATM   11  C11 TPV A 501      15.304  19.611   2.940  1.00 28.53           C  
+HETATM   12  C12 TPV A 501      15.023  21.558   7.303  1.00 38.00           C  
+HETATM   13  C13 TPV A 501      16.369  21.839   7.800  1.00 38.20           C  
+HETATM   14  C14 TPV A 501      17.153  21.043   8.713  1.00 36.33           C  
+HETATM   15  C15 TPV A 501      16.659  20.012   9.507  1.00 35.44           C  
+HETATM   16  C16 TPV A 501      17.530  19.281  10.340  1.00 35.08           C  
+HETATM   17  C17 TPV A 501      18.909  19.597  10.374  1.00 33.02           C  
+HETATM   18  C18 TPV A 501      19.422  20.606   9.518  1.00 29.48           C  
+HETATM   19  C19 TPV A 501      18.502  21.476   8.905  1.00 32.51           C  
+HETATM   20  C20 TPV A 501      11.228  24.207   5.108  1.00 20.62           C  
+HETATM   21  C21 TPV A 501      10.591  24.700   3.760  1.00 20.84           C  
+HETATM   22  C22 TPV A 501      10.588  23.794   2.551  1.00 26.88           C  
+HETATM   23  C23 TPV A 501      10.829  25.104   6.300  1.00 20.29           C  
+HETATM   24  C24 TPV A 501      11.751  25.555   7.216  1.00 19.76           C  
+HETATM   25  C25 TPV A 501      11.369  26.489   8.219  1.00 17.54           C  
+HETATM   26  C26 TPV A 501       9.996  26.746   8.414  1.00 17.91           C  
+HETATM   27  C27 TPV A 501       9.078  26.343   7.449  1.00 18.57           C  
+HETATM   28  N28 TPV A 501       7.369  26.738   7.833  1.00 35.76           N  
+HETATM   29  C29 TPV A 501       9.507  25.585   6.353  1.00 21.43           C  
+HETATM   30  S30 TPV A 501       6.964  28.046   6.989  1.00 34.16           S  
+HETATM   31  O31 TPV A 501       8.002  29.091   7.303  1.00 28.40           O  
+HETATM   32  O32 TPV A 501       5.612  28.368   7.312  1.00 40.65           O  
+HETATM   33  C33 TPV A 501       7.125  27.667   5.296  1.00 33.83           C  
+HETATM   34  N34 TPV A 501       8.271  28.067   4.676  1.00 31.49           N  
+HETATM   35  C35 TPV A 501       8.381  27.822   3.363  1.00 31.31           C  
+HETATM   36  C36 TPV A 501       7.436  27.088   2.635  1.00 30.41           C  
+HETATM   37  C37 TPV A 501       6.239  26.749   3.244  1.00 32.88           C  
+HETATM   38  C38 TPV A 501       6.079  27.045   4.620  1.00 33.20           C  
+HETATM   39  C39 TPV A 501       7.727  26.758   1.174  1.00 23.80           C  
+HETATM   40  F40 TPV A 501       8.386  27.915   0.673  1.00 79.27           F  
+HETATM   41  F41 TPV A 501       6.501  26.511   0.569  1.00 39.20           F  
+HETATM   42  F42 TPV A 501       8.595  25.636   1.227  1.00 48.25           F  
+CONECT    1    2    6
+CONECT    2    1    3    7
+CONECT    3    2    4   20
+CONECT    4    3    5    8
+CONECT    5    4    6
+CONECT    6    1    5    9   12
+CONECT    7    2
+CONECT    8    4
+CONECT    9    6   10
+CONECT   10    9   11
+CONECT   11   10
+CONECT   12    6   13
+CONECT   13   12   14
+CONECT   14   13   15   19
+CONECT   15   14   16
+CONECT   16   15   17
+CONECT   17   16   18
+CONECT   18   17   19
+CONECT   19   14   18
+CONECT   20    3   21   23
+CONECT   21   20   22
+CONECT   22   21
+CONECT   23   20   24   29
+CONECT   24   23   25
+CONECT   25   24   26
+CONECT   26   25   27
+CONECT   27   26   28   29
+CONECT   28   27   30
+CONECT   29   23   27
+CONECT   30   28   31   32   33
+CONECT   31   30
+CONECT   32   30
+CONECT   33   30   34   38
+CONECT   34   33   35
+CONECT   35   34   36
+CONECT   36   35   37   39
+CONECT   37   36   38
+CONECT   38   33   37
+CONECT   39   36   40   41   42
+CONECT   40   39
+CONECT   41   39
+CONECT   42   39
+END

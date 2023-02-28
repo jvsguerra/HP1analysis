@@ -1,0 +1,326 @@
+CRYST1   51.090   57.697   61.832  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  N  A2NC A 100       5.077   3.876   8.514  0.30 12.77           N  
+ANISOU    1  N  A2NC A 100     1729   1578   1544     53    105    -58       N  
+HETATM    2  N  B2NC A 100       5.676  -8.561  16.801  0.70 11.97           N  
+ANISOU    2  N  B2NC A 100     1511   1339   1698    -58     -6   -150       N  
+HETATM    3  CA A2NC A 100       4.339   4.696   9.462  0.30 12.05           C  
+ANISOU    3  CA A2NC A 100     1581   1468   1530     76     40     19       C  
+HETATM    4  CA B2NC A 100       6.164  -7.986  18.034  0.70 11.89           C  
+ANISOU    4  CA B2NC A 100     1611   1425   1482     47     56    -48       C  
+HETATM    5  CA1A2NC A 100       3.042   1.858  11.637  0.30  9.45           C  
+ANISOU    5  CA1A2NC A 100     1271   1164   1155     80    -21    -10       C  
+HETATM    6  CA1B2NC A 100       7.557  -4.818  16.296  0.70  8.39           C  
+ANISOU    6  CA1B2NC A 100     1064   1103   1018    128     -7    -69       C  
+HETATM    7  CA2A2NC A 100       6.016   0.632  13.642  0.30  9.21           C  
+ANISOU    7  CA2A2NC A 100     1216   1211   1070    102    -18     18       C  
+HETATM    8  CA2B2NC A 100       4.572  -2.499  15.742  0.70  7.97           C  
+ANISOU    8  CA2B2NC A 100      822    972   1232    203      8     79       C  
+HETATM    9  CA3A2NC A 100       4.609  -2.024  15.854  0.30  9.73           C  
+ANISOU    9  CA3A2NC A 100     1315   1119   1260    114    -71     39       C  
+HETATM   10  CA3B2NC A 100       5.839   0.657  14.176  0.70  8.98           C  
+ANISOU   10  CA3B2NC A 100     1262   1185    963    -46   -153    164       C  
+HETATM   11  CA4A2NC A 100       7.474  -4.656  16.152  0.30  9.84           C  
+ANISOU   11  CA4A2NC A 100     1270   1251   1216     13      0    -21       C  
+HETATM   12  CA4B2NC A 100       3.238   1.833  11.646  0.70  8.85           C  
+ANISOU   12  CA4B2NC A 100     1184   1109   1068     47     33    -40       C  
+HETATM   13  CA5A2NC A 100       6.864  -7.953  17.780  0.30 14.53           C  
+ANISOU   13  CA5A2NC A 100     1920   1793   1807    -20      0    -15       C  
+HETATM   14  CA5B2NC A 100       2.976   4.629   9.126  0.70 15.25           C  
+ANISOU   14  CA5B2NC A 100     2118   1823   1852     -5     74     58       C  
+HETATM   15  C  A2NC A 100       6.409   3.837   8.418  0.30 14.26           C  
+ANISOU   15  C  A2NC A 100     1935   1801   1680      4    -49    -23       C  
+HETATM   16  C  B2NC A 100       4.390  -8.725  16.533  0.70 12.99           C  
+ANISOU   16  C  B2NC A 100     1710   1545   1679    104    -92    -79       C  
+HETATM   17  O  A2NC A 100       7.219   4.658   8.878  0.30 15.40           O  
+ANISOU   17  O  A2NC A 100     2230   1830   1788      0    -30   -117       O  
+HETATM   18  O  B2NC A 100       3.543  -8.368  17.353  0.70 17.01           O  
+ANISOU   18  O  B2NC A 100     2042   2152   2266     67    -10   -175       O  
+HETATM   19  CB A2NC A 100       3.256   5.432   8.727  0.30 12.44           C  
+ANISOU   19  CB A2NC A 100     1608   1566   1552     79     49      0       C  
+HETATM   20  CB B2NC A 100       7.238  -8.863  18.595  0.70 12.17           C  
+ANISOU   20  CB B2NC A 100     1693   1373   1557    -82   -123   -187       C  
+HETATM   21  CB1A2NC A 100       1.785   1.081  11.169  0.30  9.16           C  
+ANISOU   21  CB1A2NC A 100     1238   1097   1146     74    -12    -14       C  
+HETATM   22  CB1B2NC A 100       8.868  -4.951  15.487  0.70  9.37           C  
+ANISOU   22  CB1B2NC A 100     1231   1205   1121     71     -2    -18       C  
+HETATM   23  CB2A2NC A 100       7.202   1.592  13.720  0.30  9.43           C  
+ANISOU   23  CB2A2NC A 100     1359   1009   1215     72     10    -11       C  
+HETATM   24  CB2B2NC A 100       3.340  -2.880  16.579  0.70  8.19           C  
+ANISOU   24  CB2B2NC A 100      906    917   1289    314    175    114       C  
+HETATM   25  CB3A2NC A 100       3.261  -2.758  15.805  0.30 11.53           C  
+ANISOU   25  CB3A2NC A 100     1667   1259   1454    -17    -37    -21       C  
+HETATM   26  CB3B2NC A 100       7.174   1.072  13.528  0.70 12.63           C  
+ANISOU   26  CB3B2NC A 100     1408   1643   1746   -416    -61    218       C  
+HETATM   27  CB4A2NC A 100       8.899  -4.083  16.099  0.30  9.25           C  
+ANISOU   27  CB4A2NC A 100     1189   1200   1123    113    -58     79       C  
+HETATM   28  CB4B2NC A 100       1.848   1.418  12.106  0.70  9.41           C  
+ANISOU   28  CB4B2NC A 100     1259   1056   1260     54     -2     17       C  
+HETATM   29  CB5A2NC A 100       7.918  -8.247  18.841  0.30 15.11           C  
+ANISOU   29  CB5A2NC A 100     1916   1891   1931    -25     45     -1       C  
+HETATM   30  CB5B2NC A 100       4.363   5.252   8.910  0.70 17.47           C  
+ANISOU   30  CB5B2NC A 100     2198   2179   2261     68     19     87       C  
+HETATM   31  CG A2NC A 100       7.858   1.952  12.380  0.30 10.60           C  
+ANISOU   31  CG A2NC A 100     1394   1437   1194    262   -256     37       C  
+HETATM   32  CG B2NC A 100       3.083  -4.389  16.717  0.70 11.09           C  
+ANISOU   32  CG B2NC A 100     1491   1154   1569     51    -50    -26       C  
+HETATM   33  CG1A2NC A 100       0.822   2.023  10.421  0.30  9.40           C  
+ANISOU   33  CG1A2NC A 100     1266   1199   1106     97    -13    -40       C  
+HETATM   34  CG1B2NC A 100       9.821  -5.970  16.126  0.70  9.81           C  
+ANISOU   34  CG1B2NC A 100     1319   1307   1101    162     67     78       C  
+HETATM   35  CG2A2NC A 100       3.923   6.346   7.662  0.30 10.62           C  
+ANISOU   35  CG2A2NC A 100     1470   1114   1450    153    117    -74       C  
+HETATM   36  CG2B2NC A 100       6.695 -10.273  18.952  0.70 14.04           C  
+ANISOU   36  CG2B2NC A 100     2247   1421   1666    -61    174    289       C  
+HETATM   37 CG21A2NC A 100       1.120   0.380  12.332  0.30 10.38           C  
+ANISOU   37 CG21A2NC A 100     1489   1161   1294     91     81     62       C  
+HETATM   38 CG21B2NC A 100       9.553  -3.578  15.368  0.70 10.65           C  
+ANISOU   38 CG21B2NC A 100     1341   1222   1482    113     72     58       C  
+HETATM   39  CG3A2NC A 100       3.258  -4.082  16.565  0.30 11.98           C  
+ANISOU   39  CG3A2NC A 100     1632   1403   1514    -37    -31     15       C  
+HETATM   40  CG3B2NC A 100       7.143   2.204  12.507  0.70 17.97           C  
+ANISOU   40  CG3B2NC A 100     2191   2223   2411    227     44    117       C  
+HETATM   41  CG4A2NC A 100      10.006  -5.146  15.889  0.30  9.04           C  
+ANISOU   41  CG4A2NC A 100     1125   1020   1290     24    -25    -23       C  
+HETATM   42  CG4B2NC A 100       0.740   1.548  11.063  0.70  8.45           C  
+ANISOU   42  CG4B2NC A 100     1085   1020   1104   -126    129     25       C  
+HETATM   43  CG5A2NC A 100       9.081  -9.141  18.389  0.30 15.01           C  
+ANISOU   43  CG5A2NC A 100     1835   1968   1898     28    -71      9       C  
+HETATM   44  CG5B2NC A 100       4.969   5.291   7.474  0.70 22.35           C  
+ANISOU   44  CG5B2NC A 100     2854   2896   2739     76    -19     21       C  
+HETATM   45  OG1A2NC A 100       2.356   4.482   8.132  0.30 10.75           O  
+ANISOU   45  OG1A2NC A 100     1382    965   1737    197     31    475       O  
+HETATM   46  OG1B2NC A 100       8.271  -8.966  17.627  0.70 11.68           O  
+ANISOU   46  OG1B2NC A 100     1564   1298   1573    120      5     85       O  
+HETATM   47  CD A2NC A 100       7.961   0.690  11.513  0.30 13.71           C  
+ANISOU   47  CD A2NC A 100     1788   1194   2226    272    -89    -68       C  
+HETATM   48  CD B2NC A 100       2.939  -5.143  15.381  0.70 12.77           C  
+ANISOU   48  CD B2NC A 100     1822   1355   1672     95    -26   -187       C  
+HETATM   49  CD1A2NC A 100       0.506   3.336  11.121  0.30 11.58           C  
+ANISOU   49  CD1A2NC A 100     1570   1350   1479     36     66    -48       C  
+HETATM   50  CD1B2NC A 100      10.346  -5.585  17.483  0.70 12.15           C  
+ANISOU   50  CD1B2NC A 100     1404   1852   1360    201    -24    -73       C  
+HETATM   51  CD2A2NC A 100       3.232  -5.277  15.612  0.30 12.96           C  
+ANISOU   51  CD2A2NC A 100     1829   1478   1618     66    -16    -51       C  
+HETATM   52  CD2B2NC A 100       7.595   1.599  11.200  0.70 18.34           C  
+ANISOU   52  CD2B2NC A 100     2528   2127   2312     58     -1    442       C  
+HETATM   53  CD3A2NC A 100      10.443  -5.805  17.180  0.30  8.96           C  
+ANISOU   53  CD3A2NC A 100     1026   1083   1293    231    -37    -77       C  
+HETATM   54  CD3B2NC A 100       0.151   2.951  10.938  0.70  8.93           C  
+ANISOU   54  CD3B2NC A 100      932   1185   1275    -54    -38   -155       C  
+HETATM   55  CD4A2NC A 100       9.200  -9.324  16.886  0.30 16.91           C  
+ANISOU   55  CD4A2NC A 100     2194   2082   2148      1    107     28       C  
+HETATM   56  CD4B2NC A 100       5.708   4.002   7.112  0.70 24.29           C  
+ANISOU   56  CD4B2NC A 100     3186   3030   3011     21     19     -7       C  
+HETATM   57  CE A2NC A 100       9.368   0.231  11.155  0.30 10.57           C  
+ANISOU   57  CE A2NC A 100     1635   1082   1299    272     85   -291       C  
+HETATM   58  CE B2NC A 100       1.866  -4.560  14.473  0.70 15.10           C  
+ANISOU   58  CE B2NC A 100     2003   1980   1754     70   -136   -117       C  
+HETATM   59  CE1A2NC A 100       2.112  -5.168  14.596  0.30 14.10           C  
+ANISOU   59  CE1A2NC A 100     2040   1610   1704     44    -64   -104       C  
+HETATM   60  CE1B2NC A 100       8.939   1.015  11.578  0.70 16.43           C  
+ANISOU   60  CE1B2NC A 100     1491   2329   2420   -383    211    465       C  
+HETATM   61  NE A2NC A 100       7.972  -9.894  16.381  0.30 17.28           N  
+ANISOU   61  NE A2NC A 100     2191   2163   2211    114    -53    121       N  
+HETATM   62  NE B2NC A 100       6.542   4.068   5.909  0.70 24.89           N  
+ANISOU   62  NE B2NC A 100     3211   3205   3038     46     15    -18       N  
+HETATM   63  NE2A2NC A 100      11.229  -6.879  17.075  0.30  8.36           N  
+ANISOU   63  NE2A2NC A 100      921    972   1281    313   -142   -187       N  
+HETATM   64  NE2B2NC A 100      -0.537   3.187   9.851  0.70  8.58           N  
+ANISOU   64  NE2B2NC A 100     1065   1257    937    137    -90    -72       N  
+HETATM   65  OE1A2NC A 100      10.083  -5.344  18.264  0.30 10.93           O  
+ANISOU   65  OE1A2NC A 100     1503   1574   1074    303   -141    183       O  
+HETATM   66  OE1B2NC A 100       0.327   3.805  11.813  0.70 10.18           O  
+ANISOU   66  OE1B2NC A 100     1436   1278   1154    206     29   -224       O  
+HETATM   67  CZ A2NC A 100       7.859 -10.979  15.651  0.30 12.84           C  
+ANISOU   67  CZ A2NC A 100     1720   1800   1357     22    104     84       C  
+HETATM   68  CZ B2NC A 100       6.074   4.246   4.672  0.70 22.50           C  
+ANISOU   68  CZ B2NC A 100     2982   2919   2645    100     16     80       C  
+HETATM   69  CH3A2NC A 100       6.820   2.834   7.383  0.30 15.18           C  
+ANISOU   69  CH3A2NC A 100     2117   1734   1917    150    -29    -49       C  
+HETATM   70  CH3B2NC A 100       4.052  -9.473  15.277  0.70 14.69           C  
+ANISOU   70  CH3B2NC A 100     2070   1688   1821     80   -153   -118       C  
+HETATM   71  NH1A2NC A 100       8.929 -11.616  15.199  0.30 18.37           N  
+ANISOU   71  NH1A2NC A 100     2302   2287   2392      7     51    -54       N  
+HETATM   72  NH1B2NC A 100       4.780   4.405   4.457  0.70 23.47           N  
+ANISOU   72  NH1B2NC A 100     3159   2908   2851      6    -29    -10       N  
+HETATM   73  NH2A2NC A 100       6.646 -11.401  15.327  0.30 17.91           N  
+ANISOU   73  NH2A2NC A 100     2348   2264   2192     -6     90    -54       N  
+HETATM   74  NH2B2NC A 100       6.915   4.259   3.634  0.70 24.83           N  
+ANISOU   74  NH2B2NC A 100     3100   3261   3073     35      6     78       N  
+HETATM   75  C1 A2NC A 100       3.715   3.947  10.636  0.30 11.81           C  
+ANISOU   75  C1 A2NC A 100     1515   1445   1528     68      7     18       C  
+HETATM   76  C1 B2NC A 100       6.755  -6.549  17.854  0.70 10.05           C  
+ANISOU   76  C1 B2NC A 100     1365   1170   1283     86    -81    -80       C  
+HETATM   77  N1 A2NC A 100       3.651   2.629  10.561  0.30 10.75           N  
+ANISOU   77  N1 A2NC A 100     1355   1332   1394     36     13     -6       N  
+HETATM   78  N1 B2NC A 100       6.900  -6.089  16.603  0.70  9.31           N  
+ANISOU   78  N1 B2NC A 100     1113   1199   1221    -20    -13    -70       N  
+HETATM   79  O1 A2NC A 100       3.272   4.566  11.594  0.30 11.24           O  
+ANISOU   79  O1 A2NC A 100     1535   1294   1441     46    -41    -52       O  
+HETATM   80  O1 B2NC A 100       7.101  -5.891  18.832  0.70  9.81           O  
+ANISOU   80  O1 B2NC A 100     1536   1105   1084    114    -58     -4       O  
+HETATM   81  C2 A2NC A 100       4.082   0.909  12.216  0.30  8.89           C  
+ANISOU   81  C2 A2NC A 100     1206   1078   1092     69    -47     19       C  
+HETATM   82  C2 B2NC A 100       6.556  -3.944  15.558  0.70  7.76           C  
+ANISOU   82  C2 B2NC A 100      981    978    988     69    -43    -38       C  
+HETATM   83  N2 A2NC A 100       4.878   1.395  13.151  0.30  9.43           N  
+ANISOU   83  N2 A2NC A 100     1324   1233   1023     78      0     -3       N  
+HETATM   84  N2 B2NC A 100       5.727  -3.217  16.320  0.70  8.43           N  
+ANISOU   84  N2 B2NC A 100     1006    828   1369     93    -10      2       N  
+HETATM   85  O2 A2NC A 100       4.271  -0.210  11.756  0.30  8.92           O  
+ANISOU   85  O2 A2NC A 100     1373   1025    991    167   -196     17       O  
+HETATM   86  O2 B2NC A 100       6.517  -3.942  14.338  0.70  9.35           O  
+ANISOU   86  O2 B2NC A 100     1225   1301   1024    302    180   -180       O  
+HETATM   87  C3 A2NC A 100       5.751  -0.017  14.986  0.30  9.39           C  
+ANISOU   87  C3 A2NC A 100     1288   1215   1064    115     -6      5       C  
+HETATM   88  C3 B2NC A 100       4.760  -0.994  15.607  0.70  9.25           C  
+ANISOU   88  C3 B2NC A 100     1107   1078   1329    110    154    158       C  
+HETATM   89  N3 A2NC A 100       4.557  -0.846  14.985  0.30  8.97           N  
+ANISOU   89  N3 A2NC A 100     1330   1058   1017    136     21      0       N  
+HETATM   90  N3 B2NC A 100       5.966  -0.625  14.880  0.70  7.17           N  
+ANISOU   90  N3 B2NC A 100      826   1037    858    145    159    139       N  
+HETATM   91  O3 A2NC A 100       6.216  -3.058  14.368  0.30 10.09           O  
+ANISOU   91  O3 A2NC A 100     1315   1193   1324    137    -21     18       O  
+HETATM   92  O3 B2NC A 100       4.430  -0.466  12.550  0.70  9.75           O  
+ANISOU   92  O3 B2NC A 100     1403   1184   1115     66   -108     38       O  
+HETATM   93  C4 A2NC A 100       5.797  -2.916  15.507  0.30  9.84           C  
+ANISOU   93  C4 A2NC A 100     1319   1180   1240     82     -8      1       C  
+HETATM   94  C4 B2NC A 100       4.733   0.561  13.140  0.70  9.14           C  
+ANISOU   94  C4 B2NC A 100     1039   1290   1142    -32    -10    -46       C  
+HETATM   95  N4 A2NC A 100       6.488  -3.611  16.404  0.30  9.61           N  
+ANISOU   95  N4 A2NC A 100     1214   1165   1270      5    -17      1       N  
+HETATM   96  N4 B2NC A 100       4.192   1.712  12.737  0.70  9.07           N  
+ANISOU   96  N4 B2NC A 100     1029   1212   1202     53    -30    -81       N  
+HETATM   97  O4 A2NC A 100       7.128  -5.388  18.438  0.30 10.98           O  
+ANISOU   97  O4 A2NC A 100     1576   1326   1269    -60     -3      0       O  
+HETATM   98  O4 B2NC A 100       3.383   4.203  11.883  0.70  9.71           O  
+ANISOU   98  O4 B2NC A 100     1258   1048   1380    -20     -9   -134       O  
+HETATM   99  C5 A2NC A 100       7.301  -5.698  17.251  0.30 11.01           C  
+ANISOU   99  C5 A2NC A 100     1448   1369   1363     14     37    -30       C  
+HETATM  100  C5 B2NC A 100       3.250   3.243  11.131  0.70  9.95           C  
+ANISOU  100  C5 B2NC A 100     1309   1141   1329    -25     -9    -71       C  
+HETATM  101  N5 A2NC A 100       7.338  -6.956  16.864  0.30 12.22           N  
+ANISOU  101  N5 A2NC A 100     1578   1519   1545    -22     43    -30       N  
+HETATM  102  N5 B2NC A 100       3.094   3.353   9.817  0.70 11.74           N  
+ANISOU  102  N5 B2NC A 100     1618   1391   1451     19     29    -22       N  
+HETATM  103  O5 A2NC A 100       5.599  -6.160  18.769  0.30 18.71           O  
+ANISOU  103  O5 A2NC A 100     2513   2228   2368    -29     -7    -56       O  
+HETATM  104  O5 B2NC A 100       2.555   3.494   7.131  0.70 16.36           O  
+ANISOU  104  O5 B2NC A 100     2776   1839   1599    -56   -225    330       O  
+HETATM  105  C6 A2NC A 100       5.600  -7.325  18.348  0.30 16.64           C  
+ANISOU  105  C6 A2NC A 100     2146   2085   2091      8     26      0       C  
+HETATM  106  C6 B2NC A 100       2.206   4.383   7.835  0.70 20.22           C  
+ANISOU  106  C6 B2NC A 100     2684   2504   2492     39    -59     94       C  
+HETATM  107  N6 A2NC A 100       4.414  -7.667  17.842  0.30 17.19           N  
+ANISOU  107  N6 A2NC A 100     2247   2074   2210   -106     47      5       N  
+HETATM  108  N6 B2NC A 100       1.319   5.271   7.345  0.70 19.23           N  
+ANISOU  108  N6 B2NC A 100     2408   2330   2568    -46     97    278       N  
+CONECT    1    3   15
+CONECT    2    4   16
+CONECT    3    1   19   75
+CONECT    4    2   20   76
+CONECT    5   21   81   77
+CONECT    6   22   82   78
+CONECT    7   23   87   83
+CONECT    8   24   88   84
+CONECT    9   25   93   89
+CONECT   10   26   94   90
+CONECT   11   27   99   95
+CONECT   12   28  100   96
+CONECT   13   29  105  101
+CONECT   14   30  106  102
+CONECT   15    1   17   69
+CONECT   16    2   18   70
+CONECT   17   15
+CONECT   18   16
+CONECT   19    3   35   45
+CONECT   20    4   36   46
+CONECT   21    5   33   37
+CONECT   22    6   34   38
+CONECT   23    7   31
+CONECT   24    8   32
+CONECT   25    9   39
+CONECT   26   10   40
+CONECT   27   11   41
+CONECT   28   12   42
+CONECT   29   13   43
+CONECT   30   14   44
+CONECT   31   23   47
+CONECT   32   24   48
+CONECT   33   21   49
+CONECT   34   22   50
+CONECT   35   19
+CONECT   36   20
+CONECT   37   21
+CONECT   38   22
+CONECT   39   25   51
+CONECT   40   26   52
+CONECT   41   27   53
+CONECT   42   28   54
+CONECT   43   29   55
+CONECT   44   30   56
+CONECT   45   19
+CONECT   46   20
+CONECT   47   31   57
+CONECT   48   32   58
+CONECT   49   33
+CONECT   50   34
+CONECT   51   39   59
+CONECT   52   40   60
+CONECT   53   41   63   65
+CONECT   54   42   64   66
+CONECT   55   43   61
+CONECT   56   44   62
+CONECT   57   47
+CONECT   58   48
+CONECT   59   51
+CONECT   60   52
+CONECT   61   55   67
+CONECT   62   56   68
+CONECT   63   53
+CONECT   64   54
+CONECT   65   53
+CONECT   66   54
+CONECT   67   61   71   73
+CONECT   68   62   72   74
+CONECT   69   15
+CONECT   70   16
+CONECT   71   67
+CONECT   72   68
+CONECT   73   67
+CONECT   74   68
+CONECT   75    3   77   79
+CONECT   76    4   78   80
+CONECT   77   75    5
+CONECT   78   76    6
+CONECT   79   75
+CONECT   80   76
+CONECT   81    5   83   85
+CONECT   82    6   84   86
+CONECT   83   81    7
+CONECT   84   82    8
+CONECT   85   81
+CONECT   86   82
+CONECT   87    7   89
+CONECT   88    8   90
+CONECT   89   87    9
+CONECT   90   88   10
+CONECT   91   93
+CONECT   92   94
+CONECT   93    9   91   95
+CONECT   94   10   92   96
+CONECT   95   93   11
+CONECT   96   94   12
+CONECT   97   99
+CONECT   98  100
+CONECT   99   11   97  101
+CONECT  100   12   98  102
+CONECT  101   99   13
+CONECT  102  100   14
+CONECT  103  105
+CONECT  104  106
+CONECT  105   13  103  107
+CONECT  106   14  104  108
+CONECT  107  105
+CONECT  108  106
+END

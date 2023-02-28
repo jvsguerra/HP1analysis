@@ -1,0 +1,88 @@
+CRYST1   51.400   58.700   62.000  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  N   PI6 B 101       4.892   1.641  12.992  1.00 13.98           N  
+HETATM    2  CA  PI6 B 101       6.086   0.898  13.394  1.00 18.24           C  
+HETATM    3  CA1 PI6 B 101       4.733  -2.185  16.866  1.00 16.12           C  
+HETATM    4  CA2 PI6 B 101       7.239  -5.100  16.804  1.00 19.02           C  
+HETATM    5  CA3 PI6 B 101       6.161  -8.448  18.247  1.00 21.89           C  
+HETATM    6  C   PI6 B 101       3.839   1.070  12.419  1.00 19.01           C  
+HETATM    7  O   PI6 B 101       5.938  -3.213  15.043  1.00 21.40           O  
+HETATM    8  CB  PI6 B 101       7.325   1.731  13.147  1.00 18.90           C  
+HETATM    9  CB1 PI6 B 101       3.307  -2.601  16.485  1.00 11.52           C  
+HETATM   10  CB2 PI6 B 101       8.739  -4.777  17.039  1.00 21.47           C  
+HETATM   11  CG  PI6 B 101       7.517   2.083  11.738  1.00 23.44           C  
+HETATM   12  CG1 PI6 B 101       3.088  -4.088  16.588  1.00 21.65           C  
+HETATM   13 CG11 PI6 B 101       9.222  -3.621  16.161  1.00 19.12           C  
+HETATM   14  CG2 PI6 B 101       9.576  -6.027  16.773  1.00 17.63           C  
+HETATM   15  CD1 PI6 B 101       7.277   3.381  11.300  1.00 23.61           C  
+HETATM   16 CD11 PI6 B 101       3.069  -4.882  15.437  1.00 23.57           C  
+HETATM   17 CD12 PI6 B 101       9.703  -4.059  14.843  1.00 30.21           C  
+HETATM   18  CD2 PI6 B 101       7.852   1.103  10.818  1.00 20.26           C  
+HETATM   19 CD21 PI6 B 101       3.043  -4.729  17.840  1.00 17.64           C  
+HETATM   20  CE1 PI6 B 101       7.359   3.695   9.959  1.00 28.39           C  
+HETATM   21 CE11 PI6 B 101       3.027  -6.265  15.516  1.00 17.21           C  
+HETATM   22  CE2 PI6 B 101       7.934   1.407   9.477  1.00 26.41           C  
+HETATM   23 CE21 PI6 B 101       3.007  -6.103  17.928  1.00 18.42           C  
+HETATM   24  CZ  PI6 B 101       7.686   2.701   9.042  1.00 23.95           C  
+HETATM   25  CZ1 PI6 B 101       3.006  -6.870  16.757  1.00 22.58           C  
+HETATM   26  OH  PI6 B 101       3.018  -8.249  16.778  1.00 26.79           O  
+HETATM   27  CM  PI6 B 101       4.826  -0.350  15.162  1.00 13.65           C  
+HETATM   28  OXT PI6 B 101       7.214  -0.158  15.210  1.00 17.85           O  
+HETATM   29  C1  PI6 B 101       1.815   0.746  10.269  1.00 15.79           C  
+HETATM   30  N1  PI6 B 101       4.980  -0.749  16.565  1.00 18.24           N  
+HETATM   31  O1  PI6 B 101       3.812  -0.151  12.128  1.00 19.87           O  
+HETATM   32  C2  PI6 B 101       1.066   0.359  12.657  1.00 17.12           C  
+HETATM   33  N2  PI6 B 101       6.302  -4.005  17.141  1.00 19.33           N  
+HETATM   34  O2  PI6 B 101       2.846   1.907  12.139  1.00 14.39           O  
+HETATM   35  C3  PI6 B 101       0.650   2.515  11.579  1.00 15.78           C  
+HETATM   36  N3  PI6 B 101       6.543  -7.355  17.370  1.00 19.55           N  
+HETATM   37  O3  PI6 B 101       6.850  -5.873  19.059  1.00 15.49           O  
+HETATM   38  C4  PI6 B 101       6.025   0.540  14.867  1.00 17.92           C  
+HETATM   39  C5  PI6 B 101       5.727  -3.184  16.261  1.00 18.58           C  
+HETATM   40  C6  PI6 B 101       6.869  -6.158  17.847  1.00 20.10           C  
+HETATM   41  C7  PI6 B 101       5.077  -9.284  17.577  1.00 25.02           C  
+HETATM   42  C8  PI6 B 101       3.687  -8.760  17.916  1.00 30.81           C  
+HETATM   43  CT  PI6 B 101       1.609   1.362  11.669  1.00 14.89           C  
+CONECT    1    2    6
+CONECT    2    1    8   38
+CONECT    3    9   39   30
+CONECT    4   10   40   33
+CONECT    5   41   36
+CONECT    6    1   34   31
+CONECT    7   39
+CONECT    8    2   11
+CONECT    9    3   12
+CONECT   10    4   13   14
+CONECT   11    8   15   18
+CONECT   12    9   16   19
+CONECT   13   10   17
+CONECT   14   10
+CONECT   15   11   20
+CONECT   16   12   21
+CONECT   17   13
+CONECT   18   11   22
+CONECT   19   12   23
+CONECT   20   15   24
+CONECT   21   16   25
+CONECT   22   18   24
+CONECT   23   19   25
+CONECT   24   20   22
+CONECT   25   21   23   26
+CONECT   26   25   42
+CONECT   27   30   38
+CONECT   28   38
+CONECT   29   43
+CONECT   30   27    3
+CONECT   31    6
+CONECT   32   43
+CONECT   33    4   39
+CONECT   34    6   43
+CONECT   35   43
+CONECT   36    5   40
+CONECT   37   40
+CONECT   38    2   27   28
+CONECT   39    3    7   33
+CONECT   40    4   36   37
+CONECT   41    5   42
+CONECT   42   26   41
+CONECT   43   34   29   32   35
+END

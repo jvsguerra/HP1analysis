@@ -1,0 +1,296 @@
+CRYST1   58.900   86.020   46.390  90.00  90.00  90.00 P 21 21 2     1
+HETATM    1  N  AROC A 201      20.956  25.553  17.631  0.81  5.32           N  
+ANISOU    1  N  AROC A 201      855    189    979    178    102     51       N  
+HETATM    2  N  BROC A 201      12.582  19.414  17.316  0.19  8.26           N  
+ANISOU    2  N  BROC A 201     1506    651    982    136    239    154       N  
+HETATM    3  CA AROC A 201      19.802  25.744  16.809  0.81  5.45           C  
+ANISOU    3  CA AROC A 201      951    252    870     78    132    136       C  
+HETATM    4  CA BROC A 201      13.306  19.851  18.481  0.19  6.24           C  
+ANISOU    4  CA BROC A 201      869    432   1068    285    263    263       C  
+HETATM    5  CA1AROC A 201      16.898  23.902  18.463  0.81  5.15           C  
+ANISOU    5  CA1AROC A 201      908    456    594      2     95      0       C  
+HETATM    6  CA1BROC A 201      15.204  22.942  17.381  0.19  6.90           C  
+ANISOU    6  CA1BROC A 201     1023    766    832   -145     73    112       C  
+HETATM    7  C  AROC A 201      21.418  26.473  18.501  0.81  6.41           C  
+ANISOU    7  C  AROC A 201     1131    576    729    293     47    -32       C  
+HETATM    8  C  BROC A 201      11.272  19.332  17.101  0.19 10.20           C  
+ANISOU    8  C  BROC A 201     1686    667   1521   -885     19    -29       C  
+HETATM    9  O  AROC A 201      20.963  27.631  18.585  0.81  6.85           O  
+ANISOU    9  O  AROC A 201      984    427   1193    230    -71   -205       O  
+HETATM   10  O  BROC A 201      10.413  19.562  17.995  0.19 11.45           O  
+ANISOU   10  O  BROC A 201      967   1213   2172   -968   -295  -1402       O  
+HETATM   11  CB AROC A 201      20.111  25.777  15.333  0.81  7.29           C  
+ANISOU   11  CB AROC A 201     1317    600    852    317    373    242       C  
+HETATM   12  CB BROC A 201      13.823  18.802  19.412  0.19  6.99           C  
+ANISOU   12  CB BROC A 201     1599    462    593    685    759    208       C  
+HETATM   13  CB1AROC A 201      17.075  23.661  19.959  0.81  6.46           C  
+ANISOU   13  CB1AROC A 201     1102    703    651    308    183    174       C  
+HETATM   14  CB1BROC A 201      14.715  23.541  16.078  0.19  6.63           C  
+ANISOU   14  CB1BROC A 201      584   1074    863   -324    219    351       C  
+HETATM   15  CG AROC A 201      21.021  26.907  15.104  0.81 10.10           C  
+ANISOU   15  CG AROC A 201     1760    992   1084   -142    675    -85       C  
+HETATM   16  CG BROC A 201      12.673  18.033  19.950  0.19 11.06           C  
+ANISOU   16  CG BROC A 201     2044    633   1526    469    964    500       C  
+HETATM   17  CG1AROC A 201      18.496  23.401  20.384  0.81  5.82           C  
+ANISOU   17  CG1AROC A 201     1120    616    476    189     93    -12       C  
+HETATM   18  CG1BROC A 201      14.443  22.516  15.017  0.19  9.49           C  
+ANISOU   18  CG1BROC A 201     1305   1523    778    -36     60    141       C  
+HETATM   19  CD AROC A 201      14.316  18.905  20.150  0.81  6.69           C  
+ANISOU   19  CD AROC A 201     1223    805    514    173    192    174       C  
+HETATM   20  CD BROC A 201      19.966  25.973  14.754  0.19 11.07           C  
+ANISOU   20  CD BROC A 201     1963   1055   1188    470    -19    721       C  
+HETATM   21  CD1AROC A 201      19.084  22.173  20.161  0.81  6.88           C  
+ANISOU   21  CD1AROC A 201     1226    858    531    440   -146   -100       C  
+HETATM   22  CD1BROC A 201      15.434  21.613  14.638  0.19 12.34           C  
+ANISOU   22  CD1BROC A 201     1903   1861    926    492   -220    -87       C  
+HETATM   23  CD2AROC A 201      19.232  24.380  20.991  0.81  7.86           C  
+ANISOU   23  CD2AROC A 201     1390    837    758    -15    142    -71       C  
+HETATM   24  CD2BROC A 201      13.179  22.476  14.446  0.19 10.43           C  
+ANISOU   24  CD2BROC A 201     1930   1307    727    358   -638     44       C  
+HETATM   25  ND2AROC A 201      20.499  28.068  15.163  0.81  8.96           N  
+ANISOU   25  ND2AROC A 201     1945    789    670   -430    207    200       N  
+HETATM   26  ND2BROC A 201      11.641  18.564  20.548  0.19 13.12           N  
+ANISOU   26  ND2BROC A 201     1586   1991   1409    802    906   1224       N  
+HETATM   27  OD1AROC A 201      22.241  26.903  14.889  0.81 16.75           O  
+ANISOU   27  OD1AROC A 201     1770   2353   2239   -382   1128   -445       O  
+HETATM   28  OD1BROC A 201      12.599  16.800  19.842  0.19 24.90           O  
+ANISOU   28  OD1BROC A 201     4953    703   3805   -289   2222    354       O  
+HETATM   29  CE1AROC A 201      20.355  21.922  20.583  0.81  8.18           C  
+ANISOU   29  CE1AROC A 201     1207   1216    687    430   -297   -289       C  
+HETATM   30  CE1BROC A 201      15.157  20.684  13.661  0.19 14.94           C  
+ANISOU   30  CE1BROC A 201     2222   1921   1533    115     16   -416       C  
+HETATM   31  CE2AROC A 201      20.524  24.140  21.381  0.81  8.24           C  
+ANISOU   31  CE2AROC A 201     1426    885    820   -183    -56    196       C  
+HETATM   32  CE2BROC A 201      12.936  21.549  13.453  0.19 13.88           C  
+ANISOU   32  CE2BROC A 201     2291   1639   1345     70   -402   -446       C  
+HETATM   33  CZ AROC A 201      21.074  22.909  21.200  0.81  8.22           C  
+ANISOU   33  CZ AROC A 201     1413    947    762    -10   -148    164       C  
+HETATM   34  CZ BROC A 201      13.927  20.679  13.036  0.19 14.24           C  
+ANISOU   34  CZ BROC A 201     2345   1865   1201     14    -38   -470       C  
+HETATM   35  CM AROC A 201      14.425  23.409  18.143  0.81  6.96           C  
+ANISOU   35  CM AROC A 201      984    821    838    -48      4   -136       C  
+HETATM   36  CM BROC A 201      16.588  24.854  18.380  0.19  6.04           C  
+ANISOU   36  CM BROC A 201      801    725    770    -33    134     81       C  
+HETATM   37  C1 AROC A 201      18.820  24.619  17.124  0.81  4.99           C  
+ANISOU   37  C1 AROC A 201      711    258    927    199     91    137       C  
+HETATM   38  C1 BROC A 201      14.501  20.692  17.990  0.19  6.82           C  
+ANISOU   38  C1 BROC A 201     1376    753    463     44    604    116       C  
+HETATM   39  N1 AROC A 201      23.132  24.784  18.989  0.81  8.02           N  
+ANISOU   39  N1 AROC A 201      983   1038   1025    330    -53     -5       N  
+HETATM   40  N1 BROC A 201      11.918  18.209  15.053  0.19 12.46           N  
+ANISOU   40  N1 BROC A 201     2052   1258   1423   -476    240    165       N  
+HETATM   41  O1 AROC A 201      18.968  23.545  16.497  0.81  7.03           O  
+ANISOU   41  O1 AROC A 201      900    343   1429     15    374   -137       O  
+HETATM   42  O1 BROC A 201      15.595  20.158  17.783  0.19  5.94           O  
+ANISOU   42  O1 BROC A 201     1163    649    444   -221    533    -59       O  
+HETATM   43  C2 AROC A 201      22.526  25.948  19.324  0.81  7.51           C  
+ANISOU   43  C2 AROC A 201      923    977    952    231    -35     62       C  
+HETATM   44  C2 BROC A 201      10.969  18.913  15.722  0.19 12.52           C  
+ANISOU   44  C2 BROC A 201     2337    782   1637   -282   -242   -287       C  
+HETATM   45  N2 AROC A 201      17.910  24.889  18.056  0.81  4.96           N  
+ANISOU   45  N2 AROC A 201      828    449    607     -9     25     -9       N  
+HETATM   46  N2 BROC A 201      14.198  21.987  17.818  0.19  6.50           N  
+ANISOU   46  N2 BROC A 201     1135    724    612   -175     21    177       N  
+HETATM   47  O2 AROC A 201      15.185  25.565  18.907  0.81  6.51           O  
+ANISOU   47  O2 AROC A 201      881    857    735     58    202   -155       O  
+HETATM   48  O2 BROC A 201      14.192  24.804  18.539  0.19  9.54           O  
+ANISOU   48  O2 BROC A 201      762   1411   1450    -96    -76   -565       O  
+HETATM   49  C3 AROC A 201      22.957  26.713  20.429  0.81  9.25           C  
+ANISOU   49  C3 AROC A 201      680   1240   1592    -20   -183   -359       C  
+HETATM   50  C3 BROC A 201       9.771  19.183  15.060  0.19 13.65           C  
+ANISOU   50  C3 BROC A 201     2045   1299   1841   -461   -252   -820       C  
+HETATM   51  C3AAROC A 201      13.145  21.172  14.736  0.81  9.81           C  
+ANISOU   51  C3AAROC A 201     1641   1342    744   -152   -273   -126       C  
+HETATM   52  C3ABROC A 201      20.329  24.096  20.197  0.19  8.94           C  
+ANISOU   52  C3ABROC A 201     1175   1297    925    223     86   -138       C  
+HETATM   53  N3 AROC A 201      13.809  19.799  19.125  0.81  6.67           N  
+ANISOU   53  N3 AROC A 201     1096    711    729     86    175    241       N  
+HETATM   54  N3 BROC A 201      19.590  25.702  16.106  0.19  7.57           N  
+ANISOU   54  N3 BROC A 201     1382    506    989    537    -61    125       N  
+HETATM   55  O3 AROC A 201      15.802  20.448  18.253  0.81  6.32           O  
+ANISOU   55  O3 AROC A 201      830    720    850     26     33    -37       O  
+HETATM   56  O3 BROC A 201      18.426  23.678  16.191  0.19  5.71           O  
+ANISOU   56  O3 BROC A 201      297   1513    359    -38    301   -393       O  
+HETATM   57  C4 AROC A 201      23.951  26.128  21.224  0.81 10.49           C  
+ANISOU   57  C4 AROC A 201     1143   1517   1325     22   -293   -124       C  
+HETATM   58  C4 BROC A 201       9.594  18.761  13.741  0.19 10.56           C  
+ANISOU   58  C4 BROC A 201     1746    741   1525   -968    108   -355       C  
+HETATM   59  C4AAROC A 201      24.589  24.950  20.863  0.81  9.12           C  
+ANISOU   59  C4AAROC A 201      699   1481   1286    -22   -117    152       C  
+HETATM   60  C4ABROC A 201      10.585  18.028  13.106  0.19 12.70           C  
+ANISOU   60  C4ABROC A 201     1806   1571   1448   -813    370   -240       C  
+HETATM   61  C5 AROC A 201      25.590  24.382  21.624  0.81 12.08           C  
+ANISOU   61  C5 AROC A 201     1371   1711   1509    142   -449    256       C  
+HETATM   62  C5 BROC A 201      10.435  17.572  11.801  0.19 13.35           C  
+ANISOU   62  C5 BROC A 201     2255   1709   1107   -629    576     97       C  
+HETATM   63  C6 AROC A 201      26.248  23.229  21.252  0.81 13.05           C  
+ANISOU   63  C6 AROC A 201     1682   1485   1793    247   -489    494       C  
+HETATM   64  C6 BROC A 201      11.466  16.873  11.209  0.19 12.90           C  
+ANISOU   64  C6 BROC A 201     2325   1830    745   -612    942    693       C  
+HETATM   65  C7 AROC A 201      25.775  22.571  20.146  0.81 10.62           C  
+ANISOU   65  C7 AROC A 201     1015   1684   1334    516    200    397       C  
+HETATM   66  C7 BROC A 201      12.630  16.597  11.883  0.19 14.66           C  
+ANISOU   66  C7 BROC A 201     2649   1628   1294   -203    614    396       C  
+HETATM   67  C7AAROC A 201      13.773  22.569  14.627  0.81  8.12           C  
+ANISOU   67  C7AAROC A 201     1173   1134    778    241   -271     97       C  
+HETATM   68  C7ABROC A 201      19.024  23.682  20.882  0.19  7.75           C  
+ANISOU   68  C7ABROC A 201     1378    983    585    143     84    -77       C  
+HETATM   69  C8 AROC A 201      24.793  23.078  19.366  0.81 11.07           C  
+ANISOU   69  C8 AROC A 201     1477   1704   1027    866     91    228       C  
+HETATM   70  C8 BROC A 201      12.802  17.050  13.172  0.19 14.35           C  
+ANISOU   70  C8 BROC A 201     2722   1488   1244    200    387    534       C  
+HETATM   71  C8AAROC A 201      24.145  24.265  19.730  0.81  8.05           C  
+ANISOU   71  C8AAROC A 201     1025   1059    976    207     75    334       C  
+HETATM   72  C8ABROC A 201      11.769  17.757  13.785  0.19 13.76           C  
+ANISOU   72  C8ABROC A 201     2123   1645   1459   -356    329     42       C  
+HETATM   73  C9 AROC A 201      15.515  24.449  18.090  0.81  5.61           C  
+ANISOU   73  C9 AROC A 201      764    805    562     33    159    -85       C  
+HETATM   74  C9 BROC A 201      15.348  23.996  18.491  0.19  6.93           C  
+ANISOU   74  C9 BROC A 201      995    733    907   -160    276     40       C  
+HETATM   75  C11AROC A 201      15.008  17.752  19.480  0.81  7.80           C  
+ANISOU   75  C11AROC A 201     1375    677    911    166    189    185       C  
+HETATM   76  C11BROC A 201      21.456  25.766  14.633  0.19 22.09           C  
+ANISOU   76  C11BROC A 201     2628   2036   3731   1734   1880   -203       C  
+HETATM   77  N11AROC A 201      14.406  22.603  16.951  0.81  6.12           N  
+ANISOU   77  N11AROC A 201     1053    668    602    -76     24    114       N  
+HETATM   78  N11BROC A 201      17.758  24.161  18.854  0.19  5.99           N  
+ANISOU   78  N11BROC A 201     1023    578    675    144    140     -7       N  
+HETATM   79  C21AROC A 201      13.802  21.243  17.159  0.81  5.75           C  
+ANISOU   79  C21AROC A 201      933    592    661     46     48     61       C  
+HETATM   80  C21BROC A 201      18.991  24.736  18.236  0.19  5.94           C  
+ANISOU   80  C21BROC A 201      833    729    695    140    212   -494       C  
+HETATM   81  C22AROC A 201      13.153  18.399  20.975  0.81 10.36           C  
+ANISOU   81  C22AROC A 201     1656   1134   1145     88    614    423       C  
+HETATM   82  C22BROC A 201      19.697  27.382  14.302  0.19 12.58           C  
+ANISOU   82  C22BROC A 201     1933    930   1915    290    336    797       C  
+HETATM   83  C31AROC A 201      13.827  20.480  15.879  0.81  8.89           C  
+ANISOU   83  C31AROC A 201     1684    883    810   -170   -202   -100       C  
+HETATM   84  C31BROC A 201      20.196  23.916  18.704  0.19 10.26           C  
+ANISOU   84  C31BROC A 201     1053   2063    781    385    142    358       C  
+HETATM   85  C32AROC A 201      15.224  19.682  21.069  0.81  8.21           C  
+ANISOU   85  C32AROC A 201     1578    761    782    343   -106    161       C  
+HETATM   86  C32BROC A 201      19.218  25.015  13.869  0.19 21.05           C  
+ANISOU   86  C32BROC A 201     5954   1677    365  -1818    858    682       C  
+HETATM   87  C41AROC A 201      13.233  20.417  13.416  0.81 12.06           C  
+ANISOU   87  C41AROC A 201     1813   1746   1023    270   -450   -499       C  
+HETATM   88  C41BROC A 201      21.484  23.329  20.786  0.19  9.25           C  
+ANISOU   88  C41BROC A 201     1330   1276    909     64   -315   -187       C  
+HETATM   89  C51AROC A 201      14.601  20.455  12.773  0.81 12.84           C  
+ANISOU   89  C51AROC A 201     1907   1931   1039    244   -289   -597       C  
+HETATM   90  C51BROC A 201      21.260  21.832  20.878  0.19 10.55           C  
+ANISOU   90  C51BROC A 201     1478   1354   1177     17     38    306       C  
+HETATM   91  C61AROC A 201      15.075  21.870  12.594  0.81 13.48           C  
+ANISOU   91  C61AROC A 201     2478   2042    602     97    -52   -324       C  
+HETATM   92  C61BROC A 201      20.002  21.548  21.682  0.19  9.80           C  
+ANISOU   92  C61BROC A 201     1557   1233    933    437    234     83       C  
+HETATM   93  C71AROC A 201      15.110  22.507  13.976  0.81  8.69           C  
+ANISOU   93  C71AROC A 201     1581   1376    344    290     61     44       C  
+HETATM   94  C71BROC A 201      18.860  22.189  20.921  0.19  8.67           C  
+ANISOU   94  C71BROC A 201     1577    966    751    296     97   -133       C  
+HETATM   95  C81AROC A 201      13.711  23.307  15.902  0.81  5.95           C  
+ANISOU   95  C81AROC A 201      720    849    694    -94    107    269       C  
+HETATM   96  C81BROC A 201      17.828  24.373  20.307  0.19  5.95           C  
+ANISOU   96  C81BROC A 201     1035    549    679   -330     29    -65       C  
+HETATM   97  CC AROC A 201      14.582  20.449  18.220  0.81  5.69           C  
+ANISOU   97  CC AROC A 201      874    561    728   -148      0     86       C  
+HETATM   98  CC BROC A 201      19.008  24.654  16.675  0.19  5.68           C  
+ANISOU   98  CC BROC A 201      591    885    682    262    107   -176       C  
+CONECT    1    3    7
+CONECT    2    4    8
+CONECT    3    1   11   37
+CONECT    4    2   12   38
+CONECT    5   13   45   73
+CONECT    6   14   46   74
+CONECT    7    1    9   43
+CONECT    8    2   10   44
+CONECT    9    7
+CONECT   10    8
+CONECT   11    3   15
+CONECT   12    4   16
+CONECT   13    5   17
+CONECT   14    6   18
+CONECT   15   11   25   27
+CONECT   16   12   26   28
+CONECT   17   13   21   23
+CONECT   18   14   22   24
+CONECT   19   75   81   85   53
+CONECT   20   76   82   86   54
+CONECT   21   17   29
+CONECT   22   18   30
+CONECT   23   17   31
+CONECT   24   18   32
+CONECT   25   15
+CONECT   26   16
+CONECT   27   15
+CONECT   28   16
+CONECT   29   21   33
+CONECT   30   22   34
+CONECT   31   23   33
+CONECT   32   24   34
+CONECT   33   29   31
+CONECT   34   30   32
+CONECT   35   73   77
+CONECT   36   74   78
+CONECT   37    3   41   45
+CONECT   38    4   42   46
+CONECT   39   43   71
+CONECT   40   44   72
+CONECT   41   37
+CONECT   42   38
+CONECT   43    7   39   49
+CONECT   44    8   40   50
+CONECT   45    5   37
+CONECT   46    6   38
+CONECT   47   73
+CONECT   48   74
+CONECT   49   43   57
+CONECT   50   44   58
+CONECT   51   67   87   83
+CONECT   52   68   88   84
+CONECT   53   19   97
+CONECT   54   20   98
+CONECT   55   97
+CONECT   56   98
+CONECT   57   49   59
+CONECT   58   50   60
+CONECT   59   57   71   61
+CONECT   60   58   72   62
+CONECT   61   59   63
+CONECT   62   60   64
+CONECT   63   61   65
+CONECT   64   62   66
+CONECT   65   63   69
+CONECT   66   64   70
+CONECT   67   51   95   93
+CONECT   68   52   96   94
+CONECT   69   65   71
+CONECT   70   66   72
+CONECT   71   39   59   69
+CONECT   72   40   60   70
+CONECT   73    5   35   47
+CONECT   74    6   36   48
+CONECT   75   19
+CONECT   76   20
+CONECT   77   35   79   95
+CONECT   78   36   80   96
+CONECT   79   77   83   97
+CONECT   80   78   84   98
+CONECT   81   19
+CONECT   82   20
+CONECT   83   79   51
+CONECT   84   80   52
+CONECT   85   19
+CONECT   86   20
+CONECT   87   51   89
+CONECT   88   52   90
+CONECT   89   87   91
+CONECT   90   88   92
+CONECT   91   89   93
+CONECT   92   90   94
+CONECT   93   91   67
+CONECT   94   92   68
+CONECT   95   67   77
+CONECT   96   68   78
+CONECT   97   79   53   55
+CONECT   98   80   54   56
+END

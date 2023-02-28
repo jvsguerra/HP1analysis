@@ -1,0 +1,254 @@
+CRYST1   58.300   86.259   46.005  90.00  90.00  90.00 P 21 21 2     1
+HETATM    1  O1 ATPV B 201      13.268  21.876  62.689  0.70  9.63           O  
+ANISOU    1  O1 ATPV B 201     1337    960   1362     61    -81    150       O  
+HETATM    2  O1 BTPV B 201      10.924  20.236  63.371  0.30  9.92           O  
+ANISOU    2  O1 BTPV B 201     1454   1074   1242     38   -390      8       O  
+HETATM    3  C2 ATPV B 201      12.141  21.177  62.914  0.70  9.13           C  
+ANISOU    3  C2 ATPV B 201     1356   1003   1111     79    -72    119       C  
+HETATM    4  C2 BTPV B 201      11.989  21.007  63.001  0.30  9.67           C  
+ANISOU    4  C2 BTPV B 201     1477    999   1196    166    -85     45       C  
+HETATM    5  C3 ATPV B 201      12.130  19.897  63.514  0.70  8.71           C  
+ANISOU    5  C3 ATPV B 201     1256    941   1113     -2    -93     58       C  
+HETATM    6  C3 BTPV B 201      13.331  20.717  63.313  0.30  9.44           C  
+ANISOU    6  C3 BTPV B 201     1424   1031   1130     99    -56     96       C  
+HETATM    7  C4 ATPV B 201      13.400  19.390  63.775  0.70  8.69           C  
+ANISOU    7  C4 ATPV B 201     1251   1081    970     20   -145     -9       C  
+HETATM    8  C4 BTPV B 201      13.520  19.466  63.895  0.30  9.18           C  
+ANISOU    8  C4 BTPV B 201     1394   1066   1028     83    -82    108       C  
+HETATM    9  C5 ATPV B 201      14.603  20.016  63.388  0.70  9.49           C  
+ANISOU    9  C5 ATPV B 201     1318   1147   1139     36    -81    214       C  
+HETATM   10  C5 BTPV B 201      12.533  18.581  64.207  0.30 10.63           C  
+ANISOU   10  C5 BTPV B 201     1514   1221   1302     -2   -230    351       C  
+HETATM   11  C6 ATPV B 201      14.517  21.530  63.280  0.70  9.35           C  
+ANISOU   11  C6 ATPV B 201     1314   1112   1129    175     11     70       C  
+HETATM   12  C6 BTPV B 201      11.106  18.904  63.803  0.30 10.07           C  
+ANISOU   12  C6 BTPV B 201     1498   1145   1182    -61   -189    151       C  
+HETATM   13  O7 ATPV B 201      11.109  21.781  62.517  0.70 10.21           O  
+ANISOU   13  O7 ATPV B 201     1335   1265   1280    373    125    168       O  
+HETATM   14  O7 BTPV B 201      11.696  22.047  62.363  0.30 11.87           O  
+ANISOU   14  O7 BTPV B 201     1618   1371   1521    536    301    379       O  
+HETATM   15  O8 ATPV B 201      13.509  18.154  64.360  0.70  9.05           O  
+ANISOU   15  O8 ATPV B 201     1010   1220   1211     43   -167    161       O  
+HETATM   16  O8 BTPV B 201      14.791  19.079  64.208  0.30  9.44           O  
+ANISOU   16  O8 BTPV B 201     1420   1382    784    143    -73    186       O  
+HETATM   17  C9 ATPV B 201      14.582  22.028  64.743  0.70 11.77           C  
+ANISOU   17  C9 ATPV B 201     1716   1587   1169    -44     50   -149       C  
+HETATM   18  C9 BTPV B 201      10.644  17.933  62.704  0.30 11.05           C  
+ANISOU   18  C9 BTPV B 201     1691   1143   1366    -26   -197    -39       C  
+HETATM   19  C10ATPV B 201      14.599  23.534  64.941  0.70 13.07           C  
+ANISOU   19  C10ATPV B 201     2151   1600   1215   -182     77   -189       C  
+HETATM   20  C10BTPV B 201      11.708  17.808  61.626  0.30 11.69           C  
+ANISOU   20  C10BTPV B 201     1814   1134   1493   -147    -49   -104       C  
+HETATM   21  C11ATPV B 201      14.649  23.830  66.467  0.70 12.57           C  
+ANISOU   21  C11ATPV B 201     1751   1761   1264   -398   -167   -305       C  
+HETATM   22  C11BTPV B 201      11.122  16.873  60.532  0.30 13.95           C  
+ANISOU   22  C11BTPV B 201     1925   1170   2203   -158    274   -754       C  
+HETATM   23  C12ATPV B 201      15.605  22.173  62.431  0.70  9.80           C  
+ANISOU   23  C12ATPV B 201     1457   1097   1168    -89     23    -33       C  
+HETATM   24  C12BTPV B 201      10.284  18.432  65.013  0.30 12.43           C  
+ANISOU   24  C12BTPV B 201     1875   1407   1441     -7    238     65       C  
+HETATM   25  C13ATPV B 201      15.651  21.791  60.964  0.70 11.31           C  
+ANISOU   25  C13ATPV B 201     1830   1258   1211   -336    151    -41       C  
+HETATM   26  C13BTPV B 201       9.237  19.378  65.501  0.30 12.61           C  
+ANISOU   26  C13BTPV B 201     1815   1469   1509    -16     36   -295       C  
+HETATM   27  C14ATPV B 201      16.719  22.383  60.279  0.70 10.28           C  
+ANISOU   27  C14ATPV B 201     1725   1151   1032   -243     13    -90       C  
+HETATM   28  C14BTPV B 201       8.257  18.694  66.203  0.30 12.72           C  
+ANISOU   28  C14BTPV B 201     1765   1481   1587    -72     94   -427       C  
+HETATM   29  C15ATPV B 201      16.484  23.495  59.477  0.70 10.84           C  
+ANISOU   29  C15ATPV B 201     2078   1149    892   -388   -102   -109       C  
+HETATM   30  C15BTPV B 201       8.598  17.742  67.158  0.30 13.74           C  
+ANISOU   30  C15BTPV B 201     1783   1467   1969   -232     57   -188       C  
+HETATM   31  C16ATPV B 201      17.505  24.131  58.814  0.70 12.22           C  
+ANISOU   31  C16ATPV B 201     2161   1375   1107   -356     60     -5       C  
+HETATM   32  C16BTPV B 201       7.608  17.094  67.892  0.30 14.75           C  
+ANISOU   32  C16BTPV B 201     1934   1619   2051   -221    278   -245       C  
+HETATM   33  C17ATPV B 201      18.806  23.633  58.945  0.70 14.47           C  
+ANISOU   33  C17ATPV B 201     2186   1844   1470   -208    162     60       C  
+HETATM   34  C17BTPV B 201       6.270  17.384  67.687  0.30 15.01           C  
+ANISOU   34  C17BTPV B 201     1895   1770   2036   -104    464   -458       C  
+HETATM   35  C18ATPV B 201      19.065  22.508  59.728  0.70 13.56           C  
+ANISOU   35  C18ATPV B 201     1828   1557   1767   -252    159    -47       C  
+HETATM   36  C18BTPV B 201       5.905  18.330  66.729  0.30 15.02           C  
+ANISOU   36  C18BTPV B 201     1879   1921   1907    345    661   -551       C  
+HETATM   37  C19ATPV B 201      18.024  21.879  60.400  0.70 12.48           C  
+ANISOU   37  C19ATPV B 201     1702   1629   1412   -216     14    -50       C  
+HETATM   38  C19BTPV B 201       6.909  18.965  65.997  0.30 14.81           C  
+ANISOU   38  C19BTPV B 201     1819   1985   1822    344    426   -306       C  
+HETATM   39  C20ATPV B 201      10.875  19.220  63.699  0.70  9.87           C  
+ANISOU   39  C20ATPV B 201     1329   1278   1142   -189   -238    137       C  
+HETATM   40  C20BTPV B 201      14.381  21.595  63.078  0.30 10.07           C  
+ANISOU   40  C20BTPV B 201     1545   1122   1160     19    -81    176       C  
+HETATM   41  C21ATPV B 201      10.707  18.549  65.047  0.70 12.48           C  
+ANISOU   41  C21ATPV B 201     2071   1465   1207   -199    379     -4       C  
+HETATM   42  C21BTPV B 201      15.582  21.025  62.321  0.30 11.77           C  
+ANISOU   42  C21BTPV B 201     1652   1493   1329   -173    169    117       C  
+HETATM   43  C22ATPV B 201      10.900  19.444  66.264  0.70 10.83           C  
+ANISOU   43  C22ATPV B 201     1380   1573   1162    -85    191    -94       C  
+HETATM   44  C22BTPV B 201      15.425  21.402  60.843  0.30 14.44           C  
+ANISOU   44  C22BTPV B 201     2066   2190   1230   -673    178     49       C  
+HETATM   45  C23ATPV B 201      10.448  18.364  62.688  0.70  9.92           C  
+ANISOU   45  C23ATPV B 201     1520    896   1352   -207      0     80       C  
+HETATM   46  C23BTPV B 201      14.827  22.474  64.050  0.30 10.84           C  
+ANISOU   46  C23BTPV B 201     1698   1253   1167   -204    -33    191       C  
+HETATM   47  C24ATPV B 201      11.334  17.810  61.776  0.70 11.26           C  
+ANISOU   47  C24ATPV B 201     1734   1099   1445   -273    283     71       C  
+HETATM   48  C24BTPV B 201      14.618  22.182  65.399  0.30 11.31           C  
+ANISOU   48  C24BTPV B 201     1912   1250   1136    -68      7    143       C  
+HETATM   49  C25ATPV B 201      10.910  16.938  60.750  0.70 12.95           C  
+ANISOU   49  C25ATPV B 201     1831   1271   1817   -345    472   -293       C  
+HETATM   50  C25BTPV B 201      15.010  23.037  66.413  0.30 12.12           C  
+ANISOU   50  C25BTPV B 201     2021   1404   1181   -229   -382    285       C  
+HETATM   51  C26ATPV B 201       9.580  16.588  60.583  0.70 10.34           C  
+ANISOU   51  C26ATPV B 201     1864    872   1192   -204    166     89       C  
+HETATM   52  C26BTPV B 201      15.627  24.230  66.090  0.30 12.40           C  
+ANISOU   52  C26BTPV B 201     1949   1425   1335   -256   -456    309       C  
+HETATM   53  C27ATPV B 201       8.646  17.121  61.486  0.70 10.46           C  
+ANISOU   53  C27ATPV B 201     1471   1358   1147    119   -265   -113       C  
+HETATM   54  C27BTPV B 201      15.867  24.571  64.751  0.30 11.09           C  
+ANISOU   54  C27BTPV B 201     1783   1040   1390     31    -51    153       C  
+HETATM   55  N28ATPV B 201       7.303  16.819  61.312  0.70 10.01           N  
+ANISOU   55  N28ATPV B 201     1485   1057   1262    151   -680   -104       N  
+HETATM   56  N28BTPV B 201      16.438  25.769  64.548  0.30 13.33           N  
+ANISOU   56  N28BTPV B 201     2169   1247   1651   -285   -184    264       N  
+HETATM   57  C29ATPV B 201       9.100  17.961  62.482  0.70  8.78           C  
+ANISOU   57  C29ATPV B 201     1481    892    964   -202   -209    203       C  
+HETATM   58  C29BTPV B 201      15.484  23.690  63.756  0.30 10.83           C  
+ANISOU   58  C29BTPV B 201     1517   1265   1335   -161   -115    238       C  
+HETATM   59  S30ATPV B 201       6.739  15.469  61.988  0.70 13.49           S  
+ANISOU   59  S30ATPV B 201     1695   1698   1734    -51   -196     36       S  
+HETATM   60  S30BTPV B 201      18.074  25.952  64.514  0.30 13.86           S  
+ANISOU   60  S30BTPV B 201     2165   1415   1688   -304   -122    312       S  
+HETATM   61  O31ATPV B 201       5.299  15.344  61.562  0.70 13.39           O  
+ANISOU   61  O31ATPV B 201     1617   1402   2070    -19   -304    -71       O  
+HETATM   62  O31BTPV B 201      18.394  27.409  64.243  0.30 16.39           O  
+ANISOU   62  O31BTPV B 201     2392   1296   2537   -566   -845     54       O  
+HETATM   63  O32ATPV B 201       7.631  14.295  61.584  0.70 11.78           O  
+ANISOU   63  O32ATPV B 201     1815   1150   1511     46    -99    -72       O  
+HETATM   64  O32BTPV B 201      18.648  25.389  65.804  0.30 16.09           O  
+ANISOU   64  O32BTPV B 201     2503   1876   1734    596   -246     38       O  
+HETATM   65  C33ATPV B 201       6.823  15.717  63.758  0.70 11.34           C  
+ANISOU   65  C33ATPV B 201     1589   1077   1641   -211     69    -68       C  
+HETATM   66  C33BTPV B 201      18.603  25.033  63.119  0.30 14.41           C  
+ANISOU   66  C33BTPV B 201     2244   1531   1700   -231   -174    167       C  
+HETATM   67  N34ATPV B 201       7.868  15.249  64.466  0.70 11.44           N  
+ANISOU   67  N34ATPV B 201     1413   1280   1653   -263     71   -263       N  
+HETATM   68  N34BTPV B 201      18.549  23.715  63.295  0.30 13.77           N  
+ANISOU   68  N34BTPV B 201     2131   1572   1528   -726   -335     25       N  
+HETATM   69  C35ATPV B 201       8.049  15.632  65.794  0.70 10.79           C  
+ANISOU   69  C35ATPV B 201     1229   1192   1681    -62    100   -118       C  
+HETATM   70  C35BTPV B 201      18.709  22.993  62.133  0.30 16.44           C  
+ANISOU   70  C35BTPV B 201     2795   1712   1741   -666     85    -75       C  
+HETATM   71  C36ATPV B 201       7.128  16.494  66.418  0.70 11.17           C  
+ANISOU   71  C36ATPV B 201     1301   1183   1758     81    149    -78       C  
+HETATM   72  C36BTPV B 201      19.031  23.437  60.887  0.30 16.63           C  
+ANISOU   72  C36BTPV B 201     2860   1801   1658   -546      6    -93       C  
+HETATM   73  C37ATPV B 201       6.036  16.906  65.667  0.70 12.51           C  
+ANISOU   73  C37ATPV B 201     1503   1461   1790    174     18    -34       C  
+HETATM   74  C37BTPV B 201      19.125  24.815  60.765  0.30 17.17           C  
+ANISOU   74  C37BTPV B 201     3139   1741   1644    -72   -214    153       C  
+HETATM   75  C38ATPV B 201       5.860  16.518  64.335  0.70 13.27           C  
+ANISOU   75  C38ATPV B 201     1607   1532   1904    -57     41   -124       C  
+HETATM   76  C38BTPV B 201      18.905  25.607  61.899  0.30 15.36           C  
+ANISOU   76  C38BTPV B 201     2591   1534   1712    -38    -84    218       C  
+HETATM   77  C39ATPV B 201       7.277  16.914  67.722  0.70 12.61           C  
+ANISOU   77  C39ATPV B 201     1411   1446   1934   -104    -35   -460       C  
+HETATM   78  C39BTPV B 201      19.296  22.513  59.889  0.30 15.39           C  
+ANISOU   78  C39BTPV B 201     2308   1781   1758   -244     82      9       C  
+HETATM   79  F40ATPV B 201       7.890  16.033  68.524  0.70 19.04           F  
+ANISOU   79  F40ATPV B 201     1846   2769   2620     76   -341    961       F  
+HETATM   80  F40BTPV B 201      20.197  21.600  60.266  0.30 19.98           F  
+ANISOU   80  F40BTPV B 201     2145   3012   2435  -1305    495   -585       F  
+HETATM   81  F41ATPV B 201       6.252  17.368  68.403  0.70 16.89           F  
+ANISOU   81  F41ATPV B 201     2125   2802   1490    386    318   -394       F  
+HETATM   82  F41BTPV B 201      19.753  23.146  58.818  0.30 73.70           F  
+ANISOU   82  F41BTPV B 201    19336   7301   1364  -4164   3571  -2253       F  
+HETATM   83  F42ATPV B 201       8.130  17.972  67.764  0.70 19.71           F  
+ANISOU   83  F42ATPV B 201     3065   2216   2209   -899    337   -472       F  
+HETATM   84  F42BTPV B 201      18.143  21.900  59.628  0.30 36.66           F  
+ANISOU   84  F42BTPV B 201     7475   3905   2549  -4125   1242   -470       F  
+CONECT    1    3   11
+CONECT    2    4   12
+CONECT    3    1    5   13
+CONECT    4    2    6   14
+CONECT    5    3    7   39
+CONECT    6    4    8   40
+CONECT    7    5    9   15
+CONECT    8    6   10   16
+CONECT    9    7   11
+CONECT   10    8   12
+CONECT   11    1    9   17   23
+CONECT   12    2   10   18   24
+CONECT   13    3
+CONECT   14    4
+CONECT   15    7
+CONECT   16    8
+CONECT   17   11   19
+CONECT   18   12   20
+CONECT   19   17   21
+CONECT   20   18   22
+CONECT   21   19
+CONECT   22   20
+CONECT   23   11   25
+CONECT   24   12   26
+CONECT   25   23   27
+CONECT   26   24   28
+CONECT   27   25   29   37
+CONECT   28   26   30   38
+CONECT   29   27   31
+CONECT   30   28   32
+CONECT   31   29   33
+CONECT   32   30   34
+CONECT   33   31   35
+CONECT   34   32   36
+CONECT   35   33   37
+CONECT   36   34   38
+CONECT   37   27   35
+CONECT   38   28   36
+CONECT   39    5   41   45
+CONECT   40    6   42   46
+CONECT   41   39   43
+CONECT   42   40   44
+CONECT   43   41
+CONECT   44   42
+CONECT   45   39   47   57
+CONECT   46   40   48   58
+CONECT   47   45   49
+CONECT   48   46   50
+CONECT   49   47   51
+CONECT   50   48   52
+CONECT   51   49   53
+CONECT   52   50   54
+CONECT   53   51   55   57
+CONECT   54   52   56   58
+CONECT   55   53   59
+CONECT   56   54   60
+CONECT   57   45   53
+CONECT   58   46   54
+CONECT   59   55   61   63   65
+CONECT   60   56   62   64   66
+CONECT   61   59
+CONECT   62   60
+CONECT   63   59
+CONECT   64   60
+CONECT   65   59   67   75
+CONECT   66   60   68   76
+CONECT   67   65   69
+CONECT   68   66   70
+CONECT   69   67   71
+CONECT   70   68   72
+CONECT   71   69   73   77
+CONECT   72   70   74   78
+CONECT   73   71   75
+CONECT   74   72   76
+CONECT   75   65   73
+CONECT   76   66   74
+CONECT   77   71   79   81   83
+CONECT   78   72   80   82   84
+CONECT   79   77
+CONECT   80   78
+CONECT   81   77
+CONECT   82   78
+CONECT   83   77
+CONECT   84   78
+END

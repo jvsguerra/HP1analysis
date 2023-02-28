@@ -1,0 +1,96 @@
+CRYST1   58.500   86.900   46.900  90.00  90.00  90.00 P 21 21 2     1
+HETATM    1  N01 AHF B 501      11.594  23.922   6.163  1.00 24.37           N  
+HETATM    2  S02 AHF B 501      11.941  22.288   6.477  1.00 23.69           S  
+HETATM    3  N03 AHF B 501      13.610  22.422   6.259  1.00 24.06           N  
+HETATM    4  C04 AHF B 501      14.023  22.301   4.841  1.00 23.34           C  
+HETATM    5  C05 AHF B 501      14.158  23.776   4.298  1.00 23.40           C  
+HETATM    6  C06 AHF B 501      13.187  24.863   4.869  1.00 23.25           C  
+HETATM    7  C07 AHF B 501      11.681  24.634   4.856  1.00 24.34           C  
+HETATM    8  C08 AHF B 501      10.312  24.239   6.727  1.00 28.37           C  
+HETATM    9  C09 AHF B 501       9.736  25.450   7.351  1.00 24.76           C  
+HETATM   10  C10 AHF B 501       8.341  25.748   7.178  1.00 26.51           C  
+HETATM   11  C11 AHF B 501       7.767  26.912   7.771  1.00 26.11           C  
+HETATM   12  C12 AHF B 501       8.614  27.816   8.567  1.00 29.46           C  
+HETATM   13  C13 AHF B 501      10.049  27.518   8.751  1.00 26.08           C  
+HETATM   14  C14 AHF B 501      10.601  26.326   8.135  1.00 26.94           C  
+HETATM   15  O15 AHF B 501      11.308  21.469   5.461  1.00 22.54           O  
+HETATM   16  O16 AHF B 501      15.016  20.468   3.576  1.00 25.09           O  
+HETATM   17  C17 AHF B 501      15.955  19.495   3.261  1.00 26.69           C  
+HETATM   18  C18 AHF B 501      16.157  19.120   1.877  1.00 25.62           C  
+HETATM   19  C19 AHF B 501      17.149  18.094   1.523  1.00 27.16           C  
+HETATM   20  C20 AHF B 501      17.943  17.441   2.564  1.00 24.15           C  
+HETATM   21  C21 AHF B 501      17.753  17.801   3.951  1.00 26.88           C  
+HETATM   22  C22 AHF B 501      16.762  18.825   4.305  1.00 26.21           C  
+HETATM   23  C23 AHF B 501      14.508  22.802   7.411  1.00 26.26           C  
+HETATM   24  C24 AHF B 501      15.413  21.902   8.178  1.00 29.61           C  
+HETATM   25  C25 AHF B 501      14.881  20.953   9.143  1.00 31.33           C  
+HETATM   26  C26 AHF B 501      15.805  20.076   9.902  1.00 33.61           C  
+HETATM   27  C27 AHF B 501      17.270  20.160   9.687  1.00 34.58           C  
+HETATM   28  C28 AHF B 501      17.794  21.132   8.698  1.00 32.20           C  
+HETATM   29  C29 AHF B 501      16.863  21.990   7.957  1.00 30.47           C  
+HETATM   30  O30 AHF B 501      15.424  24.325   4.512  1.00 21.81           O  
+HETATM   31  O31 AHF B 501      13.421  26.016   4.176  1.00 23.74           O  
+HETATM   32  C32 AHF B 501      11.127  23.823   3.607  1.00 23.58           C  
+HETATM   33  O33 AHF B 501       9.707  23.725   3.747  1.00 24.51           O  
+HETATM   34  C34 AHF B 501       8.769  24.460   3.176  1.00 23.12           C  
+HETATM   35  C35 AHF B 501       9.091  25.556   2.241  1.00 20.58           C  
+HETATM   36  C36 AHF B 501       8.040  26.337   1.634  1.00 21.31           C  
+HETATM   37  C37 AHF B 501       6.659  26.034   1.953  1.00 23.51           C  
+HETATM   38  C38 AHF B 501       6.338  24.961   2.870  1.00 23.01           C  
+HETATM   39  C39 AHF B 501       7.395  24.177   3.479  1.00 21.61           C  
+HETATM   40  O40 AHF B 501      11.737  22.006   7.833  1.00 25.65           O  
+HETATM   41  C41 AHF B 501      15.336  21.479   4.610  1.00 26.46           C  
+HETATM   42  C42 AHF B 501      18.106  19.372  10.374  1.00 37.11           C  
+HETATM   43  O43 AHF B 501      17.702  18.805  11.552  1.00 40.31           O  
+HETATM   44  O44 AHF B 501      19.341  19.148   9.916  1.00 39.64           O  
+HETATM   45  C45 AHF B 501      18.540  18.000  12.286  1.00 40.84           C  
+HETATM   46  C46 AHF B 501       8.147  28.853   9.111  1.00 30.91           C  
+HETATM   47  O47 AHF B 501       7.648  29.675   8.176  1.00 35.23           O  
+CONECT    1    2    7    8
+CONECT    2    1    3   15   40
+CONECT    3    2    4   23
+CONECT    4    3    5   41
+CONECT    5    4    6   30
+CONECT    6    5    7   31
+CONECT    7    1    6   32
+CONECT    8    1    9
+CONECT    9    8   10   14
+CONECT   10    9   11
+CONECT   11   10   12
+CONECT   12   11   13   46
+CONECT   13   12   14
+CONECT   14    9   13
+CONECT   15    2
+CONECT   16   17   41
+CONECT   17   16   18   22
+CONECT   18   17   19
+CONECT   19   18   20
+CONECT   20   19   21
+CONECT   21   20   22
+CONECT   22   17   21
+CONECT   23    3   24
+CONECT   24   23   25   29
+CONECT   25   24   26
+CONECT   26   25   27
+CONECT   27   26   28   42
+CONECT   28   27   29
+CONECT   29   24   28
+CONECT   30    5
+CONECT   31    6
+CONECT   32    7   33
+CONECT   33   32   34
+CONECT   34   33   35   39
+CONECT   35   34   36
+CONECT   36   35   37
+CONECT   37   36   38
+CONECT   38   37   39
+CONECT   39   34   38
+CONECT   40    2
+CONECT   41    4   16
+CONECT   42   27   43   44
+CONECT   43   42   45
+CONECT   44   42
+CONECT   45   43
+CONECT   46   12   47
+CONECT   47   46
+END

@@ -1,0 +1,110 @@
+CRYST1   51.700   59.200   62.450  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  C   2NC B   0       1.972   4.392   7.997  1.00 11.46           C  
+HETATM    2  O   2NC B   0       1.909   3.348   7.368  1.00 17.92           O  
+HETATM    3  CH3 2NC B   0       1.165   5.616   7.788  1.00 20.43           C  
+HETATM    4  N   2NC B   0       2.741   4.491   9.062  1.00 15.09           N  
+HETATM    5  CA  2NC B   0       3.774   3.510   9.419  1.00 13.83           C  
+HETATM    6  C1  2NC B   0       3.478   3.163  10.865  1.00 12.56           C  
+HETATM    7  O1  2NC B   0       3.377   3.981  11.811  1.00 11.02           O  
+HETATM    8  CB  2NC B   0       5.026   4.320   8.954  1.00 24.09           C  
+HETATM    9  OG1 2NC B   0       5.156   4.021   7.511  1.00 28.97           O  
+HETATM   10  CG2 2NC B   0       6.347   4.222   9.744  1.00 30.52           C  
+HETATM   11  N1  2NC B   0       3.320   1.867  11.100  1.00 12.36           N  
+HETATM   12  CA1 2NC B   0       2.930   1.455  12.502  1.00 12.38           C  
+HETATM   13  C2  2NC B   0       4.013   0.549  12.965  1.00 11.01           C  
+HETATM   14  O2  2NC B   0       4.246  -0.672  12.858  1.00 12.40           O  
+HETATM   15  CB1 2NC B   0       1.356   1.433  12.299  1.00 11.86           C  
+HETATM   16  CG1 2NC B   0       0.890   0.856  10.985  1.00 16.23           C  
+HETATM   17 CG21 2NC B   0       0.606   2.862  12.245  1.00 10.98           C  
+HETATM   18  CD1 2NC B   0      -0.373   1.599  10.385  1.00 21.77           C  
+HETATM   19  N2  2NC B   0       4.960   1.206  13.614  1.00 12.02           N  
+HETATM   20  CA2 2NC B   0       6.191   0.490  14.140  1.00 12.08           C  
+HETATM   21  C3  2NC B   0       5.901   0.072  15.580  1.00 10.81           C  
+HETATM   22  CB2 2NC B   0       7.501   1.159  13.886  1.00 16.12           C  
+HETATM   23  CG  2NC B   0       7.941   1.597  12.492  1.00 17.02           C  
+HETATM   24  CD  2NC B   0       8.433   0.455  11.627  1.00 19.57           C  
+HETATM   25  CE  2NC B   0       9.251   1.045  10.469  1.00 21.03           C  
+HETATM   26  N3  2NC B   0       4.976  -0.998  15.428  1.00 10.44           N  
+HETATM   27  CA3 2NC B   0       5.088  -2.133  16.334  1.00  9.67           C  
+HETATM   28  C4  2NC B   0       5.960  -3.244  15.785  1.00  7.72           C  
+HETATM   29  O3  2NC B   0       6.279  -3.633  14.656  1.00  7.54           O  
+HETATM   30  CB3 2NC B   0       3.677  -2.605  16.613  1.00  9.80           C  
+HETATM   31  CG3 2NC B   0       3.081  -3.640  17.504  1.00  8.61           C  
+HETATM   32  CD2 2NC B   0       2.928  -5.033  16.925  1.00  8.74           C  
+HETATM   33  CE1 2NC B   0       2.269  -5.045  15.573  1.00  5.59           C  
+HETATM   34  N4  2NC B   0       6.480  -3.941  16.752  1.00  8.85           N  
+HETATM   35  CA4 2NC B   0       7.415  -5.105  16.501  1.00  9.73           C  
+HETATM   36  C5  2NC B   0       7.122  -5.961  17.714  1.00 12.57           C  
+HETATM   37  O4  2NC B   0       7.055  -5.729  18.950  1.00  9.49           O  
+HETATM   38  CB4 2NC B   0       8.655  -4.507  16.039  1.00 15.19           C  
+HETATM   39  CG4 2NC B   0      10.062  -4.804  15.744  1.00 22.73           C  
+HETATM   40  CD3 2NC B   0      10.324  -5.850  16.823  1.00 24.00           C  
+HETATM   41  OE1 2NC B   0      10.870  -5.620  17.850  1.00 24.95           O  
+HETATM   42  NE2 2NC B   0       9.724  -6.954  16.381  1.00 30.18           N  
+HETATM   43  N5  2NC B   0       6.731  -7.137  17.212  1.00 14.57           N  
+HETATM   44  CA5 2NC B   0       6.384  -8.274  18.130  1.00 17.16           C  
+HETATM   45  C6  2NC B   0       7.734  -8.869  18.521  1.00 17.68           C  
+HETATM   46  O5  2NC B   0       8.612  -9.201  17.671  1.00 20.08           O  
+HETATM   47  CB5 2NC B   0       5.467  -9.154  17.257  1.00 17.84           C  
+HETATM   48  CG5 2NC B   0       4.061  -8.676  17.136  1.00 18.74           C  
+HETATM   49  CD4 2NC B   0       3.378  -8.724  18.483  1.00 29.37           C  
+HETATM   50  NE  2NC B   0       3.481  -7.646  19.439  1.00 30.20           N  
+HETATM   51  CZ  2NC B   0       4.147  -7.396  20.556  1.00 33.20           C  
+HETATM   52  NH1 2NC B   0       4.195  -6.195  21.198  1.00 28.99           N  
+HETATM   53  NH2 2NC B   0       4.843  -8.425  21.099  1.00 34.66           N  
+HETATM   54  N6  2NC B   0       8.152  -9.119  19.639  1.00 19.20           N  
+CONECT    1    2    3    4
+CONECT    2    1
+CONECT    3    1
+CONECT    4    1    5
+CONECT    5    4    6    8
+CONECT    6    5    7   11
+CONECT    7    6
+CONECT    8    5    9   10
+CONECT    9    8
+CONECT   10    8
+CONECT   11    6   12
+CONECT   12   11   13   15
+CONECT   13   12   14   19
+CONECT   14   13
+CONECT   15   12   16   17
+CONECT   16   15   18
+CONECT   17   15
+CONECT   18   16
+CONECT   19   13   20
+CONECT   20   19   21   22
+CONECT   21   20   26
+CONECT   22   20   23
+CONECT   23   22   24
+CONECT   24   23   25
+CONECT   25   24
+CONECT   26   21   27
+CONECT   27   26   28   30
+CONECT   28   27   29   34
+CONECT   29   28
+CONECT   30   27   31
+CONECT   31   30   32
+CONECT   32   31   33
+CONECT   33   32
+CONECT   34   28   35
+CONECT   35   34   36   38
+CONECT   36   35   37   43
+CONECT   37   36
+CONECT   38   35   39
+CONECT   39   38   40
+CONECT   40   39   41   42
+CONECT   41   40
+CONECT   42   40
+CONECT   43   36   44
+CONECT   44   43   45   47
+CONECT   45   44   46   54
+CONECT   46   45
+CONECT   47   44   48
+CONECT   48   47   49
+CONECT   49   48   50
+CONECT   50   49   51
+CONECT   51   50   52   53
+CONECT   52   51
+CONECT   53   51
+CONECT   54   45
+END

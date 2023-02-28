@@ -1,0 +1,193 @@
+# pyKVFinder results
+
+[FILES]
+INPUT = "/Users/jvsguerra/remote-repos/hiv-1-protease-analysis/data/bounded/1ec0.pdb"
+OUTPUT = "/Users/jvsguerra/remote-repos/hiv-1-protease-analysis/results/1ec0/1ec0.KVFinder.output.pdb"
+HYDROPATHY = "/Users/jvsguerra/remote-repos/hiv-1-protease-analysis/results/1ec0/1ec0.EisenbergWeiss.pdb"
+
+[PARAMETERS]
+STEP = 0.6
+
+[RESULTS.VOLUME]
+KAA = 722.52
+KAB = 19.44
+KAC = 8.86
+KAD = 13.82
+KAE = 9.07
+KAF = 25.92
+KAG = 6.7
+KAH = 6.7
+
+[RESULTS.AREA]
+KAA = 471.28
+KAB = 27.81
+KAC = 14.75
+KAD = 21.31
+KAE = 15.09
+KAF = 34.02
+KAG = 14.06
+KAH = 12.8
+
+[RESULTS.MAX_DEPTH]
+KAA = 7.2
+KAB = 1.8
+KAC = 0.85
+KAD = 1.2
+KAE = 0.85
+KAF = 1.34
+KAG = 0.6
+KAH = 0.6
+
+[RESULTS.AVG_DEPTH]
+KAA = 2.99
+KAB = 0.62
+KAC = 0.23
+KAD = 0.37
+KAE = 0.21
+KAF = 0.42
+KAG = 0.15
+KAH = 0.19
+
+[RESULTS.AVG_HYDROPATHY]
+KAA = -0.5
+KAB = -0.19
+KAC = 0.98
+KAD = -0.4
+KAE = -1.17
+KAF = 0.61
+KAG = 0.4
+KAH = -0.49
+EisenbergWeiss = [ -1.42, 2.6,]
+
+[RESULTS.RESIDUES]
+KAA = [ [ "8", "A", "ARG",], [ "23", "A", "LEU",], [ "25", "A", "ASP",], [ "27", "A", "GLY",], [ "28", "A", "ALA",], [ "29", "A", "ASP",], [ "30", "A", "ASP",], [ "31", "A", "THR",], [ "32", "A", "VAL",], [ "47", "A", "ILE",], [ "48", "A", "GLY",], [ "49", "A", "GLY",], [ "50", "A", "ILE",], [ "76", "A", "LEU",], [ "81", "A", "PRO",], [ "82", "A", "VAL",], [ "84", "A", "ILE",], [ "108", "B", "ARG",], [ "123", "B", "LEU",], [ "125", "B", "ASP",], [ "127", "B", "GLY",], [ "128", "B", "ALA",], [ "129", "B", "ASP",], [ "130", "B", "ASP",], [ "132", "B", "VAL",], [ "147", "B", "ILE",], [ "148", "B", "GLY",], [ "149", "B", "GLY",], [ "150", "B", "ILE",], [ "176", "B", "LEU",], [ "180", "B", "THR",], [ "181", "B", "PRO",], [ "182", "B", "VAL",], [ "184", "B", "ILE",],]
+KAB = [ [ "110", "B", "LEU",], [ "121", "B", "GLU",], [ "122", "B", "ALA",], [ "123", "B", "LEU",], [ "182", "B", "VAL",], [ "183", "B", "ASN",],]
+KAC = [ [ "103", "B", "ILE",], [ "104", "B", "THR",], [ "106", "B", "TRP",], [ "107", "B", "GLN",], [ "108", "B", "ARG",], [ "109", "B", "PRO",],]
+KAD = [ [ "91", "A", "THR",], [ "94", "A", "GLY",], [ "95", "A", "CYS",], [ "96", "A", "THR",], [ "104", "B", "THR",], [ "105", "B", "LEU",], [ "106", "B", "TRP",],]
+KAE = [ [ "115", "B", "ILE",], [ "116", "B", "GLY",], [ "138", "B", "LEU",], [ "139", "B", "PRO",], [ "162", "B", "ILE",], [ "163", "B", "LEU",],]
+KAF = [ [ "114", "B", "LYS",], [ "115", "B", "ILE",], [ "116", "B", "GLY",], [ "163", "B", "LEU",], [ "164", "B", "ILE",], [ "165", "B", "GLU",], [ "170", "B", "LYS",],]
+KAG = [ [ "14", "A", "LYS",], [ "15", "A", "ILE",], [ "16", "A", "GLY",], [ "63", "A", "LEU",], [ "64", "A", "ILE",], [ "65", "A", "GLU",],]
+KAH = [ [ "4", "A", "THR",], [ "5", "A", "LEU",], [ "6", "A", "TRP",], [ "191", "B", "THR",], [ "195", "B", "CYS",], [ "196", "B", "THR",],]
+
+[RESULTS.FREQUENCY.KAA.RESIDUES]
+ALA = 2
+ARG = 2
+ASP = 6
+GLY = 6
+ILE = 6
+LEU = 4
+PRO = 2
+THR = 2
+VAL = 4
+
+[RESULTS.FREQUENCY.KAA.CLASS]
+R1 = 24
+R2 = 0
+R3 = 2
+R4 = 6
+R5 = 2
+RX = 0
+
+[RESULTS.FREQUENCY.KAB.RESIDUES]
+ALA = 1
+ASN = 1
+GLU = 1
+LEU = 2
+VAL = 1
+
+[RESULTS.FREQUENCY.KAB.CLASS]
+R1 = 4
+R2 = 0
+R3 = 1
+R4 = 1
+R5 = 0
+RX = 0
+
+[RESULTS.FREQUENCY.KAC.RESIDUES]
+ARG = 1
+GLN = 1
+ILE = 1
+PRO = 1
+THR = 1
+TRP = 1
+
+[RESULTS.FREQUENCY.KAC.CLASS]
+R1 = 2
+R2 = 1
+R3 = 2
+R4 = 0
+R5 = 1
+RX = 0
+
+[RESULTS.FREQUENCY.KAD.RESIDUES]
+CYS = 1
+GLY = 1
+LEU = 1
+THR = 3
+TRP = 1
+
+[RESULTS.FREQUENCY.KAD.CLASS]
+R1 = 2
+R2 = 1
+R3 = 4
+R4 = 0
+R5 = 0
+RX = 0
+
+[RESULTS.FREQUENCY.KAE.RESIDUES]
+GLY = 1
+ILE = 2
+LEU = 2
+PRO = 1
+
+[RESULTS.FREQUENCY.KAE.CLASS]
+R1 = 6
+R2 = 0
+R3 = 0
+R4 = 0
+R5 = 0
+RX = 0
+
+[RESULTS.FREQUENCY.KAF.RESIDUES]
+GLU = 1
+GLY = 1
+ILE = 2
+LEU = 1
+LYS = 2
+
+[RESULTS.FREQUENCY.KAF.CLASS]
+R1 = 4
+R2 = 0
+R3 = 0
+R4 = 1
+R5 = 2
+RX = 0
+
+[RESULTS.FREQUENCY.KAG.RESIDUES]
+GLU = 1
+GLY = 1
+ILE = 2
+LEU = 1
+LYS = 1
+
+[RESULTS.FREQUENCY.KAG.CLASS]
+R1 = 4
+R2 = 0
+R3 = 0
+R4 = 1
+R5 = 1
+RX = 0
+
+[RESULTS.FREQUENCY.KAH.RESIDUES]
+CYS = 1
+LEU = 1
+THR = 3
+TRP = 1
+
+[RESULTS.FREQUENCY.KAH.CLASS]
+R1 = 1
+R2 = 1
+R3 = 4
+R4 = 0
+R5 = 0
+RX = 0

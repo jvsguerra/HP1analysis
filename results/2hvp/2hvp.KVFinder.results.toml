@@ -1,0 +1,55 @@
+# pyKVFinder results
+
+[FILES]
+INPUT = "/Users/jvsguerra/remote-repos/hiv-1-protease-analysis/data/unbounded/2hvp.pdb"
+OUTPUT = "/Users/jvsguerra/remote-repos/hiv-1-protease-analysis/results/2hvp/2hvp.KVFinder.output.pdb"
+HYDROPATHY = "/Users/jvsguerra/remote-repos/hiv-1-protease-analysis/results/2hvp/2hvp.EisenbergWeiss.pdb"
+
+[PARAMETERS]
+STEP = 0.6
+
+[RESULTS.VOLUME]
+KAA = 1898.42
+
+[RESULTS.AREA]
+KAA = 655.43
+
+[RESULTS.MAX_DEPTH]
+KAA = 4.72
+
+[RESULTS.AVG_DEPTH]
+KAA = 1.29
+
+[RESULTS.AVG_HYDROPATHY]
+KAA = -0.57
+EisenbergWeiss = [ -1.42, 2.6,]
+
+[RESULTS.RESIDUES]
+KAA = [ [ "9", "A", "PRO",], [ "11", "A", "VAL",], [ "12", "A", "THR",], [ "13", "A", "ILE",], [ "14", "A", "LYS",], [ "15", "A", "ILE",], [ "16", "A", "GLY",], [ "18", "A", "GLN",], [ "19", "A", "LEU",], [ "20", "A", "LYS",], [ "21", "A", "GLU",], [ "22", "A", "ALA",], [ "23", "A", "LEU",], [ "24", "A", "LEU",], [ "25", "A", "ASP",], [ "26", "A", "THR",], [ "27", "A", "GLY",], [ "28", "A", "ALA",], [ "29", "A", "ASP",], [ "30", "A", "ASP",], [ "31", "A", "THR",], [ "32", "A", "VAL",], [ "33", "A", "LEU",], [ "34", "A", "GLU",], [ "35", "A", "GLU",], [ "36", "A", "MET",], [ "37", "A", "ASN",], [ "38", "A", "LEU",], [ "45", "A", "LYS",], [ "46", "A", "MET",], [ "47", "A", "ILE",], [ "48", "A", "GLY",], [ "49", "A", "GLY",], [ "54", "A", "ILE",], [ "55", "A", "LYS",], [ "56", "A", "VAL",], [ "57", "A", "ARG",], [ "58", "A", "GLN",], [ "59", "A", "TYR",], [ "60", "A", "ASP",], [ "61", "A", "GLN",], [ "62", "A", "ILE",], [ "63", "A", "LEU",], [ "64", "A", "ILE",], [ "65", "A", "GLU",], [ "66", "A", "ILE",], [ "69", "A", "HIS",], [ "70", "A", "LYS",], [ "71", "A", "ALA",], [ "72", "A", "ILE",], [ "73", "A", "GLY",], [ "74", "A", "THR",], [ "75", "A", "VAL",], [ "76", "A", "LEU",], [ "77", "A", "VAL",], [ "78", "A", "GLY",], [ "79", "A", "PRO",], [ "80", "A", "THR",], [ "82", "A", "VAL",], [ "83", "A", "ASN",], [ "84", "A", "ILE",], [ "85", "A", "ILE",], [ "86", "A", "GLY",], [ "87", "A", "ARG",], [ "88", "A", "ASN",], [ "89", "A", "LEU",], [ "90", "A", "LEU",], [ "91", "A", "THR",], [ "98", "A", "ASN",], [ "99", "A", "PHE",],]
+
+[RESULTS.FREQUENCY.KAA.RESIDUES]
+ALA = 3
+ARG = 2
+ASN = 4
+ASP = 4
+GLN = 3
+GLU = 4
+GLY = 7
+HIS = 1
+ILE = 10
+LEU = 9
+LYS = 5
+MET = 2
+PHE = 1
+PRO = 2
+THR = 6
+TYR = 1
+VAL = 6
+
+[RESULTS.FREQUENCY.KAA.CLASS]
+R1 = 37
+R2 = 2
+R3 = 15
+R4 = 8
+R5 = 8
+RX = 0

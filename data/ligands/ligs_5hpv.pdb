@@ -1,0 +1,153 @@
+CRYST1   58.390   86.700   46.270  90.00  90.00  90.00 P 21 21 2     1
+HETATM    1  C  AACE C   1       4.949  27.758   6.793  0.58 16.95           C  
+HETATM    2  C  BACE C   1      19.663  15.657   6.261  0.42 18.88           C  
+HETATM    3  O  AACE C   1       4.800  26.678   7.393  0.58 16.85           O  
+HETATM    4  O  BACE C   1      18.768  14.830   6.422  0.42 18.41           O  
+HETATM    5  CH3AACE C   1       4.171  29.012   7.116  0.58 17.27           C  
+HETATM    6  CH3BACE C   1      21.086  15.170   5.853  0.42 18.90           C  
+ATOM      7  N  AVAL C   2       5.930  27.841   5.869  0.58 16.43           N  
+ATOM      8  N  BVAL C   2      19.579  16.978   6.423  0.42 18.72           N  
+ATOM      9  CA AVAL C   2       6.688  26.574   5.627  0.58 16.04           C  
+ATOM     10  CA BVAL C   2      18.393  17.753   6.824  0.42 18.71           C  
+ATOM     11  C  AVAL C   2       8.183  26.793   5.860  0.58 16.17           C  
+ATOM     12  C  BVAL C   2      18.101  18.853   5.793  0.42 18.43           C  
+ATOM     13  O  AVAL C   2       8.690  27.910   5.675  0.58 16.57           O  
+ATOM     14  O  BVAL C   2      18.939  19.560   5.243  0.42 18.17           O  
+ATOM     15  CB AVAL C   2       6.529  26.178   4.139  0.58 15.92           C  
+ATOM     16  CB BVAL C   2      18.553  18.354   8.247  0.42 18.95           C  
+ATOM     17  CG1AVAL C   2       7.686  25.256   3.685  0.58 15.51           C  
+ATOM     18  CG1BVAL C   2      17.633  19.570   8.512  0.42 19.16           C  
+ATOM     19  CG2AVAL C   2       5.166  25.563   3.805  0.58 16.10           C  
+ATOM     20  CG2BVAL C   2      18.320  17.314   9.370  0.42 18.90           C  
+ATOM     21  N  AVAL C   3       8.838  25.670   6.185  0.58 15.53           N  
+ATOM     22  N  BVAL C   3      16.796  18.974   5.525  0.42 18.46           N  
+ATOM     23  CA AVAL C   3      10.301  25.689   6.434  0.58 15.10           C  
+ATOM     24  CA BVAL C   3      16.297  19.938   4.510  0.42 18.90           C  
+ATOM     25  C  AVAL C   3      10.978  24.553   5.700  0.58 15.34           C  
+ATOM     26  C  BVAL C   3      15.234  20.788   5.209  0.42 19.17           C  
+ATOM     27  O  AVAL C   3      10.569  23.386   5.717  0.58 14.41           O  
+ATOM     28  O  BVAL C   3      14.234  20.296   5.765  0.42 19.76           O  
+ATOM     29  CB AVAL C   3      10.418  25.590   7.983  0.58 15.38           C  
+ATOM     30  CB BVAL C   3      15.720  19.142   3.307  0.42 18.77           C  
+ATOM     31  CG1AVAL C   3      11.799  25.185   8.480  0.58 15.02           C  
+ATOM     32  CG1BVAL C   3      14.739  19.932   2.422  0.42 18.88           C  
+ATOM     33  CG2AVAL C   3       9.895  26.911   8.621  0.58 14.68           C  
+ATOM     34  CG2BVAL C   3      16.820  18.531   2.399  0.42 18.85           C  
+HETATM   35  N  ASTA C   4      12.126  24.878   5.008  0.58 15.30           N  
+HETATM   36  N  BSTA C   4      15.468  22.108   5.234  0.42 19.16           N  
+HETATM   37  CA ASTA C   4      12.846  23.643   4.497  0.58 15.64           C  
+HETATM   38  CA BSTA C   4      14.510  22.962   6.010  0.42 19.17           C  
+HETATM   39  C  ASTA C   4      14.767  21.286   5.304  0.58 16.67           C  
+HETATM   40  C  BSTA C   4      11.557  24.225   5.627  0.42 21.24           C  
+HETATM   41  O  ASTA C   4      13.666  20.739   5.524  0.58 16.86           O  
+HETATM   42  O  BSTA C   4      11.181  23.263   6.308  0.42 20.56           O  
+HETATM   43  CB ASTA C   4      12.228  23.417   3.092  0.58 14.66           C  
+HETATM   44  CB BSTA C   4      15.243  23.319   7.324  0.42 18.08           C  
+HETATM   45  CG ASTA C   4      10.775  23.868   2.843  0.58 14.76           C  
+HETATM   46  CG BSTA C   4      15.448  22.213   8.387  0.42 17.45           C  
+HETATM   47  CD1ASTA C   4      10.485  24.264   1.386  0.58 14.53           C  
+HETATM   48  CD1BSTA C   4      16.666  22.520   9.291  0.42 16.99           C  
+HETATM   49  CD2ASTA C   4       9.706  22.846   3.326  0.58 15.42           C  
+HETATM   50  CD2BSTA C   4      14.185  21.975   9.242  0.42 16.75           C  
+HETATM   51  CH ASTA C   4      14.377  23.783   4.659  0.58 16.09           C  
+HETATM   52  CH BSTA C   4      14.126  24.132   5.060  0.42 19.64           C  
+HETATM   53  OH ASTA C   4      14.690  25.086   5.214  0.58 15.48           O  
+HETATM   54  OH BSTA C   4      14.996  24.019   3.889  0.42 18.69           O  
+HETATM   55  CM ASTA C   4      15.073  22.755   5.634  0.58 16.56           C  
+HETATM   56  CM BSTA C   4      12.654  24.175   4.554  0.42 20.41           C  
+ATOM     57  N  AALA C   5      15.827  20.674   4.766  0.58 16.24           N  
+ATOM     58  N  BALA C   5      10.971  25.421   5.774  0.42 21.84           N  
+ATOM     59  CA AALA C   5      16.227  19.282   5.045  0.58 16.23           C  
+ATOM     60  CA BALA C   5       9.726  25.622   6.544  0.42 22.35           C  
+ATOM     61  C  AALA C   5      17.704  19.162   5.397  0.58 16.01           C  
+ATOM     62  C  BALA C   5       8.709  26.437   5.751  0.42 23.07           C  
+ATOM     63  O  AALA C   5      18.657  19.738   4.855  0.58 15.55           O  
+ATOM     64  O  BALA C   5       8.950  27.538   5.213  0.42 23.24           O  
+ATOM     65  CB AALA C   5      15.855  18.433   3.797  0.58 16.43           C  
+ATOM     66  CB BALA C   5      10.062  26.418   7.834  0.42 22.40           C  
+HETATM   67  N  ASTA C   6      17.913  18.389   6.465  0.58 16.21           N  
+HETATM   68  N  BSTA C   6       7.475  25.908   5.659  0.42 23.43           N  
+HETATM   69  CA ASTA C   6      19.216  17.934   6.952  0.58 16.90           C  
+HETATM   70  CA BSTA C   6       6.456  26.682   4.907  0.42 24.33           C  
+HETATM   71  C  ASTA C   6      20.347  14.858   5.001  0.58 16.77           C  
+HETATM   72  C  BSTA C   6       4.783  28.970   7.590  0.42 25.57           C  
+HETATM   73  O  ASTA C   6      20.936  14.302   5.936  0.58 16.53           O  
+HETATM   74  O  BSTA C   6       3.613  28.832   7.209  0.42 25.84           O  
+HETATM   75  CB ASTA C   6      19.416  18.441   8.425  0.58 16.80           C  
+HETATM   76  CB BSTA C   6       6.008  25.836   3.690  0.42 24.52           C  
+HETATM   77  CG ASTA C   6      19.492  19.988   8.585  0.58 16.54           C  
+HETATM   78  CG BSTA C   6       6.817  26.025   2.369  0.42 24.54           C  
+HETATM   79  CD1ASTA C   6      18.069  20.593   8.553  0.58 16.56           C  
+HETATM   80  CD1BSTA C   6       8.159  25.237   2.388  0.42 24.63           C  
+HETATM   81  CD2ASTA C   6      20.246  20.404   9.854  0.58 16.39           C  
+HETATM   82  CD2BSTA C   6       5.967  25.606   1.160  0.42 24.48           C  
+HETATM   83  CH ASTA C   6      19.248  16.400   6.717  0.58 17.28           C  
+HETATM   84  CH BSTA C   6       5.385  27.134   5.927  0.42 24.90           C  
+HETATM   85  OH ASTA C   6      18.083  15.745   7.288  0.58 18.45           O  
+HETATM   86  OH BSTA C   6       4.742  25.961   6.471  0.42 25.11           O  
+HETATM   87  CM ASTA C   6      19.317  15.994   5.211  0.58 16.63           C  
+HETATM   88  CM BSTA C   6       5.908  28.009   7.114  0.42 25.41           C  
+HETATM   89  OXTASTA C   6      20.573  14.552   3.703  0.58 16.89           O  
+HETATM   90  OXTBSTA C   6       5.185  29.974   8.416  0.42 25.36           O  
+TER   
+CONECT    1    3    5    7
+CONECT    2    4    6    8
+CONECT    3    1
+CONECT    4    2
+CONECT    5    1
+CONECT    6    2
+CONECT    7    1
+CONECT    8    2
+CONECT   25   35
+CONECT   26   36
+CONECT   35   25   37
+CONECT   36   26   38
+CONECT   37   35   43   51
+CONECT   38   36   44   52
+CONECT   39   41   57   55
+CONECT   40   42   58   56
+CONECT   41   39
+CONECT   42   40
+CONECT   43   37   45
+CONECT   44   38   46
+CONECT   45   43   47   49
+CONECT   46   44   48   50
+CONECT   47   45
+CONECT   48   46
+CONECT   49   45
+CONECT   50   46
+CONECT   51   37   53   55
+CONECT   52   38   54   56
+CONECT   53   51
+CONECT   54   52
+CONECT   55   51   39
+CONECT   56   52   40
+CONECT   57   39
+CONECT   58   40
+CONECT   61   67
+CONECT   62   68
+CONECT   67   61   69
+CONECT   68   62   70
+CONECT   69   67   75   83
+CONECT   70   68   76   84
+CONECT   71   73   89   87
+CONECT   72   74   90   88
+CONECT   73   71
+CONECT   74   72
+CONECT   75   69   77
+CONECT   76   70   78
+CONECT   77   75   79   81
+CONECT   78   76   80   82
+CONECT   79   77
+CONECT   80   78
+CONECT   81   77
+CONECT   82   78
+CONECT   83   69   85   87
+CONECT   84   70   86   88
+CONECT   85   83
+CONECT   86   84
+CONECT   87   83   71
+CONECT   88   84   72
+CONECT   89   71
+CONECT   90   72
+END

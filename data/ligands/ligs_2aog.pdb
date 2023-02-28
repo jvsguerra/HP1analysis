@@ -1,0 +1,210 @@
+CRYST1   58.020   85.893   46.614  90.00  90.00  90.00 P 21 21 2     1
+HETATM    1  N   2NC A 400      23.334  25.101  18.741  1.00 10.35           N  
+ANISOU    1  N   2NC A 400     1336   1215   1382    283   -441    -29       N  
+HETATM    2  CA  2NC A 400      22.782  26.417  18.728  1.00  8.60           C  
+ANISOU    2  CA  2NC A 400     1044   1021   1202    169    -64   -227       C  
+HETATM    3  CA1 2NC A 400      19.629  25.518  16.732  1.00  6.30           C  
+ANISOU    3  CA1 2NC A 400      969    599    828     -6    116     11       C  
+HETATM    4  CA2A2NC A 400      17.290  23.812  19.168  0.71  8.05           C  
+ANISOU    4  CA2A2NC A 400     1335    805    920     34    357     16       C  
+HETATM    5  CA2B2NC A 400      17.350  23.822  19.233  0.29  9.41           C  
+ANISOU    5  CA2B2NC A 400     1428   1197    952   -801    302   -346       C  
+HETATM    6  CA3 2NC A 400      14.257  23.018  17.103  1.00  9.19           C  
+ANISOU    6  CA3 2NC A 400      899   1115   1476   -227     75    162       C  
+HETATM    7  CA4 2NC A 400      13.022  19.723  18.499  1.00  6.84           C  
+ANISOU    7  CA4 2NC A 400      967    668    964    -30    211    -31       C  
+HETATM    8  CA5 2NC A 400      10.299  17.413  17.279  1.00  8.11           C  
+ANISOU    8  CA5 2NC A 400     1256    833    991    -98    198   -252       C  
+HETATM    9  C   2NC A 400      23.409  24.338  19.837  1.00 12.49           C  
+ANISOU    9  C   2NC A 400     1632   1581   1534    317   -290    218       C  
+HETATM   10  O   2NC A 400      22.958  24.750  20.910  1.00 18.90           O  
+ANISOU   10  O   2NC A 400     3239   2032   1910    642    596    641       O  
+HETATM   11  CB  2NC A 400      23.718  27.406  18.015  1.00 10.01           C  
+ANISOU   11  CB  2NC A 400     1064   1332   1408   -148   -236    -98       C  
+HETATM   12  CB1 2NC A 400      19.776  25.316  15.216  1.00  8.12           C  
+ANISOU   12  CB1 2NC A 400     1299    970    815   -203     -5    -63       C  
+HETATM   13  CB2A2NC A 400      17.591  23.984  20.661  0.71  9.03           C  
+ANISOU   13  CB2A2NC A 400     1270   1121   1038   -298    180    118       C  
+HETATM   14  CB2B2NC A 400      17.671  24.092  20.709  0.29  9.33           C  
+ANISOU   14  CB2B2NC A 400     1426   1314    807    132    125    122       C  
+HETATM   15  CB3A2NC A 400      14.196  22.942  15.596  0.42 13.04           C  
+ANISOU   15  CB3A2NC A 400     1562   1846   1545   -549   -469    170       C  
+HETATM   16  CB3B2NC A 400      13.983  22.943  15.611  0.42 12.60           C  
+ANISOU   16  CB3B2NC A 400     1682   1542   1564   -440   -204     -4       C  
+HETATM   17  CB3C2NC A 400      14.025  23.092  15.602  0.15 10.97           C  
+ANISOU   17  CB3C2NC A 400     1356   1323   1490   -384   -130    -63       C  
+HETATM   18  CB4 2NC A 400      13.386  19.564  19.951  1.00  7.63           C  
+ANISOU   18  CB4 2NC A 400     1005    847   1046   -123    173   -110       C  
+HETATM   19  CB5 2NC A 400      10.239  17.185  15.779  1.00 10.52           C  
+ANISOU   19  CB5 2NC A 400     1834   1161   1003   -141     37   -122       C  
+HETATM   20  CG A2NC A 400      19.051  24.006  21.053  0.71  9.28           C  
+ANISOU   20  CG A2NC A 400     1172   1009   1344    -40    198    -46       C  
+HETATM   21  CG B2NC A 400      19.076  23.959  21.211  0.29  8.39           C  
+ANISOU   21  CG B2NC A 400     1245   1033    909     96    308     61       C  
+HETATM   22  CG1 2NC A 400      20.893  26.179  14.601  1.00  9.46           C  
+ANISOU   22  CG1 2NC A 400     1620   1031    944   -214    343     14       C  
+HETATM   23  CG2 2NC A 400      25.084  27.494  18.717  1.00 12.07           C  
+ANISOU   23  CG2 2NC A 400     1254   1497   1834   -129   -518     -8       C  
+HETATM   24 CG21 2NC A 400      18.471  25.501  14.511  1.00  9.59           C  
+ANISOU   24 CG21 2NC A 400     1411   1064   1169    108   -260   -216       C  
+HETATM   25  CG3A2NC A 400      12.943  22.434  14.947  0.42 10.25           C  
+ANISOU   25  CG3A2NC A 400     1260   1195   1441   -735    103     79       C  
+HETATM   26  CG3B2NC A 400      12.842  22.063  15.182  0.42  9.93           C  
+ANISOU   26  CG3B2NC A 400     1165   1358   1251    -33     93   -148       C  
+HETATM   27  CG3C2NC A 400      14.324  21.821  14.834  0.15 12.26           C  
+ANISOU   27  CG3C2NC A 400     1414   1533   1710   -173    148   -174       C  
+HETATM   28  CG4 2NC A 400      13.193  18.175  20.510  1.00  7.42           C  
+ANISOU   28  CG4 2NC A 400     1005    813   1003    -90     82    -59       C  
+HETATM   29  CG5 2NC A 400      10.170  18.462  14.997  1.00 11.79           C  
+ANISOU   29  CG5 2NC A 400     2213   1120   1145     -9   -170   -104       C  
+HETATM   30  OG1 2NC A 400      23.899  26.976  16.659  1.00 11.47           O  
+ANISOU   30  OG1 2NC A 400     1163   1840   1356   -258   -173     19       O  
+HETATM   31  CD A2NC A 400      19.775  22.731  20.708  0.71 13.47           C  
+ANISOU   31  CD A2NC A 400     1891   1387   1841    314    670   -156       C  
+HETATM   32  CD B2NC A 400      19.819  22.764  20.721  0.29 11.70           C  
+ANISOU   32  CD B2NC A 400     1675   1207   1562    290    565    -20       C  
+HETATM   33  CD1 2NC A 400      20.656  27.673  14.674  1.00  9.73           C  
+ANISOU   33  CD1 2NC A 400     1759   1070    869   -179     18    203       C  
+HETATM   34  CD2A2NC A 400      13.102  21.010  14.443  0.42 11.43           C  
+ANISOU   34  CD2A2NC A 400     1591   1499   1252   -208    320   -153       C  
+HETATM   35  CD2B2NC A 400      12.659  21.896  13.685  0.42 14.20           C  
+ANISOU   35  CD2B2NC A 400     2094   1952   1348     89     82   -663       C  
+HETATM   36  CD2C2NC A 400      13.351  21.624  13.688  0.15 11.79           C  
+ANISOU   36  CD2C2NC A 400     1615   1532   1333   -170    306   -310       C  
+HETATM   37  CD3 2NC A 400      11.785  17.893  20.998  1.00  7.50           C  
+ANISOU   37  CD3 2NC A 400     1056    804    988    -19    155     31       C  
+HETATM   38  CD4 2NC A 400      10.335  18.212  13.521  1.00 14.62           C  
+ANISOU   38  CD4 2NC A 400     3248   1136   1172     52    421     -8       C  
+HETATM   39  CE A2NC A 400      19.180  21.492  21.335  0.71 15.26           C  
+ANISOU   39  CE A2NC A 400     2148    941   2707    315    303   -190       C  
+HETATM   40  CE B2NC A 400      19.302  21.427  21.171  0.29 11.82           C  
+ANISOU   40  CE B2NC A 400     2447   1016   1028    118    -83   -164       C  
+HETATM   41  CE1A2NC A 400      14.202  20.832  13.425  0.42 13.76           C  
+ANISOU   41  CE1A2NC A 400     1031   2366   1830     80    323    203       C  
+HETATM   42  CE1B2NC A 400      13.739  21.054  13.041  0.42 18.41           C  
+ANISOU   42  CE1B2NC A 400     3776   1405   1812    994     48   -889       C  
+HETATM   43  CE1C2NC A 400      12.117  22.508  13.833  0.15 16.58           C  
+ANISOU   43  CE1C2NC A 400     1807   2758   1737    517    352    790       C  
+HETATM   44  NE  2NC A 400       9.786  19.360  12.780  1.00 13.68           N  
+ANISOU   44  NE  2NC A 400     2890   1301   1007     18     64   -186       N  
+HETATM   45  NE2 2NC A 400      11.356  16.649  20.950  1.00  9.29           N  
+ANISOU   45  NE2 2NC A 400     1291    910   1328   -228    316   -208       N  
+HETATM   46  OE1 2NC A 400      11.095  18.794  21.386  1.00 11.93           O  
+ANISOU   46  OE1 2NC A 400     1438    839   2255    105    774    171       O  
+HETATM   47  CZ  2NC A 400       9.598  19.384  11.491  1.00 13.93           C  
+ANISOU   47  CZ  2NC A 400     3122   1268    904   -382    360   -145       C  
+HETATM   48  CH3 2NC A 400      24.073  23.018  19.686  1.00 15.68           C  
+ANISOU   48  CH3 2NC A 400     2229   1222   2505    212   -592    307       C  
+HETATM   49  NH1 2NC A 400       9.997  18.323  10.780  1.00 21.10           N  
+ANISOU   49  NH1 2NC A 400     5393   1440   1183    -73    865   -263       N  
+HETATM   50  NH2 2NC A 400       9.052  20.444  10.890  1.00 14.93           N  
+ANISOU   50  NH2 2NC A 400     2850   1701   1122   -307     64     50       N  
+HETATM   51  C1  2NC A 400      21.394  26.521  18.060  1.00  7.50           C  
+ANISOU   51  C1  2NC A 400      974    724   1151    -30     53     18       C  
+HETATM   52  N1  2NC A 400      20.916  25.482  17.412  1.00  6.87           N  
+ANISOU   52  N1  2NC A 400     1018    801    792     99     91    -79       N  
+HETATM   53  O1  2NC A 400      20.773  27.599  18.171  1.00  7.38           O  
+ANISOU   53  O1  2NC A 400     1105    737    962     72   -138   -139       O  
+HETATM   54  C2  2NC A 400      18.762  24.461  17.358  1.00  7.71           C  
+ANISOU   54  C2  2NC A 400     1217    869    845   -155    227   -140       C  
+HETATM   55  N2 A2NC A 400      18.093  24.763  18.410  0.71  7.36           N  
+ANISOU   55  N2 A2NC A 400     1129    837    831    -12    205   -120       N  
+HETATM   56  N2 B2NC A 400      18.084  24.796  18.424  0.29  7.64           N  
+ANISOU   56  N2 B2NC A 400     1306    794    804    -71    259    -51       N  
+HETATM   57  O2  2NC A 400      18.727  23.302  16.893  1.00 12.34           O  
+ANISOU   57  O2  2NC A 400     2556    713   1420   -420    870   -320       O  
+HETATM   58  C3 A2NC A 400      15.793  23.920  18.892  0.71  9.10           C  
+ANISOU   58  C3 A2NC A 400     1284   1387    787   -368    331    -37       C  
+HETATM   59  C3 B2NC A 400      15.848  23.838  18.917  0.29 10.24           C  
+ANISOU   59  C3 B2NC A 400     1520   1346   1025   -535     63    254       C  
+HETATM   60  N3  2NC A 400      15.474  23.752  17.508  1.00 12.93           N  
+ANISOU   60  N3  2NC A 400     1732   2043   1138   -865     49    -93       N  
+HETATM   61  O3  2NC A 400      15.296  20.892  17.524  1.00 13.25           O  
+ANISOU   61  O3  2NC A 400     1094   1462   2477    279    567    301       O  
+HETATM   62  C4  2NC A 400      14.274  21.600  17.598  1.00 10.99           C  
+ANISOU   62  C4  2NC A 400     1186   1144   1846     65    751    232       C  
+HETATM   63  N4  2NC A 400      13.140  21.109  18.052  1.00  8.02           N  
+ANISOU   63  N4  2NC A 400     1168    755   1126    -48    354    -76       N  
+HETATM   64  O4  2NC A 400      10.617  19.911  18.443  1.00  7.43           O  
+ANISOU   64  O4  2NC A 400     1000    919    906    -16    124   -177       O  
+HETATM   65  C5  2NC A 400      11.615  19.245  18.149  1.00  6.91           C  
+ANISOU   65  C5  2NC A 400     1084    697    845    -24    164     57       C  
+HETATM   66  N5  2NC A 400      11.537  18.024  17.661  1.00  8.09           N  
+ANISOU   66  N5  2NC A 400     1325    772    978   -164    173   -107       N  
+HETATM   67  O5  2NC A 400      11.137  15.249  17.986  1.00  9.94           O  
+ANISOU   67  O5  2NC A 400     1539    826   1413   -141    350    -65       O  
+HETATM   68  C6  2NC A 400      10.198  16.041  17.947  1.00  8.39           C  
+ANISOU   68  C6  2NC A 400     1366    880    940   -232     29   -239       C  
+HETATM   69  N6  2NC A 400       8.943  15.737  18.471  1.00 10.32           N  
+ANISOU   69  N6  2NC A 400     1353   1209   1357   -377     62    -71       N  
+CONECT    1    2    9
+CONECT    2    1   11   51
+CONECT    3   12   54   52
+CONECT    4   13   58   55
+CONECT    5   14   59   56
+CONECT    6   15   16   17   62
+CONECT    6   60
+CONECT    7   18   65   63
+CONECT    8   19   68   66
+CONECT    9    1   10   48
+CONECT   10    9
+CONECT   11    2   23   30
+CONECT   12    3   22   24
+CONECT   13    4   20
+CONECT   14    5   21
+CONECT   15    6   25
+CONECT   16    6   26
+CONECT   17    6   27
+CONECT   18    7   28
+CONECT   19    8   29
+CONECT   20   13   31
+CONECT   21   14   32
+CONECT   22   12   33
+CONECT   23   11
+CONECT   24   12
+CONECT   25   15   34
+CONECT   26   16   35
+CONECT   27   17   36
+CONECT   28   18   37
+CONECT   29   19   38
+CONECT   30   11
+CONECT   31   20   39
+CONECT   32   21   40
+CONECT   33   22
+CONECT   34   25   41
+CONECT   35   26   42
+CONECT   36   27   43
+CONECT   37   28   45   46
+CONECT   38   29   44
+CONECT   39   31
+CONECT   40   32
+CONECT   41   34
+CONECT   42   35
+CONECT   43   36
+CONECT   44   38   47
+CONECT   45   37
+CONECT   46   37
+CONECT   47   44   49   50
+CONECT   48    9
+CONECT   49   47
+CONECT   50   47
+CONECT   51    2   52   53
+CONECT   52   51    3
+CONECT   53   51
+CONECT   54    3   55   56   57
+CONECT   55   54    4
+CONECT   56   54    5
+CONECT   57   54
+CONECT   58    4   60
+CONECT   59    5   60
+CONECT   60   58   59    6
+CONECT   61   62
+CONECT   62    6   61   63
+CONECT   63   62    7
+CONECT   64   65
+CONECT   65    7   64   66
+CONECT   66   65    8
+CONECT   67   68
+CONECT   68    8   67   69
+CONECT   69   68
+END

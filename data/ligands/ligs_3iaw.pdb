@@ -1,0 +1,218 @@
+CRYST1   51.539   57.988   61.071  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  N  A2NC A 204       5.049   3.952   8.095  0.35 11.92           N  
+HETATM    2  N  B2NC A 204       5.735  -8.568  16.576  0.65 10.61           N  
+HETATM    3  CA A2NC A 204       4.395   4.781   9.113  0.35 11.85           C  
+HETATM    4  CA B2NC A 204       6.156  -7.934  17.837  0.65  8.53           C  
+HETATM    5  CA1A2NC A 204       3.413   1.964  11.468  0.35 10.22           C  
+HETATM    6  CA1B2NC A 204       7.499  -4.755  16.169  0.65  7.28           C  
+HETATM    7  CA2A2NC A 204       6.175   0.867  13.513  0.35  9.20           C  
+HETATM    8  CA2B2NC A 204       4.555  -2.409  15.610  0.65  8.22           C  
+HETATM    9  CA3A2NC A 204       4.697  -1.948  15.403  0.35 10.44           C  
+HETATM   10  CA3B2NC A 204       6.029   0.530  13.973  0.65  9.64           C  
+HETATM   11  CA4A2NC A 204       7.411  -4.761  15.910  0.35  9.76           C  
+HETATM   12  CA4B2NC A 204       3.334   1.760  11.515  0.65  5.76           C  
+HETATM   13  CA5A2NC A 204       7.296  -8.190  17.541  0.35 12.21           C  
+HETATM   14  CA5B2NC A 204       3.461   4.446   8.890  0.65 11.43           C  
+HETATM   15  C  A2NC A 204       6.361   4.006   7.870  0.35 12.07           C  
+HETATM   16  C  B2NC A 204       4.460  -8.759  16.181  0.65 12.10           C  
+HETATM   17  O  A2NC A 204       7.149   4.433   8.704  0.35 12.61           O  
+HETATM   18  O  B2NC A 204       3.483  -8.488  16.904  0.65 14.68           O  
+HETATM   19  CB A2NC A 204       3.110   5.385   8.545  0.35 12.42           C  
+HETATM   20  CB B2NC A 204       7.173  -8.813  18.533  0.65  8.81           C  
+HETATM   21  CB1A2NC A 204       2.116   1.218  11.112  0.35  9.84           C  
+HETATM   22  CB1B2NC A 204       8.798  -4.844  15.332  0.65  8.32           C  
+HETATM   23  CB2A2NC A 204       7.492   1.636  13.613  0.35  8.88           C  
+HETATM   24  CB2B2NC A 204       3.204  -2.737  16.212  0.65  8.21           C  
+HETATM   25  CB3A2NC A 204       3.639  -2.736  14.658  0.35 11.28           C  
+HETATM   26  CB3B2NC A 204       7.389   0.673  13.293  0.65  8.44           C  
+HETATM   27  CB4A2NC A 204       8.792  -4.085  15.922  0.35  9.59           C  
+HETATM   28  CB4B2NC A 204       1.938   1.371  12.019  0.65  6.01           C  
+HETATM   29  CB5A2NC A 204       6.197  -9.207  17.189  0.35 12.38           C  
+HETATM   30  CB5B2NC A 204       4.884   4.494   8.300  0.65 12.27           C  
+HETATM   31  CG A2NC A 204       8.047   2.045  12.238  0.35  9.32           C  
+HETATM   32  CG B2NC A 204       2.982  -4.195  16.614  0.65  8.92           C  
+HETATM   33  CG1A2NC A 204       1.104   2.154  10.441  0.35 10.22           C  
+HETATM   34  CG1B2NC A 204       9.809  -5.838  15.941  0.65  7.82           C  
+HETATM   35  CG2A2NC A 204       3.463   6.456   7.545  0.35 11.57           C  
+HETATM   36  CG2B2NC A 204       6.498 -10.130  18.903  0.65  7.44           C  
+HETATM   37 CG21A2NC A 204       1.506   0.618  12.357  0.35 11.02           C  
+HETATM   38 CG21B2NC A 204       9.460  -3.453  15.175  0.65  7.40           C  
+HETATM   39  CG3A2NC A 204       3.126  -3.826  15.585  0.35 10.54           C  
+HETATM   40  CG3B2NC A 204       7.458   2.003  12.531  0.65 13.97           C  
+HETATM   41  CG4A2NC A 204      10.001  -5.023  15.720  0.35 10.10           C  
+HETATM   42  CG4B2NC A 204       0.826   1.511  10.958  0.65  4.01           C  
+HETATM   43  CG5A2NC A 204       4.739  -8.712  17.232  0.35 13.51           C  
+HETATM   44  CG5B2NC A 204       5.026   4.714   6.808  0.65 14.88           C  
+HETATM   45  OG1A2NC A 204       2.338   4.357   7.913  0.35 14.09           O  
+HETATM   46  OG1B2NC A 204       8.253  -9.086  17.632  0.65 12.03           O  
+HETATM   47  CD A2NC A 204       7.688   1.050  11.134  0.35  7.17           C  
+HETATM   48  CD B2NC A 204       2.834  -5.065  15.350  0.65 10.54           C  
+HETATM   49  CD1A2NC A 204       0.776   3.448  11.222  0.35 10.34           C  
+HETATM   50  CD1B2NC A 204      10.322  -5.426  17.292  0.65  9.71           C  
+HETATM   51  CD2A2NC A 204       3.513  -5.196  15.034  0.35 10.39           C  
+HETATM   52  CD2B2NC A 204       8.019   1.832  11.124  0.65 16.97           C  
+HETATM   53  CD3A2NC A 204      10.465  -5.657  17.010  0.35 10.37           C  
+HETATM   54  CD3B2NC A 204       0.198   2.881  10.916  0.65  4.47           C  
+HETATM   55  CD4A2NC A 204       3.979  -9.030  15.912  0.35 13.45           C  
+HETATM   56  CD4B2NC A 204       5.169   3.402   6.009  0.65 16.31           C  
+HETATM   57  CE A2NC A 204       8.815   0.092  10.809  0.35  2.68           C  
+HETATM   58  CE B2NC A 204       1.972  -4.393  14.298  0.65 10.77           C  
+HETATM   59  CE1A2NC A 204       2.541  -5.615  13.950  0.35 12.64           C  
+HETATM   60  CE1B2NC A 204       9.325   1.063  11.098  0.65 17.36           C  
+HETATM   61  NE A2NC A 204       2.937 -10.071  15.936  0.35 13.75           N  
+HETATM   62  NE B2NC A 204       6.033   3.534   4.830  0.65 16.85           N  
+HETATM   63  NE2A2NC A 204      11.027  -6.866  16.932  0.35  9.19           N  
+HETATM   64  NE2B2NC A 204      -0.350   3.261   9.780  0.65  7.57           N  
+HETATM   65  OE1A2NC A 204      10.316  -5.064  18.071  0.35 12.01           O  
+HETATM   66  OE1B2NC A 204       0.220   3.591  11.889  0.65  7.74           O  
+HETATM   67  CZ A2NC A 204       3.068 -11.332  16.360  0.35 13.60           C  
+HETATM   68  CZ B2NC A 204       5.874   4.420   3.838  0.65 16.28           C  
+HETATM   69  CH3A2NC A 204       6.831   3.307   6.627  0.35 11.76           C  
+HETATM   70  CH3B2NC A 204       4.347  -9.614  14.929  0.65 12.89           C  
+HETATM   71  NH1A2NC A 204       4.201 -11.788  16.876  0.35 13.74           N  
+HETATM   72  NH1B2NC A 204       4.881   5.301   3.854  0.65 16.91           N  
+HETATM   73  NH2A2NC A 204       2.028 -12.153  16.283  0.35 13.91           N  
+HETATM   74  NH2B2NC A 204       6.728   4.428   2.807  0.65 17.16           N  
+HETATM   75  C1 A2NC A 204       4.002   4.051  10.395  0.35 11.54           C  
+HETATM   76  C1 B2NC A 204       6.783  -6.545  17.702  0.65  8.33           C  
+HETATM   77  N1 A2NC A 204       3.914   2.733  10.333  0.35 11.00           N  
+HETATM   78  N1 B2NC A 204       6.941  -6.065  16.472  0.65  6.94           N  
+HETATM   79  O1 A2NC A 204       3.738   4.690  11.423  0.35 11.17           O  
+HETATM   80  O1 B2NC A 204       7.138  -5.931  18.713  0.65  7.19           O  
+HETATM   81  C2 A2NC A 204       4.434   0.957  12.033  0.35 10.06           C  
+HETATM   82  C2 B2NC A 204       6.426  -3.919  15.447  0.65  8.21           C  
+HETATM   83  N2 A2NC A 204       5.175   1.683  12.858  0.35  8.92           N  
+HETATM   84  N2 B2NC A 204       5.619  -3.199  16.214  0.65  8.54           N  
+HETATM   85  O2 A2NC A 204       4.786  -0.043  11.396  0.35  9.55           O  
+HETATM   86  O2 B2NC A 204       6.260  -3.942  14.207  0.65  7.80           O  
+HETATM   87  C3 A2NC A 204       5.657   0.518  14.889  0.35  9.33           C  
+HETATM   88  C3 B2NC A 204       4.846  -0.919  15.657  0.65  9.17           C  
+HETATM   89  N3 A2NC A 204       4.795  -0.644  14.786  0.35  9.51           N  
+HETATM   90  N3 B2NC A 204       5.994  -0.677  14.795  0.65  6.44           N  
+HETATM   91  O3 A2NC A 204       6.535  -3.018  14.284  0.35  9.32           O  
+HETATM   92  O3 B2NC A 204       4.537  -0.567  12.450  0.65 10.87           O  
+HETATM   93  C4 A2NC A 204       6.040  -2.660  15.353  0.35  9.58           C  
+HETATM   94  C4 B2NC A 204       4.938   0.490  12.918  0.65  8.28           C  
+HETATM   95  N4 A2NC A 204       6.349  -3.761  16.046  0.35  9.69           N  
+HETATM   96  N4 B2NC A 204       4.343   1.617  12.576  0.65  6.90           N  
+HETATM   97  O4 A2NC A 204       7.205  -5.480  18.202  0.35 10.03           O  
+HETATM   98  O4 B2NC A 204       3.412   4.168  11.670  0.65  5.37           O  
+HETATM   99  C5 A2NC A 204       7.304  -5.812  17.013  0.35 10.29           C  
+HETATM  100  C5 B2NC A 204       3.358   3.170  10.954  0.65  6.48           C  
+HETATM  101  N5 A2NC A 204       7.310  -7.077  16.612  0.35 11.35           N  
+HETATM  102  N5 B2NC A 204       3.307   3.228   9.631  0.65  8.69           N  
+HETATM  103  O5 A2NC A 204       9.049  -9.284  16.327  0.35 11.33           O  
+HETATM  104  O5 B2NC A 204       2.055   3.596   7.110  0.65 12.77           O  
+HETATM  105  C6 A2NC A 204       8.653  -8.872  17.426  0.35 13.20           C  
+HETATM  106  C6 B2NC A 204       2.364   4.569   7.829  0.65 14.77           C  
+HETATM  107  N6 A2NC A 204       9.472  -8.868  18.479  0.35 13.59           N  
+HETATM  108  N6 B2NC A 204       1.542   5.613   7.904  0.65 13.32           N  
+CONECT    1    3   15
+CONECT    2    4   16
+CONECT    3    1   19   75
+CONECT    4    2   20   76
+CONECT    5   21   81   77
+CONECT    6   22   82   78
+CONECT    7   23   87   83
+CONECT    8   24   88   84
+CONECT    9   25   93   89
+CONECT   10   26   94   90
+CONECT   11   27   99   95
+CONECT   12   28  100   96
+CONECT   13   29  105  101
+CONECT   14   30  106  102
+CONECT   15    1   17   69
+CONECT   16    2   18   70
+CONECT   17   15
+CONECT   18   16
+CONECT   19    3   35   45
+CONECT   20    4   36   46
+CONECT   21    5   33   37
+CONECT   22    6   34   38
+CONECT   23    7   31
+CONECT   24    8   32
+CONECT   25    9   39
+CONECT   26   10   40
+CONECT   27   11   41
+CONECT   28   12   42
+CONECT   29   13   43
+CONECT   30   14   44
+CONECT   31   23   47
+CONECT   32   24   48
+CONECT   33   21   49
+CONECT   34   22   50
+CONECT   35   19
+CONECT   36   20
+CONECT   37   21
+CONECT   38   22
+CONECT   39   25   51
+CONECT   40   26   52
+CONECT   41   27   53
+CONECT   42   28   54
+CONECT   43   29   55
+CONECT   44   30   56
+CONECT   45   19
+CONECT   46   20
+CONECT   47   31   57
+CONECT   48   32   58
+CONECT   49   33
+CONECT   50   34
+CONECT   51   39   59
+CONECT   52   40   60
+CONECT   53   41   63   65
+CONECT   54   42   64   66
+CONECT   55   43   61
+CONECT   56   44   62
+CONECT   57   47
+CONECT   58   48
+CONECT   59   51
+CONECT   60   52
+CONECT   61   55   67
+CONECT   62   56   68
+CONECT   63   53
+CONECT   64   54
+CONECT   65   53
+CONECT   66   54
+CONECT   67   61   71   73
+CONECT   68   62   72   74
+CONECT   69   15
+CONECT   70   16
+CONECT   71   67
+CONECT   72   68
+CONECT   73   67
+CONECT   74   68
+CONECT   75    3   77   79
+CONECT   76    4   78   80
+CONECT   77   75    5
+CONECT   78   76    6
+CONECT   79   75
+CONECT   80   76
+CONECT   81    5   83   85
+CONECT   82    6   84   86
+CONECT   83   81    7
+CONECT   84   82    8
+CONECT   85   81
+CONECT   86   82
+CONECT   87    7   89
+CONECT   88    8   90
+CONECT   89   87    9
+CONECT   90   88   10
+CONECT   91   93
+CONECT   92   94
+CONECT   93    9   91   95
+CONECT   94   10   92   96
+CONECT   95   93   11
+CONECT   96   94   12
+CONECT   97   99
+CONECT   98  100
+CONECT   99   11   97  101
+CONECT  100   12   98  102
+CONECT  101   99   13
+CONECT  102  100   14
+CONECT  103  105
+CONECT  104  106
+CONECT  105   13  103  107
+CONECT  106   14  104  108
+CONECT  107  105
+CONECT  108  106
+END
