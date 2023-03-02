@@ -1,9 +1,9 @@
 # pyKVFinder results
 
 [FILES]
-INPUT = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/data/unbounded/1d4h.pdb"
-OUTPUT = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/results/unbounded/1d4h/1d4h.KVFinder.output.pdb"
-HYDROPATHY = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/results/unbounded/1d4h/1d4h.EisenbergWeiss.pdb"
+INPUT = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/data/bounded/1d4h.pdb"
+OUTPUT = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/results/bounded/1d4h/1d4h.KVFinder.output.pdb"
+HYDROPATHY = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/results/bounded/1d4h/1d4h.EisenbergWeiss.pdb"
 
 [PARAMETERS]
 STEP = 0.6

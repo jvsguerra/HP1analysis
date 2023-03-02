@@ -9,43 +9,42 @@ HYDROPATHY = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/results/bounded/
 STEP = 0.6
 
 [RESULTS.VOLUME]
-KAA = 490.1
+KAA = 1047.6
 
 [RESULTS.AREA]
-KAA = 342.96
+KAA = 624.33
 
 [RESULTS.MAX_DEPTH]
 KAA = 8.59
 
 [RESULTS.AVG_DEPTH]
-KAA = 3.42
+KAA = 3.53
 
 [RESULTS.AVG_HYDROPATHY]
-KAA = -0.52
+KAA = -0.41
 EisenbergWeiss = [ -1.42, 2.6,]
 
 [RESULTS.RESIDUES]
-KAA = [ [ "25", "A", "ASP",], [ "27", "A", "GLY",], [ "28", "A", "ALA",], [ "29", "A", "ASP",], [ "30", "A", "ASP",], [ "31", "A", "THR",], [ "32", "A", "VAL",], [ "45", "A", "LYS",], [ "46", "A", "MET",], [ "47", "A", "ILE",], [ "48", "A", "GLY",], [ "49", "A", "GLY",], [ "50", "A", "ILE",], [ "53", "A", "PHE",], [ "76", "A", "LEU",], [ "84", "A", "ILE",], [ "8", "B", "ARG",], [ "10", "B", "LEU",], [ "23", "B", "LEU",], [ "25", "B", "ASP",], [ "50", "B", "ILE",], [ "80", "B", "THR",], [ "81", "B", "PRO",], [ "82", "B", "VAL",], [ "84", "B", "ILE",], [ "202", "C", "LEU",], [ "203", "C", "GLN",],]
+KAA = [ [ "8", "A", "ARG",], [ "10", "A", "LEU",], [ "23", "A", "LEU",], [ "25", "A", "ASP",], [ "27", "A", "GLY",], [ "28", "A", "ALA",], [ "29", "A", "ASP",], [ "30", "A", "ASP",], [ "31", "A", "THR",], [ "32", "A", "VAL",], [ "45", "A", "LYS",], [ "46", "A", "MET",], [ "47", "A", "ILE",], [ "48", "A", "GLY",], [ "49", "A", "GLY",], [ "50", "A", "ILE",], [ "53", "A", "PHE",], [ "76", "A", "LEU",], [ "81", "A", "PRO",], [ "82", "A", "VAL",], [ "84", "A", "ILE",], [ "8", "B", "ARG",], [ "10", "B", "LEU",], [ "23", "B", "LEU",], [ "25", "B", "ASP",], [ "27", "B", "GLY",], [ "28", "B", "ALA",], [ "29", "B", "ASP",], [ "30", "B", "ASP",], [ "32", "B", "VAL",], [ "45", "B", "LYS",], [ "46", "B", "MET",], [ "47", "B", "ILE",], [ "48", "B", "GLY",], [ "49", "B", "GLY",], [ "50", "B", "ILE",], [ "53", "B", "PHE",], [ "76", "B", "LEU",], [ "80", "B", "THR",], [ "81", "B", "PRO",], [ "82", "B", "VAL",], [ "84", "B", "ILE",],]
 
 [RESULTS.FREQUENCY.KAA.RESIDUES]
-ALA = 1
-ARG = 1
-ASP = 4
-GLN = 1
-GLY = 3
-ILE = 5
-LEU = 4
-LYS = 1
-MET = 1
-PHE = 1
-PRO = 1
+ALA = 2
+ARG = 2
+ASP = 6
+GLY = 6
+ILE = 6
+LEU = 6
+LYS = 2
+MET = 2
+PHE = 2
+PRO = 2
 THR = 2
-VAL = 2
+VAL = 4
 
 [RESULTS.FREQUENCY.KAA.CLASS]
-R1 = 16
-R2 = 1
+R1 = 26
+R2 = 2
 R3 = 4
-R4 = 4
-R5 = 2
+R4 = 6
+R5 = 4
 RX = 0

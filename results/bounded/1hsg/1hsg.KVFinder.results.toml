@@ -21,7 +21,7 @@ KAA = 7.91
 KAA = 3.55
 
 [RESULTS.AVG_HYDROPATHY]
-KAA = -0.38
+KAA = -0.36
 EisenbergWeiss = [ -1.42, 2.6,]
 
 [RESULTS.RESIDUES]

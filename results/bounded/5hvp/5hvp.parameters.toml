@@ -1,7 +1,7 @@
 [FILES]
-INPUT = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/data/unbounded/4hvp.pdb"
-BASE_NAME = "4hvp"
-OUTPUT_DIRECTORY = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/results/unbounded/4hvp"
+INPUT = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/data/bounded/5hvp.pdb"
+BASE_NAME = "5hvp"
+OUTPUT_DIRECTORY = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/results/bounded/5hvp"
 DICTIONARY = "/home/ABTLUS/joao.guerra/.local/lib/python3.10/site-packages/pyKVFinder/data/vdw.dat"
 
 [SETTINGS]
@@ -24,7 +24,7 @@ LIGAND_CUTOFF = 5.0
 REMOVAL_DISTANCE = 2.4
 
 [SETTINGS.BOX]
-p1 = [ 25.25, 33.51, 4.38,]
-p2 = [ 105.88, 33.51, 4.38,]
-p3 = [ 25.25, 97.96, 4.38,]
-p4 = [ 25.25, 33.51, 57.88,]
+p1 = [ 25.98, 34.94, 3.51,]
+p2 = [ 105.91, 34.94, 3.51,]
+p3 = [ 25.98, 97.41, 3.51,]
+p4 = [ 25.98, 34.94, 60.77,]

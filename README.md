@@ -6,7 +6,11 @@ Total number of structures: 239
 
 - X-ray structures: 236
   - Bound state: 217
-  - Unbound state: 19
+    - Open state: 14 (3ots, 3oty, 3ou1, 3ou3, 3ou4, 3oua, 3oub, 3ouc, 3oud, 3r0w, 3r0y, 4eyr, 4l1a, 4yoa)
+    - Closed state: 203
+  - Unbound state: 18
+    - Open state: 15
+    - Closed state: 3 (1g6l, 1lv1, 3ixo)
 
 ## Cavity analysis
 
