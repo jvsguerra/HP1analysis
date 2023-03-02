@@ -1,8 +1,8 @@
 [FILES]
-INPUT = "/home/jvsguerra/remote-repos/HP1analysis/data/unbounded/3ixo.pdb"
+INPUT = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/data/unbounded/3ixo.pdb"
 BASE_NAME = "3ixo"
-OUTPUT_DIRECTORY = "/home/jvsguerra/remote-repos/HP1analysis/results/unbounded/3ixo"
-DICTIONARY = "/home/jvsguerra/.local/lib/python3.10/site-packages/pyKVFinder/data/vdw.dat"
+OUTPUT_DIRECTORY = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/results/unbounded/3ixo"
+DICTIONARY = "/home/ABTLUS/joao.guerra/.local/lib/python3.10/site-packages/pyKVFinder/data/vdw.dat"
 
 [SETTINGS]
 STEP = 0.6
@@ -19,12 +19,12 @@ PROBE_IN = 1.4
 PROBE_OUT = 12.0
 
 [SETTINGS.CUTOFFS]
-VOLUME_CUTOFF = 500.0
+VOLUME_CUTOFF = 300.0
 LIGAND_CUTOFF = 5.0
 REMOVAL_DISTANCE = 2.4
 
 [SETTINGS.BOX]
-p1 = [ -76.38, 43.02, -12.26,]
-p2 = [ -8.66, 43.02, -12.26,]
-p3 = [ -76.38, 105.16, -12.26,]
-p4 = [ -76.38, 43.02, 69.76,]
+p1 = [ 26.05, 32.34, 2.56,]
+p2 = [ 105.98, 32.34, 2.56,]
+p3 = [ 26.05, 97.89, 2.56,]
+p4 = [ 26.05, 32.34, 59.3,]

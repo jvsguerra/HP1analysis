@@ -1,8 +1,8 @@
 [FILES]
-INPUT = "/home/jvsguerra/remote-repos/HP1analysis/data/unbounded/1hhp.pdb"
+INPUT = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/data/unbounded/1hhp.pdb"
 BASE_NAME = "1hhp"
-OUTPUT_DIRECTORY = "/home/jvsguerra/remote-repos/HP1analysis/results/unbounded/1hhp"
-DICTIONARY = "/home/jvsguerra/.local/lib/python3.10/site-packages/pyKVFinder/data/vdw.dat"
+OUTPUT_DIRECTORY = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/results/unbounded/1hhp"
+DICTIONARY = "/home/ABTLUS/joao.guerra/.local/lib/python3.10/site-packages/pyKVFinder/data/vdw.dat"
 
 [SETTINGS]
 STEP = 0.6
@@ -19,12 +19,12 @@ PROBE_IN = 1.4
 PROBE_OUT = 12.0
 
 [SETTINGS.CUTOFFS]
-VOLUME_CUTOFF = 500.0
+VOLUME_CUTOFF = 300.0
 LIGAND_CUTOFF = 5.0
 REMOVAL_DISTANCE = 2.4
 
 [SETTINGS.BOX]
-p1 = [ 12.76, 12.76, -41.16,]
-p2 = [ 73.87, 12.76, -41.16,]
-p3 = [ 12.76, 73.87, -41.16,]
-p4 = [ 12.76, 12.76, 41.16,]
+p1 = [ 24.73, 33.13, 2.65,]
+p2 = [ 107.14, 33.13, 2.65,]
+p3 = [ 24.73, 96.78, 2.65,]
+p4 = [ 24.73, 33.13, 59.93,]

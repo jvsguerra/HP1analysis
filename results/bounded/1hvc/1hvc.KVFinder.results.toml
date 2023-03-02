@@ -1,41 +1,39 @@
 # pyKVFinder results
 
 [FILES]
-INPUT = "/home/jvsguerra/remote-repos/HP1analysis/data/bounded/1hvc.pdb"
-OUTPUT = "/home/jvsguerra/remote-repos/HP1analysis/results/bounded/1hvc/1hvc.KVFinder.output.pdb"
-HYDROPATHY = "/home/jvsguerra/remote-repos/HP1analysis/results/bounded/1hvc/1hvc.EisenbergWeiss.pdb"
+INPUT = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/data/bounded/1hvc.pdb"
+OUTPUT = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/results/bounded/1hvc/1hvc.KVFinder.output.pdb"
+HYDROPATHY = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/results/bounded/1hvc/1hvc.EisenbergWeiss.pdb"
 
 [PARAMETERS]
 STEP = 0.6
 
 [RESULTS.VOLUME]
-KAA = 935.71
+KAA = 975.89
 
 [RESULTS.AREA]
-KAA = 622.26
+KAA = 633.88
 
 [RESULTS.MAX_DEPTH]
-KAA = 8.76
+KAA = 8.88
 
 [RESULTS.AVG_DEPTH]
-KAA = 3.15
+KAA = 3.2
 
 [RESULTS.AVG_HYDROPATHY]
-KAA = -0.43
+KAA = -0.45
 EisenbergWeiss = [ -1.42, 2.6,]
 
 [RESULTS.RESIDUES]
-KAA = [ [ "8", "A", "ARG",], [ "10", "A", "LEU",], [ "23", "A", "LEU",], [ "25", "A", "ASP",], [ "27", "A", "GLY",], [ "28", "A", "ALA",], [ "29", "A", "ASP",], [ "30", "A", "ASP",], [ "32", "A", "VAL",], [ "45", "A", "LYS",], [ "46", "A", "MET",], [ "47", "A", "ILE",], [ "48", "A", "GLY",], [ "49", "A", "GLY",], [ "50", "A", "ILE",], [ "51", "A", "GLY",], [ "52", "A", "GLY",], [ "53", "A", "PHE",], [ "54", "A", "ILE",], [ "58", "A", "GLN",], [ "76", "A", "LEU",], [ "79", "A", "PRO",], [ "80", "A", "THR",], [ "81", "A", "PRO",], [ "82", "A", "VAL",], [ "84", "A", "ILE",],]
+KAA = [ [ "8", "A", "ARG",], [ "10", "A", "LEU",], [ "23", "A", "LEU",], [ "25", "A", "ASP",], [ "27", "A", "GLY",], [ "28", "A", "ALA",], [ "29", "A", "ASP",], [ "30", "A", "ASP",], [ "32", "A", "VAL",], [ "46", "A", "MET",], [ "47", "A", "ILE",], [ "48", "A", "GLY",], [ "49", "A", "GLY",], [ "50", "A", "ILE",], [ "51", "A", "GLY",], [ "52", "A", "GLY",], [ "53", "A", "PHE",], [ "54", "A", "ILE",], [ "76", "A", "LEU",], [ "79", "A", "PRO",], [ "80", "A", "THR",], [ "81", "A", "PRO",], [ "82", "A", "VAL",], [ "84", "A", "ILE",],]
 
 [RESULTS.FREQUENCY.KAA.RESIDUES]
 ALA = 1
 ARG = 1
 ASP = 3
-GLN = 1
 GLY = 5
 ILE = 4
 LEU = 3
-LYS = 1
 MET = 1
 PHE = 1
 PRO = 2
@@ -45,7 +43,7 @@ VAL = 2
 [RESULTS.FREQUENCY.KAA.CLASS]
 R1 = 17
 R2 = 1
-R3 = 3
+R3 = 2
 R4 = 3
-R5 = 2
+R5 = 1
 RX = 0

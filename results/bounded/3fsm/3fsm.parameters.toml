@@ -1,8 +1,8 @@
 [FILES]
-INPUT = "/home/jvsguerra/remote-repos/HP1analysis/data/bounded/3fsm.pdb"
+INPUT = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/data/bounded/3fsm.pdb"
 BASE_NAME = "3fsm"
-OUTPUT_DIRECTORY = "/home/jvsguerra/remote-repos/HP1analysis/results/bounded/3fsm"
-DICTIONARY = "/home/jvsguerra/.local/lib/python3.10/site-packages/pyKVFinder/data/vdw.dat"
+OUTPUT_DIRECTORY = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/results/bounded/3fsm"
+DICTIONARY = "/home/ABTLUS/joao.guerra/.local/lib/python3.10/site-packages/pyKVFinder/data/vdw.dat"
 
 [SETTINGS]
 STEP = 0.6
@@ -19,12 +19,12 @@ PROBE_IN = 1.4
 PROBE_OUT = 12.0
 
 [SETTINGS.CUTOFFS]
-VOLUME_CUTOFF = 500.0
+VOLUME_CUTOFF = 300.0
 LIGAND_CUTOFF = 5.0
 REMOVAL_DISTANCE = 2.4
 
 [SETTINGS.BOX]
-p1 = [ -36.33, -29.7, -14.87,]
-p2 = [ 45.15, -29.7, -14.87,]
-p3 = [ -36.33, 30.79, -14.87,]
-p4 = [ -36.33, -29.7, 49.57,]
+p1 = [ 25.12, 33.04, 1.21,]
+p2 = [ 109.38, 33.04, 1.21,]
+p3 = [ 25.12, 100.64, 1.21,]
+p4 = [ 25.12, 33.04, 59.58,]

@@ -1,8 +1,8 @@
 [FILES]
-INPUT = "/home/jvsguerra/remote-repos/HP1analysis/data/bounded/3t3c.pdb"
+INPUT = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/data/bounded/3t3c.pdb"
 BASE_NAME = "3t3c"
-OUTPUT_DIRECTORY = "/home/jvsguerra/remote-repos/HP1analysis/results/bounded/3t3c"
-DICTIONARY = "/home/jvsguerra/.local/lib/python3.10/site-packages/pyKVFinder/data/vdw.dat"
+OUTPUT_DIRECTORY = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/results/bounded/3t3c"
+DICTIONARY = "/home/ABTLUS/joao.guerra/.local/lib/python3.10/site-packages/pyKVFinder/data/vdw.dat"
 
 [SETTINGS]
 STEP = 0.6
@@ -19,12 +19,12 @@ PROBE_IN = 1.4
 PROBE_OUT = 12.0
 
 [SETTINGS.CUTOFFS]
-VOLUME_CUTOFF = 500.0
+VOLUME_CUTOFF = 300.0
 LIGAND_CUTOFF = 5.0
 REMOVAL_DISTANCE = 2.4
 
 [SETTINGS.BOX]
-p1 = [ -41.78, -33.75, -53.51,]
-p2 = [ 36.61, -33.75, -53.51,]
-p3 = [ -41.78, 31.61, -53.51,]
-p4 = [ -41.78, -33.75, 13.09,]
+p1 = [ 25.82, 32.92, 2.37,]
+p2 = [ 106.11, 32.92, 2.37,]
+p3 = [ 25.82, 98.4, 2.37,]
+p4 = [ 25.82, 32.92, 60.14,]

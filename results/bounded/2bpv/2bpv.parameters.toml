@@ -1,8 +1,8 @@
 [FILES]
-INPUT = "/home/jvsguerra/remote-repos/HP1analysis/data/bounded/2bpv.pdb"
+INPUT = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/data/bounded/2bpv.pdb"
 BASE_NAME = "2bpv"
-OUTPUT_DIRECTORY = "/home/jvsguerra/remote-repos/HP1analysis/results/bounded/2bpv"
-DICTIONARY = "/home/jvsguerra/.local/lib/python3.10/site-packages/pyKVFinder/data/vdw.dat"
+OUTPUT_DIRECTORY = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/results/bounded/2bpv"
+DICTIONARY = "/home/ABTLUS/joao.guerra/.local/lib/python3.10/site-packages/pyKVFinder/data/vdw.dat"
 
 [SETTINGS]
 STEP = 0.6
@@ -19,12 +19,12 @@ PROBE_IN = 1.4
 PROBE_OUT = 12.0
 
 [SETTINGS.CUTOFFS]
-VOLUME_CUTOFF = 500.0
+VOLUME_CUTOFF = 300.0
 LIGAND_CUTOFF = 5.0
 REMOVAL_DISTANCE = 2.4
 
 [SETTINGS.BOX]
-p1 = [ -14.62, -15.25, -35.09,]
-p2 = [ 46.0, -15.25, -35.09,]
-p3 = [ -14.62, 59.68, -35.09,]
-p4 = [ -14.62, -15.25, 42.35,]
+p1 = [ 25.3, 35.78, 3.59,]
+p2 = [ 108.56, 35.78, 3.59,]
+p3 = [ 25.3, 97.32, 3.59,]
+p4 = [ 25.3, 35.78, 60.09,]

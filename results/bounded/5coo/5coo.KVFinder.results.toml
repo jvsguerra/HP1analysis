@@ -1,27 +1,27 @@
 # pyKVFinder results
 
 [FILES]
-INPUT = "/home/jvsguerra/remote-repos/HP1analysis/data/bounded/5coo.pdb"
-OUTPUT = "/home/jvsguerra/remote-repos/HP1analysis/results/bounded/5coo/5coo.KVFinder.output.pdb"
-HYDROPATHY = "/home/jvsguerra/remote-repos/HP1analysis/results/bounded/5coo/5coo.EisenbergWeiss.pdb"
+INPUT = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/data/bounded/5coo.pdb"
+OUTPUT = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/results/bounded/5coo/5coo.KVFinder.output.pdb"
+HYDROPATHY = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/results/bounded/5coo/5coo.EisenbergWeiss.pdb"
 
 [PARAMETERS]
 STEP = 0.6
 
 [RESULTS.VOLUME]
-KAA = 717.34
+KAA = 791.64
 
 [RESULTS.AREA]
-KAA = 433.5
+KAA = 477.29
 
 [RESULTS.MAX_DEPTH]
-KAA = 7.0
+KAA = 7.25
 
 [RESULTS.AVG_DEPTH]
-KAA = 2.78
+KAA = 3.0
 
 [RESULTS.AVG_HYDROPATHY]
-KAA = -0.48
+KAA = -0.43
 EisenbergWeiss = [ -1.42, 2.6,]
 
 [RESULTS.RESIDUES]

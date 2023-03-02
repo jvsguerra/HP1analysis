@@ -1,0 +1,30 @@
+[FILES]
+INPUT = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/data/bounded/6pu8.pdb"
+BASE_NAME = "6pu8"
+OUTPUT_DIRECTORY = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/results/bounded/6pu8"
+DICTIONARY = "/home/ABTLUS/joao.guerra/.local/lib/python3.10/site-packages/pyKVFinder/data/vdw.dat"
+
+[SETTINGS]
+STEP = 0.6
+
+[SETTINGS.MODES]
+BOX_ADJUSTMENT = false
+LIGAND_ADJUSTMENT = false
+DEPTH = true
+SURFACE = "SES"
+IGNORE_BACKBONE = false
+
+[SETTINGS.PROBES]
+PROBE_IN = 1.4
+PROBE_OUT = 12.0
+
+[SETTINGS.CUTOFFS]
+VOLUME_CUTOFF = 300.0
+LIGAND_CUTOFF = 5.0
+REMOVAL_DISTANCE = 2.4
+
+[SETTINGS.BOX]
+p1 = [ 25.65, 33.95, 0.7,]
+p2 = [ 107.72, 33.95, 0.7,]
+p3 = [ 25.65, 97.63, 0.7,]
+p4 = [ 25.65, 33.95, 61.32,]

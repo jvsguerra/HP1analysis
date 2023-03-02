@@ -1,49 +1,51 @@
 # pyKVFinder results
 
 [FILES]
-INPUT = "/home/jvsguerra/remote-repos/HP1analysis/data/bounded/1daz.pdb"
-OUTPUT = "/home/jvsguerra/remote-repos/HP1analysis/results/bounded/1daz/1daz.KVFinder.output.pdb"
-HYDROPATHY = "/home/jvsguerra/remote-repos/HP1analysis/results/bounded/1daz/1daz.EisenbergWeiss.pdb"
+INPUT = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/data/bounded/1daz.pdb"
+OUTPUT = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/results/bounded/1daz/1daz.KVFinder.output.pdb"
+HYDROPATHY = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/results/bounded/1daz/1daz.EisenbergWeiss.pdb"
 
 [PARAMETERS]
 STEP = 0.6
 
 [RESULTS.VOLUME]
-KAA = 888.41
+KAA = 946.08
 
 [RESULTS.AREA]
-KAA = 632.17
+KAA = 657.68
 
 [RESULTS.MAX_DEPTH]
-KAA = 7.64
+KAA = 7.89
 
 [RESULTS.AVG_DEPTH]
-KAA = 3.17
+KAA = 3.38
 
 [RESULTS.AVG_HYDROPATHY]
-KAA = -0.35
+KAA = -0.39
 EisenbergWeiss = [ -1.42, 2.6,]
 
 [RESULTS.RESIDUES]
-KAA = [ [ "8", "C", "ARG",], [ "9", "C", "PRO",], [ "23", "C", "LEU",], [ "25", "C", "ASP",], [ "26", "C", "THR",], [ "27", "C", "GLY",], [ "28", "C", "ALA",], [ "29", "C", "ASP",], [ "30", "C", "ASP",], [ "32", "C", "VAL",], [ "47", "C", "ILE",], [ "48", "C", "GLY",], [ "49", "C", "GLY",], [ "50", "C", "ILE",], [ "76", "C", "LEU",], [ "81", "C", "PRO",], [ "82", "C", "VAL",], [ "84", "C", "ILE",], [ "87", "C", "ARG",], [ "108", "D", "ARG",], [ "110", "D", "LEU",], [ "121", "D", "GLU",], [ "122", "D", "ALA",], [ "123", "D", "LEU",], [ "125", "D", "ASP",], [ "126", "D", "THR",], [ "127", "D", "GLY",], [ "128", "D", "ALA",], [ "129", "D", "ASP",], [ "130", "D", "ASP",], [ "132", "D", "VAL",], [ "147", "D", "ILE",], [ "148", "D", "GLY",], [ "149", "D", "GLY",], [ "150", "D", "ILE",], [ "176", "D", "LEU",], [ "180", "D", "THR",], [ "181", "D", "PRO",], [ "182", "D", "VAL",], [ "183", "D", "ASN",], [ "184", "D", "ILE",], [ "187", "D", "ARG",],]
+KAA = [ [ "8", "C", "ARG",], [ "23", "C", "LEU",], [ "25", "C", "ASP",], [ "26", "C", "THR",], [ "27", "C", "GLY",], [ "28", "C", "ALA",], [ "29", "C", "ASP",], [ "30", "C", "ASP",], [ "32", "C", "VAL",], [ "45", "C", "ILE",], [ "46", "C", "MET",], [ "47", "C", "ILE",], [ "48", "C", "GLY",], [ "49", "C", "GLY",], [ "50", "C", "ILE",], [ "53", "C", "PHE",], [ "76", "C", "LEU",], [ "81", "C", "PRO",], [ "82", "C", "VAL",], [ "84", "C", "ILE",], [ "87", "C", "ARG",], [ "108", "D", "ARG",], [ "109", "D", "PRO",], [ "123", "D", "LEU",], [ "125", "D", "ASP",], [ "127", "D", "GLY",], [ "128", "D", "ALA",], [ "129", "D", "ASP",], [ "130", "D", "ASP",], [ "132", "D", "VAL",], [ "145", "D", "ILE",], [ "147", "D", "ILE",], [ "148", "D", "GLY",], [ "149", "D", "GLY",], [ "150", "D", "ILE",], [ "153", "D", "PHE",], [ "158", "D", "GLN",], [ "174", "D", "THR",], [ "176", "D", "LEU",], [ "180", "D", "THR",], [ "181", "D", "PRO",], [ "182", "D", "VAL",], [ "184", "D", "ILE",], [ "188", "D", "ASN",],]
 
 [RESULTS.FREQUENCY.KAA.RESIDUES]
-ALA = 3
-ARG = 4
+ALA = 2
+ARG = 3
 ASN = 1
 ASP = 6
-GLU = 1
+GLN = 1
 GLY = 6
-ILE = 6
-LEU = 5
+ILE = 8
+LEU = 4
+MET = 1
+PHE = 2
 PRO = 3
 THR = 3
 VAL = 4
 
 [RESULTS.FREQUENCY.KAA.CLASS]
 R1 = 27
-R2 = 0
-R3 = 4
-R4 = 7
-R5 = 4
+R2 = 2
+R3 = 6
+R4 = 6
+R5 = 3
 RX = 0

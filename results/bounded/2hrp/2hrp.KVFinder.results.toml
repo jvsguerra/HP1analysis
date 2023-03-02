@@ -1,0 +1,83 @@
+# pyKVFinder results
+
+[FILES]
+INPUT = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/data/bounded/2hrp.pdb"
+OUTPUT = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/results/bounded/2hrp/2hrp.KVFinder.output.pdb"
+HYDROPATHY = "/home/ABTLUS/joao.guerra/remote-repos/HP1analysis/results/bounded/2hrp/2hrp.EisenbergWeiss.pdb"
+
+[PARAMETERS]
+STEP = 0.6
+
+[RESULTS.VOLUME]
+KAA = 576.94
+KAB = 514.73
+
+[RESULTS.AREA]
+KAA = 422.54
+KAB = 389.08
+
+[RESULTS.MAX_DEPTH]
+KAA = 4.84
+KAB = 9.77
+
+[RESULTS.AVG_DEPTH]
+KAA = 1.29
+KAB = 1.97
+
+[RESULTS.AVG_HYDROPATHY]
+KAA = 0.2
+KAB = -0.1
+EisenbergWeiss = [ -1.42, 2.6,]
+
+[RESULTS.RESIDUES]
+KAA = [ [ "1", "H", "ASP",], [ "2", "H", "VAL",], [ "3", "H", "GLN",], [ "4", "H", "LEU",], [ "5", "H", "VAL",], [ "6", "H", "GLU",], [ "96", "H", "GLY",], [ "97", "H", "GLY",], [ "98", "H", "ILE",], [ "100", "H", "VAL",], [ "101", "H", "ASP",], [ "102", "H", "TYR",], [ "103", "H", "TRP",], [ "104", "H", "GLY",], [ "105", "H", "GLN",], [ "106", "H", "GLY",], [ "37", "L", "GLN",], [ "38", "L", "GLN",], [ "39", "L", "LYS",], [ "42", "L", "GLN",], [ "43", "L", "PRO",], [ "44", "L", "PRO",], [ "45", "L", "LYS",], [ "46", "L", "LEU",], [ "47", "L", "LEU",], [ "49", "L", "TYR",], [ "55", "L", "GLY",], [ "56", "L", "SER",], [ "57", "L", "GLY",], [ "58", "L", "VAL",], [ "59", "L", "PRO",], [ "61", "L", "ARG",], [ "62", "L", "PHE",], [ "79", "L", "GLU",], [ "81", "L", "ASP",], [ "82", "L", "ASP",],]
+KAB = [ [ "31", "H", "ARG",], [ "32", "H", "PHE",], [ "33", "H", "GLY",], [ "35", "H", "HIS",], [ "50", "H", "TYR",], [ "52", "H", "SER",], [ "56", "H", "THR",], [ "58", "H", "TYR",], [ "95", "H", "SER",], [ "96", "H", "GLY",], [ "97", "H", "GLY",], [ "99", "H", "GLU",], [ "100", "H", "ARG",], [ "100", "H", "ASP",], [ "100", "H", "GLY",], [ "100", "H", "THR",], [ "100", "H", "TYR",], [ "100", "H", "VAL",], [ "100", "H", "MET",], [ "27", "L", "TYR",], [ "28", "L", "TYR",], [ "30", "L", "LYS",], [ "32", "L", "PHE",], [ "34", "L", "ASN",], [ "89", "L", "GLN",], [ "91", "L", "SER",], [ "92", "L", "LYS",], [ "93", "L", "GLU",], [ "94", "L", "VAL",], [ "96", "L", "TRP",],]
+
+[RESULTS.FREQUENCY.KAA.RESIDUES]
+ARG = 1
+ASP = 4
+GLN = 5
+GLU = 2
+GLY = 6
+ILE = 1
+LEU = 3
+LYS = 2
+PHE = 1
+PRO = 3
+SER = 1
+TRP = 1
+TYR = 2
+VAL = 4
+
+[RESULTS.FREQUENCY.KAA.CLASS]
+R1 = 17
+R2 = 4
+R3 = 6
+R4 = 6
+R5 = 3
+RX = 0
+
+[RESULTS.FREQUENCY.KAB.RESIDUES]
+ARG = 2
+ASN = 1
+ASP = 1
+GLN = 1
+GLU = 2
+GLY = 4
+HIS = 1
+LYS = 2
+MET = 1
+PHE = 2
+SER = 3
+THR = 2
+TRP = 1
+TYR = 5
+VAL = 2
+
+[RESULTS.FREQUENCY.KAB.CLASS]
+R1 = 6
+R2 = 8
+R3 = 8
+R4 = 3
+R5 = 5
+RX = 0
