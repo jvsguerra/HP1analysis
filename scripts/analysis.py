@@ -82,7 +82,7 @@ colors = {
 data["Color"] = data["State"].map(colors)
 
 ## Plot violinplot
-fig, ax = plt.subplots(1, 1, figsize=(6, 10), clear=True, tight_layout=True)
+fig, ax = plt.subplots(1, 1, figsize=(10, 6), clear=True, tight_layout=True)
 vp = ax.violinplot(
     [
         data["Volume"][data["State"] == "Bounded"],
@@ -93,6 +93,7 @@ vp = ax.violinplot(
     showmedians=False,
     showextrema=False,
     widths=0.3,
+    vert=False
 )
 
 for pc, color in zip(vp["bodies"], COLORBLIND):
@@ -126,16 +127,17 @@ bp = ax.boxplot(
         markersize=7,
     ),
     widths=0.1,
+    vert=False
 )
 # Conditional coloring
 for patch, color in zip(bp["boxes"], COLORBLIND):
     patch.set_facecolor(color)
 
-ax.set_ylabel("Volume (Å³)", size=20)
-ax.set_xlabel(None)
-ax.set_ylim(0, 2500)
-ax.set_xlim(0.75, 1.75)
-ax.set_yticks(numpy.arange(0, 2400, step=250))
+ax.set_xlabel("Volume (Å³)", size=20)
+ax.set_ylabel(None)
+ax.set_xlim(0, 2500)
+ax.set_ylim(0.75, 1.75)
+ax.set_xticks(numpy.arange(0, 2400, step=250))
 ax.tick_params(axis="x", labelsize=15)
 ax.tick_params(axis="y", labelsize=15)
 ax.grid(which="major", axis="both", linestyle="-", alpha=0.75)
